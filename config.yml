@@ -33,14 +33,15 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.1
+version: 0.1.2
 metadata:
   last_request_data:
     generation_method: create-update
-    update_with_pull_request: true
+    update_with_pull_request: false
     website_repository_creation_method: create-using-template
     name: Remote Team Tools
-    prompt: Generate a directory of productivity apps for remote teams
+    prompt: Please one line description please. update all items to have one line
+      descriptions
     providers:
       pipeline: agent-pipeline
       search: tavily
@@ -48,6 +49,7 @@ metadata:
       contentExtractor: local-content-extractor
     pluginConfig:
       target_keywords:
+        - remote team tools
         - remote team tools
         - remote team tools
       capture_screenshots: false
