@@ -1,0 +1,35 @@
+name: Google Meet
+description: A secure video conferencing tool integrated with Google Workspace,
+  offering real-time collaboration, screen sharing, and extended meeting
+  durations for remote teams.
+source_url: https://meet.google.com
+category: Team Communication
+tags:
+  - video-conferencing
+  - google-workspace
+  - collaboration
+markdown: >-
+  ## Features
+
+
+  - Integration with Google Workspace (Gmail, Calendar, Drive)
+
+  - Secure video meetings with up to 100 participants (free plan)
+
+  - Screen sharing and real-time document collaboration
+
+  - Extended meeting durations with paid plans
+
+  - Meeting recordings stored in Google Drive
+
+
+  ## Pricing
+
+
+  - Free plan: 1-hour meetings, 100 participants
+
+  - Workplace Essentials Plan: $8/user/month (300-hour max, 150 participants,
+  cloud storage)
+brand: Google
+brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Meet_icon_%282020%29.svg
+updated_at: 2026-02-13 14:48

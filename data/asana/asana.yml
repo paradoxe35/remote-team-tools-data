@@ -1,0 +1,28 @@
+name: Asana
+description: Asana is a project management tool that helps remote teams track
+  tasks, manage workloads, and collaborate efficiently with real-time updates
+  and customizable workflows.
+source_url: https://asana.com
+category: Project Management
+tags:
+  - task-tracking
+  - workflow-automation
+  - team-collaboration
+markdown: |-
+  ## Features
+
+  - Task and project tracking with custom fields
+  - Team collaboration and workload management
+  - Real-time updates and timeline views
+  - Integration with Microsoft Teams and Slack
+  - Goal setting and progress tracking
+
+  ## Pricing
+
+  - Free plan: Basic task management
+  - Premium: $10.8/month/user
+  - Business: $24.8/month/user
+  - Enterprise: Custom pricing
+brand: Asana
+brand_logo_url: https://asana.com/images/logos/asana.svg
+updated_at: 2026-02-13 14:48

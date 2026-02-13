@@ -1,0 +1,52 @@
+name: Slack
+description: >-
+  Slack is a channel-based communication platform that streamlines professional
+  teamwork with real-time messaging, integrations, and collaboration tools for
+  remote teams.
+
+
+  Organizes communication into project-specific channels, supports file sharing,
+  and integrates with major business apps like Google Workspace and Microsoft
+  Teams.
+source_url: https://slack.com
+category: Team Communication
+tags:
+  - chat
+  - integrations
+  - remote-work
+featured: true
+markdown: >-
+  ## Features
+
+
+  - Channel-based team communication (e.g. #project-name, #onboarding)
+
+  - Direct messaging and group chats
+
+  - File sharing and collaborative document editing
+
+  - Integrations with +2,200 apps (Office 365, Google Drive, etc.)
+
+  - Searchable message history
+
+  - Voice/video calls
+
+
+  ## Pricing
+
+
+  - Free plan: Basic features for unlimited users
+
+  - Plus plan: $6.67/user/month (enhanced search, advanced permissions)
+
+  - Enterprise plan: Custom pricing for large teams
+
+
+  ## Best For
+
+
+  Quick decisions, real-time collaboration, and keeping remote teams connected
+  through centralized communication.
+brand: Slack
+brand_logo_url: https://a.slack-edge.com/bv1-1/71/93/2a-3a/sfw__plus.png
+updated_at: 2026-02-13 14:48

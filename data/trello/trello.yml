@@ -1,0 +1,27 @@
+name: Trello
+description: Trello is a visual project management tool that uses boards, lists,
+  and cards to help remote teams organize tasks, track progress, and collaborate
+  in real-time.
+source_url: https://trello.com
+category: Task Management
+tags:
+  - agile
+  - visual-boards
+  - Microsoft-Teams-integration
+markdown: |-
+  ## Features
+
+  - Visual boards, lists, and cards for task organization
+  - Drag-and-drop interface for task prioritization
+  - Real-time notifications and team collaboration
+  - Integration with Microsoft Teams and other productivity apps
+  - Custom fields and checklist support
+
+  ## Pricing
+
+  - Free plan with basic features
+  - Business Class: $7.75/user/month
+  - Enterprise plan with custom pricing
+brand: Trello
+brand_logo_url: https://images.trello.com/256x256.png
+updated_at: 2026-02-13 14:48

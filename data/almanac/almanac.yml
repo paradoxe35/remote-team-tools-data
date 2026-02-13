@@ -1,0 +1,28 @@
+name: Almanac
+description: Almanac is a document management platform offering cloud-based
+  storage, real-time collaboration, and advanced analytics for remote teams to
+  manage documentation efficiently.
+source_url: https://www.getalmanac.com
+category: Document Management
+tags:
+  - cloud-storage
+  - real-time-collaboration
+  - analytics
+markdown: |-
+  ## Features
+
+  - Cloud storage for global document access
+  - Real-time editing and asynchronous collaboration
+  - Document version tracking and analytics
+  - Bi-directional integrations with other tools
+  - Activity feed and thread commenting
+
+  ## Pricing
+
+  - Free Plan: Basic features for individuals
+  - Team Plan: $49/month (up to 10 users)
+  - Pro Plan: $129/month (up to 30 users)
+  - Enterprise: Custom pricing
+brand: Almanac
+brand_logo_url: https://cdn.prod.website-files.com/5f46d1d4a0d948ce3438f8d0/63bc479515c6ad2edaec1b3a_almanac-logo-landscape.png
+updated_at: 2026-02-13 14:48

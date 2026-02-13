@@ -1,0 +1,18 @@
+name: Workday Peakon Employee Voice
+description: Measures and enhances employee engagement through integrated
+  surveys, providing instant insights and integration with Workday tools.
+source_url: https://www.peakon.com/
+category: Employee Engagement
+tags:
+  - survey
+  - engagement
+  - Microsoft Teams
+markdown: |-
+  ## Features
+
+  - Integrated surveys within Microsoft Teams
+  - Clean survey templates
+  - Instant insights into employee engagement
+  - Integrations with other Workday tools
+brand: Workday Peakon
+updated_at: 2026-02-13 14:48
