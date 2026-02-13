@@ -1,0 +1,76 @@
+name: Loom
+description: An AI-powered video messaging platform for asynchronous
+  communication, allowing teams to record and share screen and camera videos
+  with automatic transcription, summaries, and chapter generation. Part of the
+  Atlassian suite, Loom reduces meeting overhead for distributed teams.
+source_url: https://www.loom.com
+category: Communication Tools
+tags:
+  - video-messaging
+  - asynchronous-communication
+  - ai-powered
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Loom is a video messaging platform that enables remote teams to communicate
+  asynchronously through screen and camera recordings. Powered by AI, Loom
+  automatically generates titles, summaries, chapters, and tasks from your
+  videos, ensuring clear communication and reducing the need for synchronous
+  meetings.
+
+
+  ## Key Features
+
+
+  - **Screen & Camera Recording**: Record your screen, camera, or both
+  simultaneously with high-quality capture
+
+  - **Multiple Recording Options**: Chrome extension, desktop app, or mobile app
+  for recording from any device
+
+  - **AI Automatic Processing**: AI Suite adds context automatically including
+  titles, summaries, chapters, and action items
+
+  - **Transcription & Chapters**: Automatic speech-to-text with searchable
+  chapters for easy navigation
+
+  - **Interactive Playback**: Viewers can quickly consume and respond to video
+  messages without watching the entire duration
+
+  - **Integrations**: Seamless integration with Slack, Google Drive, Notion,
+  Jira, Confluence, and other work tools
+
+  - **Atlassian Integration**: Native integration with Jira and Confluence for
+  engineering teams
+
+  - **Smart Search**: Search across all your recorded videos by content,
+  transcript, or metadata
+
+  - **Recording Analytics**: Track video engagement and viewer interactions
+
+
+  ## Impact
+
+
+  Loom customers recorded 93 million videos in 2025, reducing the need for an
+  estimated 245 million meetings.
+
+
+  ## Pricing
+
+
+  - **Free Plan**: Basic video recording and sharing with standard features
+
+  - **Standard ($12.50/month)**: Unlimited video duration, custom branding,
+  advanced sharing options
+
+  - **Pro ($25/month)**: Team collaboration, workspace analytics, priority
+  support
+
+  - **Enterprise**: Custom pricing for large-scale deployments with advanced
+  security and compliance
+brand: Atlassian
+brand_logo_url: https://www.atlassian.com/dam/jcr:e348b265-6585-4380-8170-182540caa29b/atlassian-logo-large.png
+updated_at: 2026-02-13 15:33
