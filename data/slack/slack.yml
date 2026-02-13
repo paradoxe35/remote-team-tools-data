@@ -1,7 +1,6 @@
 name: Slack
-description: Slack is a real-time messaging and collaboration platform for
-  remote teams with channels, direct messages, and integrations with over 2,500
-  apps.
+description: Real-time messaging platform with channels, direct messages, and
+  2,500+ app integrations.
 source_url: https://slack.com
 category: Communication Tools
 tags:
@@ -50,4 +49,4 @@ markdown: >-
   security features
 brand: Slack Technologies
 brand_logo_url: https://a.slack-edge.com/8c8667dfeba6/slack-icon.png
-updated_at: 2026-02-13 15:09
+updated_at: 2026-02-13 15:24

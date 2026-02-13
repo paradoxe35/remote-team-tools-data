@@ -1,6 +1,6 @@
 name: Flock
-description: Team communication platform with chat, video conferencing, and app
-  integrations for remote collaboration.
+description: Team communication platform with chat, video conferencing, file
+  sharing, and app integrations.
 source_url: https://www.flock.com/
 category: Team Communication
 tags:
@@ -16,4 +16,4 @@ markdown: |-
   - Integration with various third-party apps and services
 brand: Flock
 brand_logo_url: https://flock.com/static/flock-logo.png
-updated_at: 2026-02-13 15:13
+updated_at: 2026-02-13 15:24

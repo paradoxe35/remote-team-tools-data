@@ -1,7 +1,6 @@
 name: Dropbox
-description: Dropbox is a secure cloud storage platform for remote teams,
-  offering file sharing, real-time collaboration, integration with 1000+ apps,
-  and offline access.
+description: Secure cloud storage with file sharing, real-time collaboration,
+  version control, and 1000+ integrations.
 source_url: https://www.dropbox.com
 category: Cloud Storage
 tags:
@@ -45,4 +44,4 @@ markdown: >-
   - **Dropbox Business**: Custom pricing for teams with admin controls
 
   - **Education**: Free tier for students and educators
-updated_at: 2026-02-13 15:09
+updated_at: 2026-02-13 15:24

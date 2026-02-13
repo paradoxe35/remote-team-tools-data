@@ -1,6 +1,6 @@
 name: ClickUp
-description: Customizable task management and collaboration platform with
-  Microsoft Teams integration.
+description: Customizable task management platform with scheduling, ClickApps,
+  and Microsoft Teams integration.
 source_url: https://clickup.com
 category: Task Management
 tags:
@@ -23,4 +23,4 @@ markdown: |-
   - Enterprise plan with custom pricing and advanced security features
 brand: ClickUp
 brand_logo_url: https://clickup.com/images/logo.svg
-updated_at: 2026-02-13 15:13
+updated_at: 2026-02-13 15:24

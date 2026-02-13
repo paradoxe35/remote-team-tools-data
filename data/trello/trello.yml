@@ -1,6 +1,6 @@
 name: Trello
-description: Visual project management tool with boards and cards for task
-  organization and real-time collaboration in remote teams.
+description: Visual project management with drag-and-drop cards, boards, and
+  real-time collaboration.
 source_url: https://trello.com
 category: Task Management
 tags:
@@ -23,4 +23,4 @@ markdown: |-
   - Enterprise plan with custom pricing
 brand: Trello
 brand_logo_url: https://images.trello.com/256x256.png
-updated_at: 2026-02-13 15:13
+updated_at: 2026-02-13 15:24

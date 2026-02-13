@@ -1,8 +1,6 @@
 name: Zoom
-description: Zoom is a video conferencing software that enables face-to-face
-  virtual meetings, real-time collaboration, and content sharing for remote
-  teams. It replicates the in-person meeting experience across different
-  locations.
+description: Video conferencing platform with screen sharing, recording, and
+  meeting transcription.
 source_url: https://zoom.us
 category: Team Communication
 tags:
@@ -36,4 +34,4 @@ markdown: >-
   - Enterprise plans available for larger teams
 brand: Zoom
 brand_logo_url: https://zoom.us/wp-content/uploads/2023/03/Zoom-Logo.png
-updated_at: 2026-02-13 14:48
+updated_at: 2026-02-13 15:24

@@ -1,6 +1,6 @@
 name: Linear
-description: Agile task and issue management tool with real-time synchronization
-  and keyboard-first interface for remote teams.
+description: Agile issue tracking with real-time sync, keyboard-first interface,
+  and cycle-based workload management.
 source_url: https://linear.app
 category: Task Management
 tags:
@@ -24,4 +24,4 @@ markdown: |-
   - Enterprise plans available
 brand: Linear
 brand_logo_url: https://linear.app/images/logo.svg
-updated_at: 2026-02-13 15:13
+updated_at: 2026-02-13 15:24

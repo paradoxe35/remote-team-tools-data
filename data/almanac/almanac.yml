@@ -1,6 +1,6 @@
 name: Almanac
-description: Cloud-based document management platform with real-time
-  collaboration for remote teams.
+description: Cloud document management with real-time collaboration, version
+  tracking, and integrations.
 source_url: https://www.getalmanac.com
 category: Document Management
 tags:
@@ -23,4 +23,4 @@ markdown: |-
   - Enterprise: Custom pricing
 brand: Almanac
 brand_logo_url: https://cdn.prod.website-files.com/5f46d1d4a0d948ce3438f8d0/63bc479515c6ad2edaec1b3a_almanac-logo-landscape.png
-updated_at: 2026-02-13 15:20
+updated_at: 2026-02-13 15:24

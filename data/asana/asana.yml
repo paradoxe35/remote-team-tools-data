@@ -1,6 +1,6 @@
 name: Asana
-description: Asana is a cloud-based project management tool for remote teams,
-  offering task tracking, collaboration, and integration with over 100+ apps.
+description: Cloud-based project management tool with task tracking, Kanban
+  boards, Gantt charts, and 100+ integrations.
 source_url: https://asana.com
 category: Project Management
 tags:
@@ -44,4 +44,4 @@ markdown: >-
   - **Business**: $16.67/user/month - Custom fields and enhanced security
 
   - **Enterprise**: Custom pricing - Full admin controls and SLAs
-updated_at: 2026-02-13 15:09
+updated_at: 2026-02-13 15:24
