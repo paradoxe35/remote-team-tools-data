@@ -33,7 +33,7 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.4
+version: 0.1.5
 metadata:
   last_request_data:
     generation_method: create-update
@@ -43,7 +43,7 @@ metadata:
     prompt: Please one line description please. update all items to have one line
       descriptions, e.g Clockify
     providers:
-      pipeline: agent-pipeline
+      pipeline: claude-code
       search: tavily
       ai: groq
       contentExtractor: local-content-extractor
