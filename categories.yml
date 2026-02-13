@@ -1,0 +1,10 @@
+- id: document-management
+  name: Document Management
+- id: project-management
+  name: Project Management
+- id: task-management
+  name: Task Management
+- id: team-communication
+  name: Team Communication
+- id: employee-engagement
+  name: Employee Engagement

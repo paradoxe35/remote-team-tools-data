@@ -1,0 +1,46 @@
+- id: cloud-storage
+  name: Cloud Storage
+- id: real-time-collaboration
+  name: Real Time Collaboration
+- id: analytics
+  name: Analytics
+- id: task-tracking
+  name: Task Tracking
+- id: workflow-automation
+  name: Workflow Automation
+- id: team-collaboration
+  name: Team Collaboration
+- id: customization
+  name: Customization
+- id: scheduling
+  name: Scheduling
+- id: microsoft-teams-integration
+  name: Microsoft Teams Integration
+- id: chat
+  name: Chat
+- id: video-conferencing
+  name: Video Conferencing
+- id: integrations
+  name: Integrations
+- id: google-workspace
+  name: Google Workspace
+- id: collaboration
+  name: Collaboration
+- id: agile
+  name: Agile
+- id: issue-tracking
+  name: Issue Tracking
+- id: project-management
+  name: Project Management
+- id: microsoft-365
+  name: Microsoft 365
+- id: remote-work
+  name: Remote Work
+- id: visual-boards
+  name: Visual Boards
+- id: survey
+  name: Survey
+- id: engagement
+  name: Engagement
+- id: microsoft-teams
+  name: Microsoft Teams
