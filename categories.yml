@@ -14,3 +14,7 @@
   name: Cloud Storage
 - id: communication-tools
   name: Communication Tools
+- id: scheduling-time-management
+  name: Scheduling & Time Management
+- id: workflow-automation
+  name: Workflow Automation

@@ -33,7 +33,7 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.6
+version: 0.1.7
 metadata:
   last_request_data:
     generation_method: create-update
@@ -48,6 +48,16 @@ metadata:
       contentExtractor: local-content-extractor
     pluginConfig:
       target_keywords:
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
         - remote team tools
         - remote team tools
         - remote team tools

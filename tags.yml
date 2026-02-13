@@ -74,3 +74,21 @@
   name: Whiteboarding
 - id: design-thinking
   name: Design Thinking
+- id: project-tracking
+  name: Project Tracking
+- id: automation
+  name: Automation
+- id: time-zone-management
+  name: Time Zone Management
+- id: meeting-transcription
+  name: Meeting Transcription
+- id: workforce-management
+  name: Workforce Management
+- id: productivity-monitoring
+  name: Productivity Monitoring
+- id: all-in-one
+  name: All In One
+- id: work-management
+  name: Work Management
+- id: workflow
+  name: Workflow
