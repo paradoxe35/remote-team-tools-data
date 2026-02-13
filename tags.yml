@@ -60,3 +60,17 @@
   name: Real Time
 - id: billing
   name: Billing
+- id: documentation
+  name: Documentation
+- id: video-messaging
+  name: Video Messaging
+- id: asynchronous-communication
+  name: Asynchronous Communication
+- id: ai-powered
+  name: Ai Powered
+- id: visual-collaboration
+  name: Visual Collaboration
+- id: whiteboarding
+  name: Whiteboarding
+- id: design-thinking
+  name: Design Thinking

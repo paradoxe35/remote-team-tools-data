@@ -33,15 +33,14 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.5
+version: 0.1.6
 metadata:
   last_request_data:
     generation_method: create-update
     update_with_pull_request: false
     website_repository_creation_method: create-using-template
     name: Remote Team Tools
-    prompt: Please one line description please. update all items to have one line
-      descriptions, e.g Clockify
+    prompt: Generate a directory of productivity apps for remote teams
     providers:
       pipeline: claude-code
       search: tavily
@@ -49,6 +48,11 @@ metadata:
       contentExtractor: local-content-extractor
     pluginConfig:
       target_keywords:
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
         - remote team tools
         - remote team tools
         - remote team tools
