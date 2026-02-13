@@ -1,0 +1,23 @@
+## Overview
+
+Lucidspark is a cloud-based virtual whiteboard platform created by Lucid Software specifically designed for brainstorming, ideation, and collaboration. It enables teams to visualize workflows, capture ideas, and turn them into action items.
+
+## Key Features
+
+- **Infinite Canvas**: Unlimited space to sketch, draw, and organize ideas visually
+- **Real-Time Collaboration**: Work simultaneously with team members across locations
+- **Smart Diagramming**: Built-in shapes, connectors, and formatting for creating diagrams
+- **Ready-Made Templates**: Pre-designed templates for standups, retrospectives, sprint planning, and design thinking
+- **Data Linking**: Connect ideas to actionable insights and track workflows
+- **Comments & @ Mentions**: Annotate boards and tag teammates for feedback
+- **Image Integration**: Add and organize images, screenshots, and assets on boards
+- **Export Options**: Download boards as images, PDFs, or export data for further analysis
+- **Voting & Ranking**: Prioritize ideas through voting and ranking features
+- **Mobile Support**: Access and edit boards on mobile devices
+
+## Pricing
+
+- **Individual Free**: Basic whiteboarding with limited storage and collaboration
+- **Team Free**: Limited collaborative features for small teams
+- **Team Pro**: $5-15/user/month (annually) with unlimited collaboration and storage
+- **Enterprise**: Custom pricing with advanced security and administrative controls

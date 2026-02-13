@@ -1,0 +1,20 @@
+## Overview
+
+FigJam is a free, web-based collaborative whiteboard tool by Figma that enables remote teams to brainstorm, ideate, and solve problems together in real-time. It combines the power of whiteboarding with structured templates and infinite canvas capabilities.
+
+## Key Features
+
+- **Interactive Whiteboard**: Infinite canvas for freeform collaboration with drawing, shapes, and text tools
+- **Sticky Notes**: Digital stickies for collecting ideas and feedback from team members
+- **Templates**: Pre-built templates for brainstorms, retrospectives, surveys, user research, and workflow mapping
+- **Real-Time Collaboration**: See teammates' cursors and changes instantly with live collaboration
+- **Figma Integration**: Seamlessly import and reference Figma design files within FigJam
+- **Interactive Components**: Voting, multiple-choice questions, and emoji reactions for engagement
+- **Export & Share**: Export work as images or PDFs, and share boards with customizable permissions
+- **Multiplayer Cursor**: Track team members' activities with visible cursors and names
+- **Comments & Threads**: Leave feedback and discuss ideas with inline commenting
+
+## Pricing
+
+- **Free**: Full access to FigJam with unlimited files, basic features, and 3GB file storage
+- **Paid Plans**: Coming with enhanced features and storage through Figma Professional or Organization subscriptions
