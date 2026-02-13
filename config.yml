@@ -33,7 +33,7 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.7
+version: 0.1.8
 metadata:
   last_request_data:
     generation_method: create-update
@@ -68,8 +68,33 @@ metadata:
         - remote team tools
         - remote team tools
         - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
+        - remote team tools
       capture_screenshots: false
     _processedPluginConfig: {}
+    config:
+      max_search_queries: 10
+      max_results_per_query: 5
+      max_pages_to_process: 10
+      ai_first_generation_enabled: false
   initial_prompt: Generate a directory of productivity apps for remote teams
   pr_update:
     branch: update-1770994532760

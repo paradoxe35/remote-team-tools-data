@@ -92,3 +92,17 @@
   name: Work Management
 - id: workflow
   name: Workflow
+- id: security
+  name: Security
+- id: design
+  name: Design
+- id: payroll
+  name: Payroll
+- id: hr-management
+  name: Hr Management
+- id: zero-trust
+  name: Zero Trust
+- id: daily-planning
+  name: Daily Planning
+- id: focus
+  name: Focus
