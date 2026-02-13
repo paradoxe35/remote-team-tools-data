@@ -1,6 +1,6 @@
 name: Workday Peakon Employee Voice
-description: Measures and enhances employee engagement through integrated
-  surveys, providing instant insights and integration with Workday tools.
+description: Workday Peakon Employee Voice measures and enhances employee
+  engagement with integrated surveys and instant insights.
 source_url: https://www.peakon.com/
 category: Employee Engagement
 tags:
@@ -15,4 +15,4 @@ markdown: |-
   - Instant insights into employee engagement
   - Integrations with other Workday tools
 brand: Workday Peakon
-updated_at: 2026-02-13 14:48
+updated_at: 2026-02-13 15:09

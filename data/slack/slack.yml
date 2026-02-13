@@ -1,26 +1,7 @@
 name: Slack
-description: >-
-  Slack is a real-time messaging and collaboration platform designed for remote
-  teams. It allows for seamless communication through channels, direct messages,
-  and integrations with other productivity tools.
-
-
-  Key features include:
-
-  - Organize conversations into public or private channels
-
-  - Searchable message history
-
-  - Integration with 2,500+ third-party apps
-
-  - File sharing and screen sharing capabilities
-
-  - Customizable workflows
-
-
-  Slack has become one of the most widely adopted communication tools for
-  distributed teams due to its intuitive interface and robust integration
-  ecosystem.
+description: Slack is a real-time messaging and collaboration platform for
+  remote teams with channels, direct messages, and integrations with over 2,500
+  apps.
 source_url: https://slack.com
 category: Communication Tools
 tags:
@@ -69,4 +50,4 @@ markdown: >-
   security features
 brand: Slack Technologies
 brand_logo_url: https://a.slack-edge.com/8c8667dfeba6/slack-icon.png
-updated_at: 2026-02-13 14:55
+updated_at: 2026-02-13 15:09

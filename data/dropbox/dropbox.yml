@@ -1,21 +1,7 @@
 name: Dropbox
-description: >-
-  Dropbox is a cloud storage and file-sharing platform that enables remote teams
-  to securely store, share, and collaborate on files. Key capabilities include:
-
-  - Real-time document editing with version history
-
-  - Secure file sharing with custom access permissions
-
-  - Integration with 1,000+ third-party applications
-
-  - AI-powered file search and organization
-
-  - Offline file access
-
-
-  Dropbox is widely used by remote teams for its reliable file synchronization
-  and collaboration tools.
+description: Dropbox is a secure cloud storage platform for remote teams,
+  offering file sharing, real-time collaboration, integration with 1000+ apps,
+  and offline access.
 source_url: https://www.dropbox.com
 category: Cloud Storage
 tags:
@@ -59,4 +45,4 @@ markdown: >-
   - **Dropbox Business**: Custom pricing for teams with admin controls
 
   - **Education**: Free tier for students and educators
-updated_at: 2026-02-13 14:55
+updated_at: 2026-02-13 15:09

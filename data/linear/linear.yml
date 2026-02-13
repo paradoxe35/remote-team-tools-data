@@ -1,7 +1,6 @@
 name: Linear
-description: Linear is a task and issue management platform designed for remote
-  teams, offering real-time synchronization, keyboard-first design, and agile
-  project tracking capabilities.
+description: Linear is an agile task and issue management tool for remote teams
+  with real-time synchronization and a keyboard-first interface.
 source_url: https://linear.app
 category: Task Management
 tags:
@@ -25,4 +24,4 @@ markdown: |-
   - Enterprise plans available
 brand: Linear
 brand_logo_url: https://linear.app/images/logo.svg
-updated_at: 2026-02-13 14:48
+updated_at: 2026-02-13 15:09

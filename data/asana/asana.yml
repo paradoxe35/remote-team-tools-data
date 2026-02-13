@@ -1,23 +1,6 @@
 name: Asana
-description: >-
-  Asana is a project management platform that helps remote teams organize,
-  track, and manage their work.
-
-
-  Key features include:
-
-  - Visual task boards and timelines
-
-  - Customizable workflows
-
-  - Team collaboration with comments and @mentions
-
-  - Integration with 100+ tools including Google Workspace, Microsoft 365, and
-  Zoom
-
-
-  Asana provides a structured approach to project management while maintaining
-  flexibility for remote team needs.
+description: Asana is a cloud-based project management tool for remote teams,
+  offering task tracking, collaboration, and integration with over 100+ apps.
 source_url: https://asana.com
 category: Project Management
 tags:
@@ -61,4 +44,4 @@ markdown: >-
   - **Business**: $16.67/user/month - Custom fields and enhanced security
 
   - **Enterprise**: Custom pricing - Full admin controls and SLAs
-updated_at: 2026-02-13 14:55
+updated_at: 2026-02-13 15:09

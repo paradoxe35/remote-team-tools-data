@@ -1,7 +1,6 @@
 name: Microsoft Teams
-description: Microsoft Teams is an all-in-one communication and collaboration
-  platform that enables remote teams to chat, meet, share files, and collaborate
-  on documents in real-time with integration to the Microsoft 365 ecosystem.
+description: Microsoft Teams is an all-in-one collaboration platform for remote
+  teams with chat, video meetings, file sharing, and Microsoft 365 integration.
 source_url: https://www.microsoft.com/en-us/microsoft-teams/group-chat-software
 category: Team Communication
 tags:
@@ -26,4 +25,4 @@ markdown: |-
   - Government Plan: $6/user/month for public sector
 brand: Microsoft
 brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Microsoft_Teams.svg/120px-Microsoft_Teams.svg.png
-updated_at: 2026-02-13 14:48
+updated_at: 2026-02-13 15:09

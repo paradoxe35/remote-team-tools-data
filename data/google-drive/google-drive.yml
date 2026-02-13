@@ -1,24 +1,7 @@
 name: Google Drive
-description: >-
-  Google Drive is a cloud storage solution that provides remote teams with the
-  ability to store, share, and collaborate on files in real-time.
-
-
-  Key features include:
-
-  - Real-time document editing with multiple users
-
-  - Integration with Google Workspace apps (Docs, Sheets, Slides)
-
-  - Version history and file recovery
-
-  - Access control and permission management
-
-  - AI-powered file search
-
-
-  Google Drive is widely adopted by remote teams for its seamless integration
-  with other Google services and robust collaboration features.
+description: Google Drive is a cloud storage solution for remote teams, offering
+  real-time collaboration, file sharing, and integration with Google Workspace
+  apps like Docs and Sheets.
 source_url: https://www.google.com/drive
 category: Cloud Storage
 tags:
@@ -63,4 +46,4 @@ markdown: >-
   - **2TB/year**: $9.99
 
   - **10TB/year**: $49.99
-updated_at: 2026-02-13 14:55
+updated_at: 2026-02-13 15:09
