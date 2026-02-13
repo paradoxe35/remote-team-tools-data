@@ -8,3 +8,9 @@
   name: Team Communication
 - id: employee-engagement
   name: Employee Engagement
+- id: time-tracking
+  name: Time Tracking
+- id: cloud-storage
+  name: Cloud Storage
+- id: communication-tools
+  name: Communication Tools

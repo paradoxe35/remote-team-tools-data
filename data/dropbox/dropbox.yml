@@ -1,0 +1,62 @@
+name: Dropbox
+description: >-
+  Dropbox is a cloud storage and file-sharing platform that enables remote teams
+  to securely store, share, and collaborate on files. Key capabilities include:
+
+  - Real-time document editing with version history
+
+  - Secure file sharing with custom access permissions
+
+  - Integration with 1,000+ third-party applications
+
+  - AI-powered file search and organization
+
+  - Offline file access
+
+
+  Dropbox is widely used by remote teams for its reliable file synchronization
+  and collaboration tools.
+source_url: https://www.dropbox.com
+category: Cloud Storage
+tags:
+  - cloud storage
+  - file sharing
+  - document collaboration
+markdown: >-
+  ## Overview
+
+
+  Dropbox is a cloud storage service that provides teams with secure file
+  storage, sharing, and collaboration capabilities. It offers a centralized
+  repository for files with advanced security and collaboration tools.
+
+
+  ## Features
+
+
+  - **Real-Time Collaboration**: Edit documents simultaneously with team members
+
+  - **Version Control**: Track changes and restore previous file versions
+
+  - **Access Control**: Set permissions for files and folders
+
+  - **Integration**: Works with Slack, Zoom, Microsoft 365, and more
+
+  - **Offline Access**: Access files without an internet connection
+
+  - **Security**: Enterprise-grade encryption and compliance
+
+
+  ## Pricing
+
+
+  - **Free Tier**: 2GB storage (upgradable to 18GB with referrals)
+
+  - **Dropbox Plus**: $9.99/month - 2TB storage, extra collaboration tools
+
+  - **Dropbox Pro**: $16.58/month - 3TB storage, advanced security
+
+  - **Dropbox Business**: Custom pricing for teams with admin controls
+
+  - **Education**: Free tier for students and educators
+updated_at: 2026-02-13 14:55

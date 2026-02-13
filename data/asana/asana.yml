@@ -1,28 +1,64 @@
 name: Asana
-description: Asana is a project management tool that helps remote teams track
-  tasks, manage workloads, and collaborate efficiently with real-time updates
-  and customizable workflows.
+description: >-
+  Asana is a project management platform that helps remote teams organize,
+  track, and manage their work.
+
+
+  Key features include:
+
+  - Visual task boards and timelines
+
+  - Customizable workflows
+
+  - Team collaboration with comments and @mentions
+
+  - Integration with 100+ tools including Google Workspace, Microsoft 365, and
+  Zoom
+
+
+  Asana provides a structured approach to project management while maintaining
+  flexibility for remote team needs.
 source_url: https://asana.com
 category: Project Management
 tags:
-  - task-tracking
-  - workflow-automation
-  - team-collaboration
-markdown: |-
+  - task management
+  - team collaboration
+  - cloud-based
+markdown: >-
+  ## Overview
+
+
+  Asana is a leading project management tool designed to help remote teams
+  manage tasks, projects, and workflows. It offers a centralized platform for
+  organizing work, assigning responsibilities, and tracking progress.
+
+
   ## Features
 
-  - Task and project tracking with custom fields
-  - Team collaboration and workload management
-  - Real-time updates and timeline views
-  - Integration with Microsoft Teams and Slack
-  - Goal setting and progress tracking
+
+  - **Task Lists**: Create detailed task lists with subtasks and dependencies
+
+  - **Boards & Timelines**: Visual Kanban boards and Gantt charts for project
+  planning
+
+  - **Team Collaboration**: Real-time commenting, @mentions, and file sharing
+
+  - **Custom Workflows**: Automate recurring tasks and workflows
+
+  - **Integrations**: Connect with Slack, Google Calendar, Dropbox, and over
+  100+ apps
+
+  - **Mobile App**: Access and manage tasks from your smartphone
+
 
   ## Pricing
 
-  - Free plan: Basic task management
-  - Premium: $10.8/month/user
-  - Business: $24.8/month/user
-  - Enterprise: Custom pricing
-brand: Asana
-brand_logo_url: https://asana.com/images/logos/asana.svg
-updated_at: 2026-02-13 14:48
+
+  - **Personal**: Free - Up to 100 tasks/viewer
+
+  - **Premium**: $8.33/user/month - Advanced insights and automation
+
+  - **Business**: $16.67/user/month - Custom fields and enhanced security
+
+  - **Enterprise**: Custom pricing - Full admin controls and SLAs
+updated_at: 2026-02-13 14:55

@@ -44,3 +44,19 @@
   name: Engagement
 - id: microsoft-teams
   name: Microsoft Teams
+- id: task-management
+  name: Task Management
+- id: cloud-based
+  name: Cloud Based
+- id: time-tracking
+  name: Time Tracking
+- id: free
+  name: Free
+- id: file-sharing
+  name: File Sharing
+- id: document-collaboration
+  name: Document Collaboration
+- id: real-time
+  name: Real Time
+- id: billing
+  name: Billing
