@@ -1,0 +1,21 @@
+## Overview
+
+Calendly is a modern scheduling platform used by more than 20 million users across 230 countries. It automates the scheduling process and eliminates the need for back-and-forth emails to find the perfect meeting time.
+
+## Key Features
+
+- **Calendar Integration**: Connects up to six calendars simultaneously (Google Calendar, Outlook, Office 365, Exchange) with real-time availability checking
+- **Automated Time Zone Detection**: Automatically converts and displays meeting times in the appropriate time zone for all participants
+- **Team Scheduling**: Multiple team members can share availability on a single calendar for group meetings, training sessions, and collaborative projects
+- **Meeting Links**: Automatic inclusion of video call links (Zoom, Google Meet, Teams, etc.) in meeting invitations
+- **Custom Invitations**: Personalize meeting invitation pages with your branding, custom questions, and information collection
+- **Availability Control**: Set working hours, buffer times, and minimum notice requirements for bookings
+- **Integrations**: 100+ integrations with CRMs, payment processors, and productivity tools
+- **Mobile-Friendly**: Responsive design works seamlessly on smartphones and tablets
+- **Analytics**: Tracking and reporting on scheduling patterns and booking trends
+
+## Pricing
+
+- **Free Plan**: Basic scheduling with limited features
+- **Premium Plans**: Tiered options for individuals and teams with advanced features and priority support
+- **Enterprise**: Custom pricing for large organizations with specialized needs

@@ -1,0 +1,30 @@
+## Overview
+
+Lark is a next-generation workspace and productivity superapp for teams developed by Lark Technologies Pte. Ltd., a subsidiary of ByteDance. Originally developed as an internal tool, Lark has evolved into a comprehensive platform for remote team collaboration, combining the functionality of multiple specialized tools into a single integrated interface.
+
+## Key Features
+
+- **Built-in Chat & Messaging**: Real-time team communication with message threading and search capabilities
+- **Video Conferencing**: Integrated video meetings without requiring external tools
+- **Document Collaboration**: Native document editor with collaborative editing and commenting
+- **Project Management**: Base (no-code app builder), tasks, and project tracking
+- **Calendar & Scheduling**: Built-in scheduling and calendar management
+- **Email Integration**: Email functionality within the platform
+- **Wiki & Knowledge Base**: Documentation and knowledge management tools
+- **OKR Tracker**: Goal setting and tracking for team alignment
+- **Approval Workflows**: Built-in approval systems for documents and requests
+- **File Sharing**: Integrated storage and file management
+- **Auto-Translation**: Real-time translation for multilingual teams
+- **Mobile Apps**: Full functionality on iOS and Android devices
+
+## Key Advantages
+
+- **Complete Solution**: Unlike Slack which requires external tools for docs and storage, Lark includes everything needed for team collaboration
+- **Single Platform**: Eliminate tool switching and context switching with one unified interface
+- **No-Code Apps**: Create custom applications through Base without programming
+- **AI Integration**: Built-in AI features throughout the platform
+
+## Pricing
+
+- **Free Plan**: Full-featured free tier with chat, video (up to 200 participants), 200 GB cloud storage, and unlimited docs
+- **Paid Plans**: Starting at $12 per seat per month for team plans with additional features
