@@ -1,0 +1,66 @@
+name: Clockify
+description: >-
+  Clockify is a free time tracking tool that helps remote teams monitor work
+  hours and project progress. It offers intuitive timers, detailed reports, and
+  integration with multiple project management platforms.
+
+
+  Key features include:
+
+  - Free unlimited time tracking
+
+  - Project and task categorization
+
+  - Exportable timesheets and reports
+
+  - Integration with Jira, Trello, and Asana
+
+  - Team time tracking and management
+
+
+  Clockify is popular among remote teams for its cost-effective solution and
+  comprehensive reporting features.
+source_url: https://clockify.me
+category: Time Tracking
+tags:
+  - time tracking
+  - project management
+  - free
+markdown: >-
+  ## Overview
+
+
+  Clockify is a free time tracking software designed for remote teams and
+  freelancers. It allows users to track time spent on tasks, generate detailed
+  reports, and manage projects efficiently.
+
+
+  ## Features
+
+
+  - **Free Tier**: Unlimited time tracking for individuals and teams
+
+  - **Timer Interface**: Start/stop tracking with a click
+
+  - **Project & Task Management**: Organize time entries by projects and tasks
+
+  - **Detailed Reports**: Export time logs and generate productivity insights
+
+  - **Team Management**: Track multiple team members' time
+
+  - **Integrations**: Works with Jira, Trello, Asana, and other tools
+
+
+  ## Pricing
+
+
+  - **Free Tier**: All essential features for unlimited users
+
+  - **Premium (Business)**: $7.50/user/month - Advanced reports and team
+  analytics
+
+  - **Advanced (Team Leaders)**: $12.50/user/month - Custom fields and bulk
+  edits
+
+  - **Enterprise**: Custom pricing for large organizations
+updated_at: 2026-02-13 14:55

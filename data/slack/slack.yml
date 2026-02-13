@@ -1,52 +1,72 @@
 name: Slack
 description: >-
-  Slack is a channel-based communication platform that streamlines professional
-  teamwork with real-time messaging, integrations, and collaboration tools for
-  remote teams.
+  Slack is a real-time messaging and collaboration platform designed for remote
+  teams. It allows for seamless communication through channels, direct messages,
+  and integrations with other productivity tools.
 
 
-  Organizes communication into project-specific channels, supports file sharing,
-  and integrates with major business apps like Google Workspace and Microsoft
-  Teams.
-source_url: https://slack.com
-category: Team Communication
-tags:
-  - chat
-  - integrations
-  - remote-work
-featured: true
-markdown: >-
-  ## Features
+  Key features include:
 
-
-  - Channel-based team communication (e.g. #project-name, #onboarding)
-
-  - Direct messaging and group chats
-
-  - File sharing and collaborative document editing
-
-  - Integrations with +2,200 apps (Office 365, Google Drive, etc.)
+  - Organize conversations into public or private channels
 
   - Searchable message history
 
-  - Voice/video calls
+  - Integration with 2,500+ third-party apps
+
+  - File sharing and screen sharing capabilities
+
+  - Customizable workflows
+
+
+  Slack has become one of the most widely adopted communication tools for
+  distributed teams due to its intuitive interface and robust integration
+  ecosystem.
+source_url: https://slack.com
+category: Communication Tools
+tags:
+  - real-time
+  - team collaboration
+  - cloud-based
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Slack is a real-time messaging and collaboration platform that transforms how
+  teams communicate. It provides a centralized workspace where remote teams can
+  collaborate efficiently through organized conversations, integrations, and
+  file sharing.
+
+
+  ## Features
+
+
+  - **Channels**: Create public or private channels for team discussions
+
+  - **@Mentions**: Tag users or teams for specific attention
+
+  - **Integrations**: Connect with 2,500+ tools like Google Workspace, Microsoft
+  Teams, and Trello
+
+  - **Search**: Powerful search functionality for messages, files, and metadata
+
+  - **File Sharing**: Share files of any type and collaborate in real-time
+
+  - **Screen Sharing**: Conduct virtual meetings and walkthroughs
+
+  - **Custom Workflows**: Create automated workflows with Slack apps
 
 
   ## Pricing
 
 
-  - Free plan: Basic features for unlimited users
+  - **Free Tier**: Up to 10,000 messages/day, 500MB file storage
 
-  - Plus plan: $6.67/user/month (enhanced search, advanced permissions)
+  - **Premium**: $6.67/user/month - 150GB file storage, advanced analytics,
+  priority support
 
-  - Enterprise plan: Custom pricing for large teams
-
-
-  ## Best For
-
-
-  Quick decisions, real-time collaboration, and keeping remote teams connected
-  through centralized communication.
-brand: Slack
-brand_logo_url: https://a.slack-edge.com/bv1-1/71/93/2a-3a/sfw__plus.png
-updated_at: 2026-02-13 14:48
+  - **Enterprise Grid**: Custom pricing for large organizations with advanced
+  security features
+brand: Slack Technologies
+brand_logo_url: https://a.slack-edge.com/8c8667dfeba6/slack-icon.png
+updated_at: 2026-02-13 14:55

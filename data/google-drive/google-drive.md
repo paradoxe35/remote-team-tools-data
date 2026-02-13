@@ -1,0 +1,20 @@
+## Overview
+
+Google Drive is a cloud storage service that allows teams to store, share, and collaborate on files and documents from anywhere. It provides a centralized repository for files with advanced collaboration tools.
+
+## Features
+
+- **Real-Time Collaboration**: Edit documents simultaneously with team members
+- **Version Control**: Access previous versions and restore files
+- **AI Search**: Smart search powered by Google's AI
+- **Integration**: Works seamlessly with Google Docs, Sheets, and Slides
+- **Access Control**: Customize permissions for files and folders
+- **Storage Options**: 15GB free storage, additional storage available for purchase
+
+## Pricing
+
+- **Free Tier**: 15GB (shared with Gmail and Google Photos)
+- **100GB/month**: $1.99
+- **200GB/month**: $2.99
+- **2TB/year**: $9.99
+- **10TB/year**: $49.99

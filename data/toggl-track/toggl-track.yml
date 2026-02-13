@@ -1,0 +1,67 @@
+name: Toggl Track
+description: >-
+  Toggl Track is a time tracking tool designed for remote teams and freelancers,
+  offering an intuitive interface for tracking work hours and generating
+  detailed reports.
+
+
+  Key features include:
+
+  - Simple start/stop timer for time tracking
+
+  - Project and task categorization
+
+  - Real-time reporting and analytics
+
+  - Integration with 100+ tools like Asana, Jira, and Slack
+
+  - Invoicing and billing support
+
+
+  Toggl Track is widely used by remote teams for its ease of use and robust
+  reporting capabilities.
+source_url: https://toggl.com/track
+category: Time Tracking
+tags:
+  - time tracking
+  - project management
+  - billing
+markdown: >-
+  ## Overview
+
+
+  Toggl Track is a time tracking software that helps remote teams and
+  freelancers manage their work hours efficiently. It provides a straightforward
+  interface with powerful analytics to improve productivity and project
+  management.
+
+
+  ## Features
+
+
+  - **Simple Timer Interface**: Start/stop tracking with a single click
+
+  - **Project & Task Tracking**: Organize time entries by projects and tasks
+
+  - **Detailed Reports**: View time spent per project, task, and user
+
+  - **Integrations**: Works with Asana, Jira, Trello, and other popular tools
+
+  - **Invoicing**: Create professional invoices based on tracked time
+
+  - **Team Management**: Track time across multiple team members
+
+
+  ## Pricing
+
+
+  - **Free Tier**: Unlimited users, 1 free project, basic reports
+
+  - **Plus**: $7/team/month - 5 projects, advanced reports
+
+  - **Pro**: $9/team/month - 10 projects, custom fields
+
+  - **Business**: $10/team/month - 50 projects, API access
+
+  - **Enterprise**: Custom pricing for large teams
+updated_at: 2026-02-13 14:55
