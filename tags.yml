@@ -106,3 +106,57 @@
   name: Daily Planning
 - id: focus
   name: Focus
+- id: database
+  name: Database
+- id: low-code
+  name: Low Code
+- id: project-planning
+  name: Project Planning
+- id: team-communication
+  name: Team Communication
+- id: simple-interface
+  name: Simple Interface
+- id: meeting-scheduling
+  name: Meeting Scheduling
+- id: calendar-sync
+  name: Calendar Sync
+- id: goal-tracking
+  name: Goal Tracking
+- id: communication
+  name: Communication
+- id: unified-collaboration
+  name: Unified Collaboration
+- id: messaging
+  name: Messaging
+- id: screen-recording
+  name: Screen Recording
+- id: office-integration
+  name: Office Integration
+- id: brainstorming
+  name: Brainstorming
+- id: diagramming
+  name: Diagramming
+- id: workflow-management
+  name: Workflow Management
+- id: customizable
+  name: Customizable
+- id: databases
+  name: Databases
+- id: productivity
+  name: Productivity
+- id: reporting
+  name: Reporting
+- id: kanban
+  name: Kanban
+- id: visual-organization
+  name: Visual Organization
+- id: enterprise-project-management
+  name: Enterprise Project Management
+- id: resource-planning
+  name: Resource Planning
+- id: video-meetings
+  name: Video Meetings
+- id: screen-sharing
+  name: Screen Sharing
+- id: webinars
+  name: Webinars

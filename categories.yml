@@ -18,3 +18,17 @@
   name: Scheduling & Time Management
 - id: workflow-automation
   name: Workflow Automation
+- id: database-automation
+  name: Database & Automation
+- id: scheduling
+  name: Scheduling
+- id: office-productivity
+  name: Office Productivity
+- id: communication
+  name: Communication
+- id: collaboration-design
+  name: Collaboration & Design
+- id: knowledge-management
+  name: Knowledge Management
+- id: video-conferencing
+  name: Video Conferencing
