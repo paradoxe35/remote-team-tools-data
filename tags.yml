@@ -160,3 +160,39 @@
   name: Screen Sharing
 - id: webinars
   name: Webinars
+- id: task-automation
+  name: Task Automation
+- id: client-collaboration
+  name: Client Collaboration
+- id: document-sync
+  name: Document Sync
+- id: note-taking
+  name: Note Taking
+- id: information-organization
+  name: Information Organization
+- id: visual-planning
+  name: Visual Planning
+- id: real-time-messaging
+  name: Real Time Messaging
+- id: remote-desktop
+  name: Remote Desktop
+- id: cross-platform
+  name: Cross Platform
+- id: technical-support
+  name: Technical Support
+- id: invoicing
+  name: Invoicing
+- id: attendance
+  name: Attendance
+- id: visual-workflows
+  name: Visual Workflows
+- id: mind-mapping
+  name: Mind Mapping
+- id: visual-brainstorming
+  name: Visual Brainstorming
+- id: enterprise
+  name: Enterprise
+- id: gantt-charts
+  name: Gantt Charts
+- id: remote-meetings
+  name: Remote Meetings

@@ -32,3 +32,11 @@
   name: Knowledge Management
 - id: video-conferencing
   name: Video Conferencing
+- id: collaboration
+  name: Collaboration
+- id: productivity
+  name: Productivity
+- id: remote-access
+  name: Remote Access
+- id: time-management
+  name: Time Management

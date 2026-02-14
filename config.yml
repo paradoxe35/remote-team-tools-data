@@ -33,7 +33,7 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.9
+version: 0.1.10
 metadata:
   last_request_data:
     generation_method: create-update
@@ -42,10 +42,10 @@ metadata:
     name: Remote Team Tools
     prompt: Generate a directory of productivity apps for remote teams
     providers:
-      pipeline: claude-code
-      search: tavily
+      pipeline: agent-pipeline
+      search: jina
       ai: groq
-      contentExtractor: local-content-extractor
+      contentExtractor: jina
     pluginConfig:
       target_keywords:
         - remote team tools
