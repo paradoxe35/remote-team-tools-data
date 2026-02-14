@@ -1,19 +1,21 @@
 ## Overview
 
-Asana is a leading project management tool designed to help remote teams manage tasks, projects, and workflows. It offers a centralized platform for organizing work, assigning responsibilities, and tracking progress.
+Asana is a work management platform that helps teams organize, track, and manage their work in one place. It provides visibility across projects, portfolios, and goals while enabling seamless collaboration.
 
-## Features
+## Key Features
 
-- **Task Lists**: Create detailed task lists with subtasks and dependencies
-- **Boards & Timelines**: Visual Kanban boards and Gantt charts for project planning
-- **Team Collaboration**: Real-time commenting, @mentions, and file sharing
-- **Custom Workflows**: Automate recurring tasks and workflows
-- **Integrations**: Connect with Slack, Google Calendar, Dropbox, and over 100+ apps
-- **Mobile App**: Access and manage tasks from your smartphone
+- **Tasks & Projects**: Create and organize tasks within projects with full visibility
+- **Multiple Views**: List, board, timeline (Gantt), calendar, and table views
+- **Goals & Portfolios**: Connect individual tasks to broader organizational goals
+- **Dependencies**: Manage task relationships and critical path planning
+- **Team Conversations**: In-context communication tied to tasks and projects
+- **Portfolios**: Get executive visibility across multiple projects
+- **Templates**: Pre-built workflows and project templates
+- **Integrations**: Connect with popular tools like Slack, Google Workspace, Microsoft Teams
 
 ## Pricing
 
-- **Personal**: Free - Up to 100 tasks/viewer
-- **Premium**: $8.33/user/month - Advanced insights and automation
-- **Business**: $16.67/user/month - Custom fields and enhanced security
-- **Enterprise**: Custom pricing - Full admin controls and SLAs
+- **Free Plan**: Basic task and project management for up to 15 team members
+- **Premium**: $13.49 per user/month, adds advanced views and portfolio management
+- **Business**: $30.49 per user/month, includes goals, portfolios, and advanced reporting
+- **Enterprise**: Custom pricing for large organizations with advanced security and compliance

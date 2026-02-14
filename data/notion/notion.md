@@ -1,22 +1,22 @@
 ## Overview
 
-Notion is a comprehensive AI workspace that unifies documents, databases, wikis, project management, and more in a single adaptable platform. It's designed to help remote teams eliminate tool fragmentation by providing a centralized hub for all work-related activities.
+Notion is a unified workspace platform that combines the functionality of documents, spreadsheets, databases, wikis, and project management tools. Teams use Notion for documentation, knowledge bases, project tracking, and workflow management.
 
 ## Key Features
 
-- **AI-Powered Tools**: Built-in AI for note-taking, content summarization, writing assistance, and intelligent search across your workspace
-- **Flexible Databases**: Create custom databases with unlimited views (table, kanban, timeline, calendar, etc.)
-- **Document Collaboration**: Real-time collaborative editing with mentions, comments, and version history
-- **Project Management**: Integrated task tracking, timeline views, and dependency management
-- **Wiki & Knowledge Base**: Structured documentation with hierarchical pages and custom organization
-- **Mobile AI**: On-the-go transcription and AI note summarization from mobile devices
-- **Integrations**: Jira integration for syncing development work with business planning, plus 160+ other integrations
-- **People Directory**: Built-in workspace directory showing team members and contact information
-- **Multiple Email Accounts**: Manage personal and work email addresses within a single Notion account
+- **Documents**: Rich text editing with database integration
+- **Databases**: Create relational databases with custom properties and filters
+- **Templates**: Pre-built templates for various use cases
+- **Synced Content**: Keep information synchronized across multiple views
+- **Collaboration**: Real-time editing, comments, and mentions
+- **Relations & Rollups**: Connect data across databases with calculated fields
+- **Views**: Multiple ways to view the same data (table, gallery, timeline, calendar)
+- **Integrations**: Connect with Slack, Zapier, Google Drive, and other tools
+- **API**: Build custom integrations and automations
 
 ## Pricing
 
-- **Free Plan**: Basic workspace with core features
-- **Plus ($12/month)**: Unlimited pages, AI features, and higher file upload limits
-- **Business ($25/month)**: Team administration, advanced permissions, and priority support
-- **Enterprise**: Custom pricing with advanced security and compliance features
+- **Free Plan**: Basic workspace with unlimited blocks
+- **Plus**: $12 per workspace/month (billed annually), adds file uploads and advanced features
+- **Business**: $27 per workspace/month, includes version history and priority support
+- **Enterprise**: Custom pricing for large organizations with advanced security and compliance

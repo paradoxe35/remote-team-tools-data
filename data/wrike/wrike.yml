@@ -1,73 +1,64 @@
 name: Wrike
-description: An enterprise-level work management platform that provides powerful
-  project management, team collaboration, and workflow automation capabilities.
-  Wrike supports agile and waterfall methodologies and features AI-powered tools
-  for task management, reporting, and productivity optimization across
+description: An enterprise-grade project management and collaboration platform
+  designed for complex workflows and large teams. Wrike provides advanced
+  resource management, portfolio planning, and real-time visibility across
   distributed teams.
 source_url: https://www.wrike.com
 category: Project Management
 tags:
-  - work-management
-  - ai-powered
-  - workflow-automation
+  - enterprise-project-management
+  - resource-planning
+  - team-collaboration
 featured: false
 markdown: >-
   ## Overview
 
 
-  Wrike is an AI-powered enterprise work management software designed to improve
-  collaboration and coordination in remote and hybrid teams. The platform
-  ensures teams remain productive with features ranging from task assignments to
-  real-time reporting and document sharing.
+  Wrike is an enterprise project management platform designed for teams handling
+  complex projects and workflows. It provides comprehensive tools for project
+  planning, resource management, portfolio tracking, and team collaboration
+  across distributed locations.
 
 
   ## Key Features
 
 
-  - **Project Management**: Calendars, Gantt charts, dashboards, and
-  comprehensive reporting tools
+  - **Flexible Views**: List, board, timeline, table, and calendar views
 
-  - **Multiple Work Views**: Kanban boards, lists, timelines, and custom views
-  for flexible project visualization
+  - **Resource Management**: Allocate and manage team capacity across projects
 
-  - **Task Management**: Create tasks and subtasks with estimated time, budget,
-  resource allocation, and dependency tracking
+  - **Portfolio Management**: Get executive-level visibility across multiple
+  projects
 
-  - **Collaboration Tools**: Co-editing, discussion threads on tasks, document
-  attachment, and real-time feedback sharing
+  - **Automation**: Workflow automation to reduce manual tasks
 
-  - **AI & Automation**: Powerful workflow automation and AI agents for routine
-  actions, risk monitoring, auto-resource assignment, and status update
-  summaries
+  - **Real-Time Collaboration**: Work together with real-time updates
 
-  - **Digital Proofing**: Online proofing tool with annotation and commenting
-  for feedback on digital files and videos
+  - **Advanced Dependencies**: Manage complex task relationships
 
-  - **Time Tracking**: Built-in time tracking to monitor task hours and optimize
-  productivity
+  - **Reporting & Analytics**: Comprehensive project and team insights
 
-  - **Advanced Integrations**: 400+ integrations including Microsoft Teams,
-  Google Suite, and specialized tools
+  - **Integrations**: Connect with 500+ tools and services
 
-  - **Flexible Methodologies**: Support for both Agile and Waterfall project
-  management approaches
+  - **Mobile App**: Full functionality on the go
 
-  - **Security & Customization**: Configurable access permissions and security
-  measures tailored to organizational needs
+  - **Custom Fields & Workflows**: Tailor the platform to your processes
 
-  - **Portfolio Management**: Enterprise-level visibility across multiple
-  projects and teams
+  - **Proofs**: Built-in proof management for creative teams
 
 
   ## Pricing
 
 
-  - **Team**: Starting plan for small teams
+  - **Free Plan**: Basic project management for small teams
 
-  - **Business**: Mid-level plan for growing organizations
+  - **Team**: $9.80 per user/month, includes core project management features
 
-  - **Enterprise**: Custom pricing for large enterprises with advanced
-  requirements
+  - **Business**: $24.80 per user/month, adds portfolio management and advanced
+  reporting
+
+  - **Enterprise**: Custom pricing for large organizations with dedicated
+  support and advanced features
 brand: Wrike
-brand_logo_url: https://www.wrike.com/frontend_apps/assets/branding/logo-horizontal.svg
-updated_at: 2026-02-13 15:39
+brand_logo_url: https://www.wrike.com/favicon.ico
+updated_at: 2026-02-14 04:46

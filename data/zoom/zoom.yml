@@ -1,37 +1,63 @@
 name: Zoom
-description: Video conferencing platform with screen sharing, recording, and
-  meeting transcription.
+description: A video conferencing platform that enables face-to-face
+  communication for remote teams through high-quality video meetings, webinars,
+  and group calls. Zoom supports screen sharing, recording, and virtual
+  backgrounds.
 source_url: https://zoom.us
-category: Team Communication
+category: Video Conferencing
 tags:
-  - video-conferencing
-  - remote-work
-  - collaboration
+  - video-meetings
+  - screen-sharing
+  - webinars
+featured: true
 markdown: >-
-  ## Features
+  ## Overview
 
 
-  - High-quality video conferencing for 1-on-1 or large group meetings
+  Zoom is a cloud-based video conferencing platform that facilitates virtual
+  meetings, webinars, and group communications. It has become a standard tool
+  for remote teams to maintain face-to-face connection.
 
-  - Real-time chat functionality during meetings
 
-  - Screen sharing and virtual whiteboard tools
+  ## Key Features
 
-  - Meeting recording and transcription capabilities
 
-  - Integration with productivity tools like Google Workspace and Microsoft
-  Teams
+  - **Video Meetings**: High-definition video conferencing for up to 1,000
+  participants
+
+  - **Screen Sharing**: Share screens, windows, or specific applications
+
+  - **Recording**: Automatic or manual recording of meetings to cloud or local
+  storage
+
+  - **Virtual Backgrounds**: Use custom backgrounds or blur your background
+
+  - **Chat**: In-meeting messaging and file sharing
+
+  - **Breakout Rooms**: Divide participants into smaller groups for discussions
+
+  - **Webinars**: Host webinars with up to 10,000 attendees
+
+  - **Meeting Transcripts**: Auto-transcription of meetings (Zoom Pro and above)
+
+  - **Integrations**: Integrates with calendar apps, Slack, Microsoft Teams, and
+  more
+
+  - **Zoom Whiteboard**: Collaborative drawing and brainstorming tool
 
 
   ## Pricing
 
 
-  - Free plan: Up to 40 minutes for meetings with 3+ participants
+  - **Free Plan**: Unlimited 1-on-1 meetings, 45-minute limit for group meetings
 
-  - Pro plan: $14.99/month (unlimited 100-participant meetings, cloud recording,
-  etc.)
+  - **Pro**: $19.99/month per host, includes unlimited meetings up to 30 minutes
 
-  - Enterprise plans available for larger teams
+  - **Business**: $25.99/month per host, includes up to 300 participants and
+  meeting recordings
+
+  - **Enterprise**: Custom pricing for 1,000+ participants with advanced
+  features
 brand: Zoom
-brand_logo_url: https://zoom.us/wp-content/uploads/2023/03/Zoom-Logo.png
-updated_at: 2026-02-13 15:24
+brand_logo_url: https://www.zoom.us/favicon.ico
+updated_at: 2026-02-14 04:46

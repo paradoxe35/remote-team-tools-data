@@ -1,23 +1,24 @@
 ## Overview
 
-Wrike is an AI-powered enterprise work management software designed to improve collaboration and coordination in remote and hybrid teams. The platform ensures teams remain productive with features ranging from task assignments to real-time reporting and document sharing.
+Wrike is an enterprise project management platform designed for teams handling complex projects and workflows. It provides comprehensive tools for project planning, resource management, portfolio tracking, and team collaboration across distributed locations.
 
 ## Key Features
 
-- **Project Management**: Calendars, Gantt charts, dashboards, and comprehensive reporting tools
-- **Multiple Work Views**: Kanban boards, lists, timelines, and custom views for flexible project visualization
-- **Task Management**: Create tasks and subtasks with estimated time, budget, resource allocation, and dependency tracking
-- **Collaboration Tools**: Co-editing, discussion threads on tasks, document attachment, and real-time feedback sharing
-- **AI & Automation**: Powerful workflow automation and AI agents for routine actions, risk monitoring, auto-resource assignment, and status update summaries
-- **Digital Proofing**: Online proofing tool with annotation and commenting for feedback on digital files and videos
-- **Time Tracking**: Built-in time tracking to monitor task hours and optimize productivity
-- **Advanced Integrations**: 400+ integrations including Microsoft Teams, Google Suite, and specialized tools
-- **Flexible Methodologies**: Support for both Agile and Waterfall project management approaches
-- **Security & Customization**: Configurable access permissions and security measures tailored to organizational needs
-- **Portfolio Management**: Enterprise-level visibility across multiple projects and teams
+- **Flexible Views**: List, board, timeline, table, and calendar views
+- **Resource Management**: Allocate and manage team capacity across projects
+- **Portfolio Management**: Get executive-level visibility across multiple projects
+- **Automation**: Workflow automation to reduce manual tasks
+- **Real-Time Collaboration**: Work together with real-time updates
+- **Advanced Dependencies**: Manage complex task relationships
+- **Reporting & Analytics**: Comprehensive project and team insights
+- **Integrations**: Connect with 500+ tools and services
+- **Mobile App**: Full functionality on the go
+- **Custom Fields & Workflows**: Tailor the platform to your processes
+- **Proofs**: Built-in proof management for creative teams
 
 ## Pricing
 
-- **Team**: Starting plan for small teams
-- **Business**: Mid-level plan for growing organizations
-- **Enterprise**: Custom pricing for large enterprises with advanced requirements
+- **Free Plan**: Basic project management for small teams
+- **Team**: $9.80 per user/month, includes core project management features
+- **Business**: $24.80 per user/month, adds portfolio management and advanced reporting
+- **Enterprise**: Custom pricing for large organizations with dedicated support and advanced features

@@ -1,76 +1,60 @@
 name: Loom
-description: An AI-powered video messaging platform for asynchronous
-  communication, allowing teams to record and share screen and camera videos
-  with automatic transcription, summaries, and chapter generation. Part of the
-  Atlassian suite, Loom reduces meeting overhead for distributed teams.
-source_url: https://www.loom.com
-category: Communication Tools
+description: A video messaging tool that allows teams to record and share quick
+  videos instead of writing lengthy messages or emails. Loom simplifies
+  asynchronous communication for remote teams with easy-to-share video clips.
+source_url: https://loom.com
+category: Communication
 tags:
   - video-messaging
   - asynchronous-communication
-  - ai-powered
-featured: true
+  - screen-recording
+featured: false
 markdown: >-
   ## Overview
 
 
-  Loom is a video messaging platform that enables remote teams to communicate
-  asynchronously through screen and camera recordings. Powered by AI, Loom
-  automatically generates titles, summaries, chapters, and tasks from your
-  videos, ensuring clear communication and reducing the need for synchronous
-  meetings.
+  Loom is a video messaging and screen recording tool designed for asynchronous
+  communication in remote teams. It enables quick video sharing that's faster
+  than writing detailed instructions or explanations.
 
 
   ## Key Features
 
 
-  - **Screen & Camera Recording**: Record your screen, camera, or both
-  simultaneously with high-quality capture
+  - **Screen Recording**: Capture your screen with webcam overlay
 
-  - **Multiple Recording Options**: Chrome extension, desktop app, or mobile app
-  for recording from any device
+  - **Quick Share**: Generate shareable links for easy distribution
 
-  - **AI Automatic Processing**: AI Suite adds context automatically including
-  titles, summaries, chapters, and action items
+  - **Slack Integration**: Send Loom videos directly to Slack
 
-  - **Transcription & Chapters**: Automatic speech-to-text with searchable
-  chapters for easy navigation
+  - **Transcripts**: Automatic transcription of video content
 
-  - **Interactive Playback**: Viewers can quickly consume and respond to video
-  messages without watching the entire duration
+  - **Reactions**: Viewers can react to videos with emoji
 
-  - **Integrations**: Seamless integration with Slack, Google Drive, Notion,
-  Jira, Confluence, and other work tools
+  - **Comments**: Add timestamps and comments to videos
 
-  - **Atlassian Integration**: Native integration with Jira and Confluence for
-  engineering teams
+  - **Video Libraries**: Organize and manage recorded videos
 
-  - **Smart Search**: Search across all your recorded videos by content,
-  transcript, or metadata
+  - **Mobile Recording**: Record videos on iOS and Android
 
-  - **Recording Analytics**: Track video engagement and viewer interactions
+  - **Privacy Controls**: Manage who can view and share videos
 
-
-  ## Impact
-
-
-  Loom customers recorded 93 million videos in 2025, reducing the need for an
-  estimated 245 million meetings.
+  - **Keyboard Shortcuts**: Quick recording controls
 
 
   ## Pricing
 
 
-  - **Free Plan**: Basic video recording and sharing with standard features
+  - **Free Plan**: Basic video recording with limited storage
 
-  - **Standard ($12.50/month)**: Unlimited video duration, custom branding,
-  advanced sharing options
+  - **Starter**: $10/month per user, includes up to 100 GB storage and advanced
+  sharing
 
-  - **Pro ($25/month)**: Team collaboration, workspace analytics, priority
-  support
+  - **Professional**: $20/month per user, adds team management and custom
+  branding
 
-  - **Enterprise**: Custom pricing for large-scale deployments with advanced
-  security and compliance
-brand: Atlassian
-brand_logo_url: https://www.atlassian.com/dam/jcr:e348b265-6585-4380-8170-182540caa29b/atlassian-logo-large.png
-updated_at: 2026-02-13 15:33
+  - **Enterprise**: Custom pricing for large organizations with dedicated
+  support and SSO
+brand: Loom
+brand_logo_url: https://loom.com/favicon.ico
+updated_at: 2026-02-14 04:46

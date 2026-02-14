@@ -1,13 +1,23 @@
-## Features
+## Overview
 
-- High-quality video conferencing for 1-on-1 or large group meetings
-- Real-time chat functionality during meetings
-- Screen sharing and virtual whiteboard tools
-- Meeting recording and transcription capabilities
-- Integration with productivity tools like Google Workspace and Microsoft Teams
+Zoom is a cloud-based video conferencing platform that facilitates virtual meetings, webinars, and group communications. It has become a standard tool for remote teams to maintain face-to-face connection.
+
+## Key Features
+
+- **Video Meetings**: High-definition video conferencing for up to 1,000 participants
+- **Screen Sharing**: Share screens, windows, or specific applications
+- **Recording**: Automatic or manual recording of meetings to cloud or local storage
+- **Virtual Backgrounds**: Use custom backgrounds or blur your background
+- **Chat**: In-meeting messaging and file sharing
+- **Breakout Rooms**: Divide participants into smaller groups for discussions
+- **Webinars**: Host webinars with up to 10,000 attendees
+- **Meeting Transcripts**: Auto-transcription of meetings (Zoom Pro and above)
+- **Integrations**: Integrates with calendar apps, Slack, Microsoft Teams, and more
+- **Zoom Whiteboard**: Collaborative drawing and brainstorming tool
 
 ## Pricing
 
-- Free plan: Up to 40 minutes for meetings with 3+ participants
-- Pro plan: $14.99/month (unlimited 100-participant meetings, cloud recording, etc.)
-- Enterprise plans available for larger teams
+- **Free Plan**: Unlimited 1-on-1 meetings, 45-minute limit for group meetings
+- **Pro**: $19.99/month per host, includes unlimited meetings up to 30 minutes
+- **Business**: $25.99/month per host, includes up to 300 participants and meeting recordings
+- **Enterprise**: Custom pricing for 1,000+ participants with advanced features

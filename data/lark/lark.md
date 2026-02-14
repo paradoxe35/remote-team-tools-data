@@ -1,30 +1,24 @@
 ## Overview
 
-Lark is a next-generation workspace and productivity superapp for teams developed by Lark Technologies Pte. Ltd., a subsidiary of ByteDance. Originally developed as an internal tool, Lark has evolved into a comprehensive platform for remote team collaboration, combining the functionality of multiple specialized tools into a single integrated interface.
+Lark is a comprehensive business collaboration superapp that combines messaging, video conferencing, documents, calendars, and project management. Designed to streamline workflows and eliminate the need for multiple tools, Lark is particularly popular in Asia-Pacific markets.
 
 ## Key Features
 
-- **Built-in Chat & Messaging**: Real-time team communication with message threading and search capabilities
-- **Video Conferencing**: Integrated video meetings without requiring external tools
-- **Document Collaboration**: Native document editor with collaborative editing and commenting
-- **Project Management**: Base (no-code app builder), tasks, and project tracking
-- **Calendar & Scheduling**: Built-in scheduling and calendar management
-- **Email Integration**: Email functionality within the platform
-- **Wiki & Knowledge Base**: Documentation and knowledge management tools
-- **OKR Tracker**: Goal setting and tracking for team alignment
-- **Approval Workflows**: Built-in approval systems for documents and requests
-- **File Sharing**: Integrated storage and file management
-- **Auto-Translation**: Real-time translation for multilingual teams
-- **Mobile Apps**: Full functionality on iOS and Android devices
-
-## Key Advantages
-
-- **Complete Solution**: Unlike Slack which requires external tools for docs and storage, Lark includes everything needed for team collaboration
-- **Single Platform**: Eliminate tool switching and context switching with one unified interface
-- **No-Code Apps**: Create custom applications through Base without programming
-- **AI Integration**: Built-in AI features throughout the platform
+- **Messaging**: Channels and direct messaging for team communication
+- **Video Conferencing**: Integrated video meetings and group calls
+- **Documents**: Cloud-based document creation and collaboration
+- **Calendars**: Shared team and personal calendars
+- **Project Management**: Built-in task and project management
+- **File Storage**: Cloud storage with sharing capabilities
+- **Search**: Powerful search across all content types
+- **Automations**: Workflow automation and bots
+- **Integrations**: Connect with third-party applications
+- **Mobile App**: Full functionality on iOS and Android
+- **Multi-language Support**: Support for multiple languages
 
 ## Pricing
 
-- **Free Plan**: Full-featured free tier with chat, video (up to 200 participants), 200 GB cloud storage, and unlimited docs
-- **Paid Plans**: Starting at $12 per seat per month for team plans with additional features
+- **Free Plan**: Basic messaging and collaboration features
+- **Standard**: Custom pricing per user/month, includes enhanced features
+- **Pro**: Custom pricing with advanced features and priority support
+- **Enterprise**: Custom pricing for large organizations with dedicated support and advanced security

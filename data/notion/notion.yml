@@ -1,69 +1,63 @@
 name: Notion
-description: An all-in-one AI workspace combining documents, databases, wikis,
-  and project management in a single flexible platform. Notion integrates AI
-  agents for note-taking, writing, search, and automation, helping remote teams
-  centralize their knowledge and workflows.
-source_url: https://www.notion.com
-category: Document Management
+description: An all-in-one workspace combining documents, databases, wikis, and
+  project management in a flexible, customizable platform. Notion allows teams
+  to consolidate documentation, knowledge management, and workflow tracking in a
+  single location.
+source_url: https://notion.so
+category: Knowledge Management
 tags:
-  - document-collaboration
-  - ai-powered
-  - real-time-collaboration
+  - documentation
+  - databases
+  - customizable
 featured: true
 markdown: >-
   ## Overview
 
 
-  Notion is a comprehensive AI workspace that unifies documents, databases,
-  wikis, project management, and more in a single adaptable platform. It's
-  designed to help remote teams eliminate tool fragmentation by providing a
-  centralized hub for all work-related activities.
+  Notion is a unified workspace platform that combines the functionality of
+  documents, spreadsheets, databases, wikis, and project management tools. Teams
+  use Notion for documentation, knowledge bases, project tracking, and workflow
+  management.
 
 
   ## Key Features
 
 
-  - **AI-Powered Tools**: Built-in AI for note-taking, content summarization,
-  writing assistance, and intelligent search across your workspace
+  - **Documents**: Rich text editing with database integration
 
-  - **Flexible Databases**: Create custom databases with unlimited views (table,
-  kanban, timeline, calendar, etc.)
+  - **Databases**: Create relational databases with custom properties and
+  filters
 
-  - **Document Collaboration**: Real-time collaborative editing with mentions,
-  comments, and version history
+  - **Templates**: Pre-built templates for various use cases
 
-  - **Project Management**: Integrated task tracking, timeline views, and
-  dependency management
+  - **Synced Content**: Keep information synchronized across multiple views
 
-  - **Wiki & Knowledge Base**: Structured documentation with hierarchical pages
-  and custom organization
+  - **Collaboration**: Real-time editing, comments, and mentions
 
-  - **Mobile AI**: On-the-go transcription and AI note summarization from mobile
-  devices
+  - **Relations & Rollups**: Connect data across databases with calculated
+  fields
 
-  - **Integrations**: Jira integration for syncing development work with
-  business planning, plus 160+ other integrations
+  - **Views**: Multiple ways to view the same data (table, gallery, timeline,
+  calendar)
 
-  - **People Directory**: Built-in workspace directory showing team members and
-  contact information
+  - **Integrations**: Connect with Slack, Zapier, Google Drive, and other tools
 
-  - **Multiple Email Accounts**: Manage personal and work email addresses within
-  a single Notion account
+  - **API**: Build custom integrations and automations
 
 
   ## Pricing
 
 
-  - **Free Plan**: Basic workspace with core features
+  - **Free Plan**: Basic workspace with unlimited blocks
 
-  - **Plus ($12/month)**: Unlimited pages, AI features, and higher file upload
-  limits
+  - **Plus**: $12 per workspace/month (billed annually), adds file uploads and
+  advanced features
 
-  - **Business ($25/month)**: Team administration, advanced permissions, and
-  priority support
+  - **Business**: $27 per workspace/month, includes version history and priority
+  support
 
-  - **Enterprise**: Custom pricing with advanced security and compliance
-  features
-brand: Notion Labs
-brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png
-updated_at: 2026-02-13 15:33
+  - **Enterprise**: Custom pricing for large organizations with advanced
+  security and compliance
+brand: Notion
+brand_logo_url: https://notion.so/images/favicon.ico
+updated_at: 2026-02-14 04:46

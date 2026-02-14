@@ -1,19 +1,21 @@
 ## Overview
 
-Slack is a real-time messaging and collaboration platform that transforms how teams communicate. It provides a centralized workspace where remote teams can collaborate efficiently through organized conversations, integrations, and file sharing.
+Slack is a workspace communication platform designed to bring team conversations, tools, and files together in one place. It facilitates asynchronous and real-time communication across remote teams through organized channels and direct messaging.
 
-## Features
+## Key Features
 
-- **Channels**: Create public or private channels for team discussions
-- **@Mentions**: Tag users or teams for specific attention
-- **Integrations**: Connect with 2,500+ tools like Google Workspace, Microsoft Teams, and Trello
-- **Search**: Powerful search functionality for messages, files, and metadata
-- **File Sharing**: Share files of any type and collaborate in real-time
-- **Screen Sharing**: Conduct virtual meetings and walkthroughs
-- **Custom Workflows**: Create automated workflows with Slack apps
+- **Channels**: Organize conversations by project, team, or topic
+- **Direct Messaging**: Quick one-on-one or group conversations
+- **File Sharing**: Upload and collaborate on documents directly in conversations
+- **Search**: Powerful search across conversations, files, and shared content
+- **Integrations**: Connects with 2,600+ third-party apps and services
+- **Threads**: Keep conversations organized with reply threads
+- **Slack Connect**: Collaborate with external organizations securely
+- **Huddles**: Quick voice and video calls without needing to schedule
 
 ## Pricing
 
-- **Free Tier**: Up to 10,000 messages/day, 500MB file storage
-- **Premium**: $6.67/user/month - 150GB file storage, advanced analytics, priority support
-- **Enterprise Grid**: Custom pricing for large organizations with advanced security features
+- **Free Plan**: Basic messaging with 90-day message history
+- **Pro**: $10.50 per user/month (billed annually), includes full message history and integrations
+- **Business+**: $15 per user/month, adds advanced features and compliance tools
+- **Enterprise Grid**: Custom pricing for large organizations with advanced security and compliance needs

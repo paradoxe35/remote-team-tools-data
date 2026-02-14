@@ -1,83 +1,62 @@
 name: Lark
-description: An all-in-one productivity superapp that integrates chat, video
-  conferencing, document collaboration, project management, and workflow
-  automation in a single unified platform. Developed by ByteDance, Lark provides
-  a complete alternative to using multiple disparate tools for remote team
-  communication and collaboration.
+description: An all-in-one business collaboration platform that integrates
+  messaging, video conferencing, document management, and project management.
+  Lark (Larksuite) is designed to reduce app-switching and provide unified team
+  communication.
 source_url: https://www.larksuite.com
-category: Team Communication
+category: Communication
 tags:
+  - unified-collaboration
+  - messaging
   - all-in-one
-  - collaboration
-  - workflow-automation
 featured: false
 markdown: >-
   ## Overview
 
 
-  Lark is a next-generation workspace and productivity superapp for teams
-  developed by Lark Technologies Pte. Ltd., a subsidiary of ByteDance.
-  Originally developed as an internal tool, Lark has evolved into a
-  comprehensive platform for remote team collaboration, combining the
-  functionality of multiple specialized tools into a single integrated
-  interface.
+  Lark is a comprehensive business collaboration superapp that combines
+  messaging, video conferencing, documents, calendars, and project management.
+  Designed to streamline workflows and eliminate the need for multiple tools,
+  Lark is particularly popular in Asia-Pacific markets.
 
 
   ## Key Features
 
 
-  - **Built-in Chat & Messaging**: Real-time team communication with message
-  threading and search capabilities
+  - **Messaging**: Channels and direct messaging for team communication
 
-  - **Video Conferencing**: Integrated video meetings without requiring external
-  tools
+  - **Video Conferencing**: Integrated video meetings and group calls
 
-  - **Document Collaboration**: Native document editor with collaborative
-  editing and commenting
+  - **Documents**: Cloud-based document creation and collaboration
 
-  - **Project Management**: Base (no-code app builder), tasks, and project
-  tracking
+  - **Calendars**: Shared team and personal calendars
 
-  - **Calendar & Scheduling**: Built-in scheduling and calendar management
+  - **Project Management**: Built-in task and project management
 
-  - **Email Integration**: Email functionality within the platform
+  - **File Storage**: Cloud storage with sharing capabilities
 
-  - **Wiki & Knowledge Base**: Documentation and knowledge management tools
+  - **Search**: Powerful search across all content types
 
-  - **OKR Tracker**: Goal setting and tracking for team alignment
+  - **Automations**: Workflow automation and bots
 
-  - **Approval Workflows**: Built-in approval systems for documents and requests
+  - **Integrations**: Connect with third-party applications
 
-  - **File Sharing**: Integrated storage and file management
+  - **Mobile App**: Full functionality on iOS and Android
 
-  - **Auto-Translation**: Real-time translation for multilingual teams
-
-  - **Mobile Apps**: Full functionality on iOS and Android devices
-
-
-  ## Key Advantages
-
-
-  - **Complete Solution**: Unlike Slack which requires external tools for docs
-  and storage, Lark includes everything needed for team collaboration
-
-  - **Single Platform**: Eliminate tool switching and context switching with one
-  unified interface
-
-  - **No-Code Apps**: Create custom applications through Base without
-  programming
-
-  - **AI Integration**: Built-in AI features throughout the platform
+  - **Multi-language Support**: Support for multiple languages
 
 
   ## Pricing
 
 
-  - **Free Plan**: Full-featured free tier with chat, video (up to 200
-  participants), 200 GB cloud storage, and unlimited docs
+  - **Free Plan**: Basic messaging and collaboration features
 
-  - **Paid Plans**: Starting at $12 per seat per month for team plans with
-  additional features
-brand: Lark Technologies
-brand_logo_url: https://lark.com/favicon.ico
-updated_at: 2026-02-13 15:39
+  - **Standard**: Custom pricing per user/month, includes enhanced features
+
+  - **Pro**: Custom pricing with advanced features and priority support
+
+  - **Enterprise**: Custom pricing for large organizations with dedicated
+  support and advanced security
+brand: Lark
+brand_logo_url: https://www.larksuite.com/favicon.ico
+updated_at: 2026-02-14 04:46

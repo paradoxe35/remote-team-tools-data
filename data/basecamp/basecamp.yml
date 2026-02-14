@@ -1,68 +1,58 @@
 name: Basecamp
-description: A simple, user-friendly project management platform that keeps
-  remote teams organized and connected through centralized communication, task
-  management, and file sharing. Basecamp is designed for teams that prefer
-  simplicity over complexity, with an asynchronous-first approach ideal for
-  distributed teams across time zones.
+description: A straightforward project management and team communication tool
+  that keeps teams organized with message boards, task lists, schedules, and
+  file sharing. Basecamp emphasizes simplicity and includes all features in a
+  flat-rate pricing model.
 source_url: https://basecamp.com
 category: Project Management
 tags:
-  - asynchronous-communication
-  - team-collaboration
-  - project-tracking
+  - team-communication
+  - task-management
+  - simple-interface
 featured: false
 markdown: >-
   ## Overview
 
 
-  Basecamp is a project management and team collaboration tool used by over
-  75,000 organizations across 166 countries. It takes a user-friendly approach,
-  focusing on clear communication and keeping projects organized without
-  unnecessary complexity.
+  Basecamp is a project management and team communication platform focused on
+  simplicity and ease of use. It combines essential features for remote teams in
+  a clean, intuitive interface without unnecessary complexity.
 
 
   ## Key Features
 
 
-  - **Message Boards**: Threaded discussions for asynchronous team communication
-  that keeps conversations organized and searchable
+  - **Message Boards**: Threaded discussions organized by project
 
-  - **Real-Time Chat**: Instant messaging for quick team conversations without
-  replacing the message board for important discussions
+  - **To-Do Lists**: Task management with assignments and scheduling
 
-  - **To-Do Lists**: Create and assign tasks with due dates, priority levels,
-  and completion tracking
+  - **Schedules & Deadlines**: Calendar view of project milestones and deadlines
 
-  - **Automatic Check-Ins**: Regular prompts for status updates that reduce the
-  need for formal meetings
+  - **File & Document Sharing**: Centralized location for project files
 
-  - **File Sharing & Storage**: Centralized document repository with version
-  history and file organization
+  - **Team Chat**: Quick messaging alongside formal communication
 
-  - **Kanban Boards**: Visual task organization using card tables for workflow
-  management
+  - **Status Updates**: Automated status reports on project progress
 
-  - **Calendar Integration**: Sync Google Calendar, iCal, and Outlook calendars
-  so team members can see when others are available
+  - **Check-Ins**: Regular question-based check-ins with the team
 
-  - **Document Library**: Store and organize project documents, templates, and
-  resources
+  - **Automatic Progress Reports**: Weekly summaries of team activity
 
-  - **Campfire Chat**: Quick real-time chat for immediate questions
+  - **Mobile App**: Manage projects on the go
 
-  - **Time Tracking**: Built-in time tracking for project hours (optional)
-
-  - **Integrations**: Connect with Google Drive, Slack, Zapier, and other tools
+  - **Guest Access**: Invite clients and external collaborators
 
 
   ## Pricing
 
 
-  - **Basecamp**: $99/month for unlimited projects, team members, and clients
+  - **Basecamp**: $99/month (flat rate for unlimited projects and users)
 
-  - **Basecamp+**: Enhanced version with advanced features
+  - **Basecamp Plus**: $199/month with additional features like automatic client
+  invoicing
 
-  Both plans include a 30-day free trial with full access to all features
+  - **Basecamp Pro**: Custom pricing for enterprise customers with dedicated
+  support
 brand: Basecamp
-brand_logo_url: https://basecamp.com/assets/branding/logo-symbol-positive.svg
-updated_at: 2026-02-13 15:39
+brand_logo_url: https://basecamp.com/favicon.ico
+updated_at: 2026-02-14 04:46

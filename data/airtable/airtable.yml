@@ -1,0 +1,65 @@
+name: Airtable
+description: A low-code platform that combines spreadsheet functionality with
+  database capabilities, enabling teams to create custom applications without
+  coding. Airtable is ideal for managing complex data and building team
+  workflows.
+source_url: https://airtable.com
+category: Database & Automation
+tags:
+  - database
+  - low-code
+  - automation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Airtable is a low-code platform that bridges spreadsheets and databases,
+  allowing teams to organize and manage data in powerful ways. It enables
+  creation of custom applications with advanced automation without requiring
+  programming knowledge.
+
+
+  ## Key Features
+
+
+  - **Grid View**: Spreadsheet-like interface for data entry
+
+  - **Multiple Views**: Gallery, calendar, kanban, form, and timeline views of
+  the same data
+
+  - **Fields & Relationships**: Create complex data relationships and linked
+  records
+
+  - **Automations**: Build workflows with no-code automation builder
+
+  - **Scripting**: JavaScript support for custom logic
+
+  - **Extensions**: Add custom functionality with Airtable extensions
+
+  - **API**: Programmatic access to your data
+
+  - **Templates**: Pre-built templates for common use cases
+
+  - **Collaboration**: Real-time editing and commenting
+
+  - **Permissions**: Granular access control at workspace, base, and view levels
+
+  - **Integrations**: Connect with Zapier, IFTTT, and other services
+
+
+  ## Pricing
+
+
+  - **Free Plan**: Up to 5 bases with limited records and fields
+
+  - **Plus**: $20/month per user (billed annually), includes unlimited records
+  and advanced features
+
+  - **Pro**: $45/month per user, adds advanced automation and API access
+
+  - **Enterprise**: Custom pricing for large organizations with advanced
+  security and compliance
+brand: Airtable
+brand_logo_url: https://airtable.com/favicon.ico
+updated_at: 2026-02-14 04:46

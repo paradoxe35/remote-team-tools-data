@@ -1,32 +1,24 @@
 ## Overview
 
-Monday.com is a work management platform built for teams to plan, track, and manage projects across departments. With industry-leading data visualization, extensive customization options, and AI-powered automation through Monday Sidekick, it's designed for cross-functional teams that need flexible project management.
+monday.com is a work management platform that enables teams to manage projects, workflows, and collaboration with a highly customizable interface. It combines visual project management with powerful automation and integration capabilities.
 
 ## Key Features
 
-- **Multiple Project Views**: 15+ customizable views including Gantt, roadmap, kanban, calendar, and timeline
-- **Workflow Flexibility**: Support for Kanban, Scrum, Waterfall, DSDM, critical path method, and other methodologies
-- **Advanced Dashboard Builder**: Create custom dashboards with drag-and-drop widgets and real-time data
-- **Automation & Workflows**: Build complex automations without coding using workflow templates
-- **Monday Sidekick AI**: AI assistant that processes user messages to automate tasks and provide insights
-- **Batch Dependencies**: Reduce setup time by batch-managing project dependencies
-- **Integration Hub**: Connect with 200+ apps including Slack, Microsoft Teams, Jira, and Salesforce
-- **Resource Management**: Track team capacity, allocate resources, and manage workloads
-- **Document Collaboration**: Built-in document creation and collaboration within project boards
-- **Portfolio Management**: Oversee multiple projects with portfolio-level views and reporting
-
-## Performance & Growth
-
-Monday.com achieved $1.232 billion in revenue in 2025 with 27% year-over-year growth. The company has 43% year-over-year growth in enterprise-level adoption.
-
-## AI Strategy
-
-Monday Sidekick has processed over 500,000 user messages and focuses on moving from helping customers manage work to actually doing the work for them.
+- **Multiple Views**: Board, timeline, calendar, table, and form views
+- **Customizable Workflows**: Build workflows tailored to team processes
+- **Automations**: Create complex workflows without coding
+- **Integrations**: Connect with 1,000+ apps and services
+- **Reporting**: Visual dashboards and progress tracking
+- **Templates**: Pre-built templates for various industries and use cases
+- **Mobile App**: Manage work on the go
+- **Collaboration**: Comments, mentions, and file attachments
+- **Permissions**: Granular control over who sees what
+- **API**: Custom development and integration capabilities
 
 ## Pricing
 
-- **Free Plan**: Basic features with limited boards and users
-- **Basic ($9/user/month)**: Core project management features and automation
-- **Standard ($12/user/month)**: Advanced automations and integrations
-- **Pro ($19/user/month)**: Advanced customization, API access, and priority support
-- **Enterprise**: Custom pricing with advanced security and compliance features
+- **Free Plan**: Basic board with limited features
+- **Basic**: $9 per seat/month (billed annually), includes multiple views and automations
+- **Standard**: $12 per seat/month, adds timeline views and integrations
+- **Pro**: $19 per seat/month, includes advanced automations and reporting
+- **Enterprise**: Custom pricing with dedicated support and advanced features

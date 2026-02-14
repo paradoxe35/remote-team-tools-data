@@ -1,23 +1,22 @@
 ## Overview
 
-Basecamp is a project management and team collaboration tool used by over 75,000 organizations across 166 countries. It takes a user-friendly approach, focusing on clear communication and keeping projects organized without unnecessary complexity.
+Basecamp is a project management and team communication platform focused on simplicity and ease of use. It combines essential features for remote teams in a clean, intuitive interface without unnecessary complexity.
 
 ## Key Features
 
-- **Message Boards**: Threaded discussions for asynchronous team communication that keeps conversations organized and searchable
-- **Real-Time Chat**: Instant messaging for quick team conversations without replacing the message board for important discussions
-- **To-Do Lists**: Create and assign tasks with due dates, priority levels, and completion tracking
-- **Automatic Check-Ins**: Regular prompts for status updates that reduce the need for formal meetings
-- **File Sharing & Storage**: Centralized document repository with version history and file organization
-- **Kanban Boards**: Visual task organization using card tables for workflow management
-- **Calendar Integration**: Sync Google Calendar, iCal, and Outlook calendars so team members can see when others are available
-- **Document Library**: Store and organize project documents, templates, and resources
-- **Campfire Chat**: Quick real-time chat for immediate questions
-- **Time Tracking**: Built-in time tracking for project hours (optional)
-- **Integrations**: Connect with Google Drive, Slack, Zapier, and other tools
+- **Message Boards**: Threaded discussions organized by project
+- **To-Do Lists**: Task management with assignments and scheduling
+- **Schedules & Deadlines**: Calendar view of project milestones and deadlines
+- **File & Document Sharing**: Centralized location for project files
+- **Team Chat**: Quick messaging alongside formal communication
+- **Status Updates**: Automated status reports on project progress
+- **Check-Ins**: Regular question-based check-ins with the team
+- **Automatic Progress Reports**: Weekly summaries of team activity
+- **Mobile App**: Manage projects on the go
+- **Guest Access**: Invite clients and external collaborators
 
 ## Pricing
 
-- **Basecamp**: $99/month for unlimited projects, team members, and clients
-- **Basecamp+**: Enhanced version with advanced features
-Both plans include a 30-day free trial with full access to all features
+- **Basecamp**: $99/month (flat rate for unlimited projects and users)
+- **Basecamp Plus**: $199/month with additional features like automatic client invoicing
+- **Basecamp Pro**: Custom pricing for enterprise customers with dedicated support
