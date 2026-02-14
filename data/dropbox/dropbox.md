@@ -1,20 +1,14 @@
 ## Overview
-
-Dropbox is a cloud storage service that provides teams with secure file storage, sharing, and collaboration capabilities. It offers a centralized repository for files with advanced security and collaboration tools.
+Dropbox provides remote teams with centralized cloud storage for files, enabling real-time collaboration, version control, and secure sharing.
 
 ## Features
-
-- **Real-Time Collaboration**: Edit documents simultaneously with team members
-- **Version Control**: Track changes and restore previous file versions
-- **Access Control**: Set permissions for files and folders
-- **Integration**: Works with Slack, Zoom, Microsoft 365, and more
-- **Offline Access**: Access files without an internet connection
-- **Security**: Enterprise-grade encryption and compliance
+- File syncing across devices
+- Real-time document collaboration
+- Secure file sharing with links
+- Version history and recovery
+- Integration with Zoom, Slack, and Google Workspace
 
 ## Pricing
-
-- **Free Tier**: 2GB storage (upgradable to 18GB with referrals)
-- **Dropbox Plus**: $9.99/month - 2TB storage, extra collaboration tools
-- **Dropbox Pro**: $16.58/month - 3TB storage, advanced security
-- **Dropbox Business**: Custom pricing for teams with admin controls
-- **Education**: Free tier for students and educators
+- Free plan (2 GB storage)
+- Plus plan ($9.99/month) with advanced collaboration tools
+- Business plans (custom pricing)

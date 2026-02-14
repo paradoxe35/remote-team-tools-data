@@ -1,21 +1,14 @@
 ## Overview
+Asana enables teams to manage projects and tasks through customizable workflows, timelines, and dashboards. It supports remote collaboration with real-time updates and integrations.
 
-Asana is a work management platform that helps teams organize, track, and manage their work in one place. It provides visibility across projects, portfolios, and goals while enabling seamless collaboration.
-
-## Key Features
-
-- **Tasks & Projects**: Create and organize tasks within projects with full visibility
-- **Multiple Views**: List, board, timeline (Gantt), calendar, and table views
-- **Goals & Portfolios**: Connect individual tasks to broader organizational goals
-- **Dependencies**: Manage task relationships and critical path planning
-- **Team Conversations**: In-context communication tied to tasks and projects
-- **Portfolios**: Get executive visibility across multiple projects
-- **Templates**: Pre-built workflows and project templates
-- **Integrations**: Connect with popular tools like Slack, Google Workspace, Microsoft Teams
+## Features
+- Task and project tracking
+- Team collaboration with comments and @mentions
+- Integrations with Slack, Google Workspace, and Zapier
+- Custom fields and automations
+- Timeline view for visual project planning
 
 ## Pricing
-
-- **Free Plan**: Basic task and project management for up to 15 team members
-- **Premium**: $13.49 per user/month, adds advanced views and portfolio management
-- **Business**: $30.49 per user/month, includes goals, portfolios, and advanced reporting
-- **Enterprise**: Custom pricing for large organizations with advanced security and compliance
+- Free plan for up to 15 teammates
+- Premium ($10.99/user/month) with advanced features
+- Enterprise (custom pricing)

@@ -1,24 +1,14 @@
 ## Overview
+Microsoft Teams combines chat, meetings, file storage, and application integration into a single platform for remote teams. It supports real-time collaboration with tools like whiteboards and screen sharing.
 
-Microsoft Teams is an enterprise-focused collaboration platform that combines chat, video conferencing, file storage, and application integration. It integrates deeply with Microsoft 365 and serves as a central hub for team communication and coordination.
-
-## Key Features
-
-- **Chat Channels**: Organized conversations around projects or topics
-- **Video Meetings**: High-quality video conferencing with screen sharing
-- **File Storage**: Integration with SharePoint for document collaboration
-- **Microsoft 365 Integration**: Seamless access to Word, Excel, PowerPoint, OneNote
-- **Apps & Extensions**: Integrate third-party applications and custom solutions
-- **Guest Access**: Invite external users to teams and channels
-- **Meeting Recording**: Automatic recording and transcription of meetings
-- **Breakout Rooms**: Divide participants into smaller group discussions
-- **Tasks**: Integration with Microsoft To Do for task management
-- **Live Events**: Host webinars and large-scale virtual events
+## Features
+- Real-time chat and channels
+- Video conferencing with breakout rooms
+- Integration with Microsoft 365 apps
+- Cloud storage via OneDrive
+- Task management via Planner
 
 ## Pricing
-
-- **Free Plan**: Basic team communication and 60-minute group meetings
-- **Microsoft Teams Essentials**: $6 per user/month, includes unlimited meetings
-- **Microsoft 365 Business Basic**: $6 per user/month, includes Teams plus other Microsoft 365 apps
-- **Microsoft 365 Business Standard**: $12.50 per user/month, includes full Microsoft 365 suite
-- **Enterprise Plans**: Custom pricing with advanced features and compliance tools
+- Free plan with basic features
+- Business plan ($4.00/user/month)
+- Enterprise plan (custom pricing)

@@ -1,62 +1,39 @@
 name: monday.com
-description: A flexible work operating system that helps teams manage projects,
-  workflows, and collaboration. monday.com offers intuitive visual project
-  management with customizable templates and integrations for diverse team
-  needs.
+description: monday.com offers visual project planning with color-coded boards
+  and multiple views (Gantt, Kanban, table, calendar) for cross-functional team
+  collaboration and workflow automation.
 source_url: https://monday.com
 category: Project Management
 tags:
-  - workflow-management
-  - team-collaboration
-  - customizable
-featured: false
+  - visual planning
+  - team collaboration
+  - automation
 markdown: >-
   ## Overview
 
-
-  monday.com is a work management platform that enables teams to manage
-  projects, workflows, and collaboration with a highly customizable interface.
-  It combines visual project management with powerful automation and integration
-  capabilities.
+  monday.com provides a visual platform for project management with customizable
+  boards and multiple views. It streamlines workflows with automation, time
+  tracking, and integrations.
 
 
-  ## Key Features
+  ## Features
 
+  - Color-coded Kanban boards
 
-  - **Multiple Views**: Board, timeline, calendar, table, and form views
+  - Gantt charts and calendar views
 
-  - **Customizable Workflows**: Build workflows tailored to team processes
+  - Task dependencies and automation
 
-  - **Automations**: Create complex workflows without coding
+  - Time tracking and workload management
 
-  - **Integrations**: Connect with 1,000+ apps and services
-
-  - **Reporting**: Visual dashboards and progress tracking
-
-  - **Templates**: Pre-built templates for various industries and use cases
-
-  - **Mobile App**: Manage work on the go
-
-  - **Collaboration**: Comments, mentions, and file attachments
-
-  - **Permissions**: Granular control over who sees what
-
-  - **API**: Custom development and integration capabilities
+  - Collaboration through comments and @mentions
 
 
   ## Pricing
 
+  - Free plan for basic features
 
-  - **Free Plan**: Basic board with limited features
+  - Professional plan from $9.99/user/month
 
-  - **Basic**: $9 per seat/month (billed annually), includes multiple views and
-  automations
-
-  - **Standard**: $12 per seat/month, adds timeline views and integrations
-
-  - **Pro**: $19 per seat/month, includes advanced automations and reporting
-
-  - **Enterprise**: Custom pricing with dedicated support and advanced features
-brand: monday.com
-brand_logo_url: https://monday.com/favicon.ico
-updated_at: 2026-02-14 04:46
+  - Enterprise plan (custom pricing)
+updated_at: 2026-02-14 09:50

@@ -1,24 +1,14 @@
 ## Overview
+Wrike provides robust project management capabilities for large teams and enterprises, with features like workflow automation, resource management, and comprehensive reporting.
 
-Wrike is an enterprise project management platform designed for teams handling complex projects and workflows. It provides comprehensive tools for project planning, resource management, portfolio tracking, and team collaboration across distributed locations.
-
-## Key Features
-
-- **Flexible Views**: List, board, timeline, table, and calendar views
-- **Resource Management**: Allocate and manage team capacity across projects
-- **Portfolio Management**: Get executive-level visibility across multiple projects
-- **Automation**: Workflow automation to reduce manual tasks
-- **Real-Time Collaboration**: Work together with real-time updates
-- **Advanced Dependencies**: Manage complex task relationships
-- **Reporting & Analytics**: Comprehensive project and team insights
-- **Integrations**: Connect with 500+ tools and services
-- **Mobile App**: Full functionality on the go
-- **Custom Fields & Workflows**: Tailor the platform to your processes
-- **Proofs**: Built-in proof management for creative teams
+## Features
+- Advanced Gantt charts for visual planning
+- Dynamic request forms for client feedback
+- Real-time document collaboration
+- Custom workflows and dashboards
+- Time tracking and workload management
 
 ## Pricing
-
-- **Free Plan**: Basic project management for small teams
-- **Team**: $9.80 per user/month, includes core project management features
-- **Business**: $24.80 per user/month, adds portfolio management and advanced reporting
-- **Enterprise**: Custom pricing for large organizations with dedicated support and advanced features
+- Free trial available
+- Team plans from $15/user/month
+- Enterprise plans (custom pricing)

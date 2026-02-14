@@ -1,64 +1,39 @@
 name: Wrike
-description: An enterprise-grade project management and collaboration platform
-  designed for complex workflows and large teams. Wrike provides advanced
-  resource management, portfolio planning, and real-time visibility across
-  distributed teams.
+description: Wrike is a scalable project management platform designed for
+  cross-functional teams, offering advanced Gantt charts, dynamic request forms,
+  and real-time collaboration tools.
 source_url: https://www.wrike.com
 category: Project Management
 tags:
-  - enterprise-project-management
-  - resource-planning
-  - team-collaboration
-featured: false
+  - enterprise
+  - Gantt charts
+  - team collaboration
 markdown: >-
   ## Overview
 
-
-  Wrike is an enterprise project management platform designed for teams handling
-  complex projects and workflows. It provides comprehensive tools for project
-  planning, resource management, portfolio tracking, and team collaboration
-  across distributed locations.
+  Wrike provides robust project management capabilities for large teams and
+  enterprises, with features like workflow automation, resource management, and
+  comprehensive reporting.
 
 
-  ## Key Features
+  ## Features
 
+  - Advanced Gantt charts for visual planning
 
-  - **Flexible Views**: List, board, timeline, table, and calendar views
+  - Dynamic request forms for client feedback
 
-  - **Resource Management**: Allocate and manage team capacity across projects
+  - Real-time document collaboration
 
-  - **Portfolio Management**: Get executive-level visibility across multiple
-  projects
+  - Custom workflows and dashboards
 
-  - **Automation**: Workflow automation to reduce manual tasks
-
-  - **Real-Time Collaboration**: Work together with real-time updates
-
-  - **Advanced Dependencies**: Manage complex task relationships
-
-  - **Reporting & Analytics**: Comprehensive project and team insights
-
-  - **Integrations**: Connect with 500+ tools and services
-
-  - **Mobile App**: Full functionality on the go
-
-  - **Custom Fields & Workflows**: Tailor the platform to your processes
-
-  - **Proofs**: Built-in proof management for creative teams
+  - Time tracking and workload management
 
 
   ## Pricing
 
+  - Free trial available
 
-  - **Free Plan**: Basic project management for small teams
+  - Team plans from $15/user/month
 
-  - **Team**: $9.80 per user/month, includes core project management features
-
-  - **Business**: $24.80 per user/month, adds portfolio management and advanced
-  reporting
-
-  - **Enterprise**: Custom pricing for large organizations with dedicated
-  support and advanced features
-brand: Wrike
-brand_logo_url: https://www.wrike.com/favicon.ico
-updated_at: 2026-02-14 04:46
+  - Enterprise plans (custom pricing)
+updated_at: 2026-02-14 09:50

@@ -1,47 +1,38 @@
 name: Dropbox
-description: Secure cloud storage with file sharing, real-time collaboration,
-  version control, and 1000+ integrations.
+description: Dropbox is a cloud storage and file-sharing platform that enables
+  remote teams to collaborate on documents, sync files across devices, and
+  securely share files.
 source_url: https://www.dropbox.com
-category: Cloud Storage
+category: Collaboration
 tags:
   - cloud storage
   - file sharing
-  - document collaboration
+  - document sync
 markdown: >-
   ## Overview
 
-
-  Dropbox is a cloud storage service that provides teams with secure file
-  storage, sharing, and collaboration capabilities. It offers a centralized
-  repository for files with advanced security and collaboration tools.
+  Dropbox provides remote teams with centralized cloud storage for files,
+  enabling real-time collaboration, version control, and secure sharing.
 
 
   ## Features
 
+  - File syncing across devices
 
-  - **Real-Time Collaboration**: Edit documents simultaneously with team members
+  - Real-time document collaboration
 
-  - **Version Control**: Track changes and restore previous file versions
+  - Secure file sharing with links
 
-  - **Access Control**: Set permissions for files and folders
+  - Version history and recovery
 
-  - **Integration**: Works with Slack, Zoom, Microsoft 365, and more
-
-  - **Offline Access**: Access files without an internet connection
-
-  - **Security**: Enterprise-grade encryption and compliance
+  - Integration with Zoom, Slack, and Google Workspace
 
 
   ## Pricing
 
+  - Free plan (2 GB storage)
 
-  - **Free Tier**: 2GB storage (upgradable to 18GB with referrals)
+  - Plus plan ($9.99/month) with advanced collaboration tools
 
-  - **Dropbox Plus**: $9.99/month - 2TB storage, extra collaboration tools
-
-  - **Dropbox Pro**: $16.58/month - 3TB storage, advanced security
-
-  - **Dropbox Business**: Custom pricing for teams with admin controls
-
-  - **Education**: Free tier for students and educators
-updated_at: 2026-02-13 15:24
+  - Business plans (custom pricing)
+updated_at: 2026-02-14 09:50

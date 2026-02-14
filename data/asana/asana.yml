@@ -1,59 +1,40 @@
 name: Asana
-description: A comprehensive work management platform that helps teams track
-  tasks, projects, conversations, and deadlines. Asana enables visibility across
-  all work and facilitates collaboration without relying on email.
+description: Asana is a project management platform that helps remote teams
+  track tasks, manage workflows, and collaborate efficiently across projects. It
+  features customizable teams, task dependencies, and integrations with key
+  tools.
 source_url: https://asana.com
 category: Project Management
 tags:
-  - task-tracking
-  - project-planning
-  - team-collaboration
-featured: true
+  - task automation
+  - workflow management
+  - team collaboration
 markdown: >-
   ## Overview
 
-
-  Asana is a work management platform that helps teams organize, track, and
-  manage their work in one place. It provides visibility across projects,
-  portfolios, and goals while enabling seamless collaboration.
-
-
-  ## Key Features
+  Asana enables teams to manage projects and tasks through customizable
+  workflows, timelines, and dashboards. It supports remote collaboration with
+  real-time updates and integrations.
 
 
-  - **Tasks & Projects**: Create and organize tasks within projects with full
-  visibility
+  ## Features
 
-  - **Multiple Views**: List, board, timeline (Gantt), calendar, and table views
+  - Task and project tracking
 
-  - **Goals & Portfolios**: Connect individual tasks to broader organizational
-  goals
+  - Team collaboration with comments and @mentions
 
-  - **Dependencies**: Manage task relationships and critical path planning
+  - Integrations with Slack, Google Workspace, and Zapier
 
-  - **Team Conversations**: In-context communication tied to tasks and projects
+  - Custom fields and automations
 
-  - **Portfolios**: Get executive visibility across multiple projects
-
-  - **Templates**: Pre-built workflows and project templates
-
-  - **Integrations**: Connect with popular tools like Slack, Google Workspace,
-  Microsoft Teams
+  - Timeline view for visual project planning
 
 
   ## Pricing
 
+  - Free plan for up to 15 teammates
 
-  - **Free Plan**: Basic task and project management for up to 15 team members
+  - Premium ($10.99/user/month) with advanced features
 
-  - **Premium**: $13.49 per user/month, adds advanced views and portfolio
-  management
-
-  - **Business**: $30.49 per user/month, includes goals, portfolios, and
-  advanced reporting
-
-  - **Enterprise**: Custom pricing for large organizations with advanced
-  security and compliance
-brand: Asana
-brand_logo_url: https://asana.com/favicon.ico
-updated_at: 2026-02-14 04:46
+  - Enterprise (custom pricing)
+updated_at: 2026-02-14 09:50

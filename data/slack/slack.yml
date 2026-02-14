@@ -1,59 +1,42 @@
 name: Slack
-description: A team communication and collaboration platform that centralizes
-  conversations, file sharing, and integrations in organized channels and direct
-  messages. Slack enables real-time communication and reduces reliance on email
-  for distributed teams.
+description: Slack is a collaboration hub designed for teams to communicate
+  efficiently. It allows for real-time messaging, file sharing, and integration
+  with various other tools to streamline workflows.
 source_url: https://slack.com
 category: Communication
 tags:
-  - messaging
-  - team-collaboration
+  - team collaboration
+  - real-time messaging
   - integrations
-featured: true
 markdown: >-
   ## Overview
 
-
-  Slack is a workspace communication platform designed to bring team
-  conversations, tools, and files together in one place. It facilitates
-  asynchronous and real-time communication across remote teams through organized
-  channels and direct messaging.
-
-
-  ## Key Features
+  Slack is a web and mobile application designed to improve productivity in
+  remote teams by centralizing communication. Teams can create channels for
+  different projects, integrate with tools like Google Drive and Trello, and set
+  up automated workflows.
 
 
-  - **Channels**: Organize conversations by project, team, or topic
+  ## Features
 
-  - **Direct Messaging**: Quick one-on-one or group conversations
+  - Real-time messaging
 
-  - **File Sharing**: Upload and collaborate on documents directly in
-  conversations
+  - File sharing
 
-  - **Search**: Powerful search across conversations, files, and shared content
+  - Integrations with over 1,500 apps
 
-  - **Integrations**: Connects with 2,600+ third-party apps and services
+  - Customizable notifications
 
-  - **Threads**: Keep conversations organized with reply threads
+  - Screen sharing
 
-  - **Slack Connect**: Collaborate with external organizations securely
-
-  - **Huddles**: Quick voice and video calls without needing to schedule
+  - Searchable message history
 
 
   ## Pricing
 
+  - Free plan with limited features
 
-  - **Free Plan**: Basic messaging with 90-day message history
+  - Plus plan ($6.67/users/month) with advanced features
 
-  - **Pro**: $10.50 per user/month (billed annually), includes full message
-  history and integrations
-
-  - **Business+**: $15 per user/month, adds advanced features and compliance
-  tools
-
-  - **Enterprise Grid**: Custom pricing for large organizations with advanced
-  security and compliance needs
-brand: Slack
-brand_logo_url: https://a.slack-edge.com/80588/marketing/img/meta/favicon-32.png
-updated_at: 2026-02-14 04:46
+  - Enterprise plan (custom pricing) for large organizations
+updated_at: 2026-02-14 09:50

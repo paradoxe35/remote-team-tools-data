@@ -1,21 +1,15 @@
 ## Overview
+Slack is a web and mobile application designed to improve productivity in remote teams by centralizing communication. Teams can create channels for different projects, integrate with tools like Google Drive and Trello, and set up automated workflows.
 
-Slack is a workspace communication platform designed to bring team conversations, tools, and files together in one place. It facilitates asynchronous and real-time communication across remote teams through organized channels and direct messaging.
-
-## Key Features
-
-- **Channels**: Organize conversations by project, team, or topic
-- **Direct Messaging**: Quick one-on-one or group conversations
-- **File Sharing**: Upload and collaborate on documents directly in conversations
-- **Search**: Powerful search across conversations, files, and shared content
-- **Integrations**: Connects with 2,600+ third-party apps and services
-- **Threads**: Keep conversations organized with reply threads
-- **Slack Connect**: Collaborate with external organizations securely
-- **Huddles**: Quick voice and video calls without needing to schedule
+## Features
+- Real-time messaging
+- File sharing
+- Integrations with over 1,500 apps
+- Customizable notifications
+- Screen sharing
+- Searchable message history
 
 ## Pricing
-
-- **Free Plan**: Basic messaging with 90-day message history
-- **Pro**: $10.50 per user/month (billed annually), includes full message history and integrations
-- **Business+**: $15 per user/month, adds advanced features and compliance tools
-- **Enterprise Grid**: Custom pricing for large organizations with advanced security and compliance needs
+- Free plan with limited features
+- Plus plan ($6.67/users/month) with advanced features
+- Enterprise plan (custom pricing) for large organizations

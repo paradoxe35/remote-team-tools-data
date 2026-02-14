@@ -1,62 +1,40 @@
 name: ClickUp
-description: A comprehensive project management and productivity platform
-  offering extensive customization for tasks, goals, and workflows. ClickUp
-  combines multiple project management views and powerful automation
-  capabilities in a single platform.
+description: ClickUp is an all-in-one productivity and project management
+  platform that integrates task management, docs, goals, time tracking, and chat
+  into a single workspace for remote teams.
 source_url: https://clickup.com
 category: Project Management
 tags:
-  - task-management
-  - goal-tracking
-  - workflow-automation
-featured: false
+  - all-in-one
+  - task automation
+  - team collaboration
 markdown: >-
   ## Overview
 
-
-  ClickUp is an all-in-one project management platform designed to replace
-  multiple tools. It offers extensive customization, powerful automation, and
-  comprehensive features for managing tasks, projects, goals, and team
-  collaboration.
-
-
-  ## Key Features
+  ClickUp consolidates project management, document collaboration, and
+  communication tools into a unified platform. Teams can track tasks, set goals,
+  and manage workflows with integrated features like Gantt charts, time
+  tracking, and automated reminders.
 
 
-  - **Multiple Views**: List, board, box, timeline, calendar, and other custom
-  views
+  ## Features
 
-  - **Task Management**: Hierarchical task organization with subtasks and
-  dependencies
+  - Customizable dashboards
 
-  - **Goals & Key Results**: Set and track organizational goals
+  - Integrated docs and whiteboards
 
-  - **Time Tracking**: Built-in time tracking and time estimates
+  - Time tracking and workload management
 
-  - **Docs**: Integrated document creation and knowledge management
+  - Task dependencies and automation
 
-  - **Automations**: No-code automation builder
-
-  - **Integrations**: 1,000+ integrations with popular tools
-
-  - **Custom Fields**: Create fields specific to team needs
-
-  - **Reporting**: Advanced dashboards and analytics
-
-  - **Mobile App**: Full functionality on iOS and Android
+  - Multiple project views (list, board, timeline)
 
 
   ## Pricing
 
+  - Free plan for small teams
 
-  - **Free Plan**: Basic task and project management
+  - Business plan ($9.99/user/month)
 
-  - **Team**: $9 per user/month (billed annually), includes all views and
-  automations
-
-  - **Business**: $19 per user/month, adds advanced reporting and integrations
-
-  - **Enterprise**: Custom pricing with dedicated support and advanced security
-brand: ClickUp
-brand_logo_url: https://clickup.com/favicon.ico
-updated_at: 2026-02-14 04:46
+  - Enterprise plan (custom pricing)
+updated_at: 2026-02-14 09:50

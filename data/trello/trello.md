@@ -1,23 +1,14 @@
 ## Overview
+Trello is a flexible project management application built around boards and cards that allow teams to visually organize their tasks and projects.
 
-Trello is a visual collaboration tool that organizes work using Kanban boards. Each board consists of lists and cards, allowing teams to track workflow stages, manage tasks, and collaborate in a straightforward manner.
-
-## Key Features
-
-- **Boards, Lists & Cards**: Simple hierarchical organization using Kanban methodology
-- **Customizable Workflows**: Create lists to represent any workflow stage
-- **Checklists**: Break down tasks into smaller subtasks
-- **Attachments**: Attach files, images, and links to cards
-- **Labels & Colors**: Tag and color-code cards for easy identification
-- **Due Dates**: Set deadlines and receive notifications
-- **Comments**: Discuss tasks directly on cards
-- **Power-Ups**: Extend functionality with integrations and tools
-- **Board Automation**: Automate repetitive tasks with Butler automation
-- **Team Visibility**: Share boards and manage team permissions
+## Features
+- Kanban boards for visual task tracking
+- Customizable workflows and automation via Butler
+- Integration with Slack, Google Drive, and other tools
+- Timeline view for deadlines
+- Team collaboration and file sharing
 
 ## Pricing
-
-- **Free Plan**: Basic board creation and collaboration
-- **Standard**: $6 per user/month, includes Power-Ups and automation
-- **Premium**: $12.50 per user/month, adds advanced automation and priority support
-- **Enterprise**: Custom pricing for large organizations with admin controls and API access
+- Free for basic features
+- Business Class ($9.99/user/month)
+- Enterprise (custom pricing)

@@ -1,66 +1,39 @@
 name: Microsoft Teams
-description: A unified collaboration platform that integrates chat, video
-  meetings, file storage, and third-party app integrations into a single
-  workspace. Teams is designed to keep remote teams connected and organized.
-source_url: https://www.microsoft.com/en-us/microsoft-teams/group-chat-software
+description: Microsoft Teams is a unified communication and collaboration
+  platform that integrates chat, video conferencing, file storage, and
+  application integration for remote teams.
+source_url: https://teams.microsoft.com
 category: Communication
 tags:
-  - messaging
-  - video-conferencing
-  - office-integration
-featured: true
+  - team collaboration
+  - video conferencing
+  - integrations
 markdown: >-
   ## Overview
 
-
-  Microsoft Teams is an enterprise-focused collaboration platform that combines
-  chat, video conferencing, file storage, and application integration. It
-  integrates deeply with Microsoft 365 and serves as a central hub for team
-  communication and coordination.
+  Microsoft Teams combines chat, meetings, file storage, and application
+  integration into a single platform for remote teams. It supports real-time
+  collaboration with tools like whiteboards and screen sharing.
 
 
-  ## Key Features
+  ## Features
 
+  - Real-time chat and channels
 
-  - **Chat Channels**: Organized conversations around projects or topics
+  - Video conferencing with breakout rooms
 
-  - **Video Meetings**: High-quality video conferencing with screen sharing
+  - Integration with Microsoft 365 apps
 
-  - **File Storage**: Integration with SharePoint for document collaboration
+  - Cloud storage via OneDrive
 
-  - **Microsoft 365 Integration**: Seamless access to Word, Excel, PowerPoint,
-  OneNote
-
-  - **Apps & Extensions**: Integrate third-party applications and custom
-  solutions
-
-  - **Guest Access**: Invite external users to teams and channels
-
-  - **Meeting Recording**: Automatic recording and transcription of meetings
-
-  - **Breakout Rooms**: Divide participants into smaller group discussions
-
-  - **Tasks**: Integration with Microsoft To Do for task management
-
-  - **Live Events**: Host webinars and large-scale virtual events
+  - Task management via Planner
 
 
   ## Pricing
 
+  - Free plan with basic features
 
-  - **Free Plan**: Basic team communication and 60-minute group meetings
+  - Business plan ($4.00/user/month)
 
-  - **Microsoft Teams Essentials**: $6 per user/month, includes unlimited
-  meetings
-
-  - **Microsoft 365 Business Basic**: $6 per user/month, includes Teams plus
-  other Microsoft 365 apps
-
-  - **Microsoft 365 Business Standard**: $12.50 per user/month, includes full
-  Microsoft 365 suite
-
-  - **Enterprise Plans**: Custom pricing with advanced features and compliance
-  tools
-brand: Microsoft
-brand_logo_url: https://www.microsoft.com/favicon.ico
-updated_at: 2026-02-14 04:46
+  - Enterprise plan (custom pricing)
+updated_at: 2026-02-14 09:50

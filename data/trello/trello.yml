@@ -1,60 +1,39 @@
 name: Trello
-description: A visual project management tool using Kanban boards to organize
-  tasks and workflows. Trello provides a simple, intuitive interface for teams
-  to track progress and collaborate on projects.
+description: >
+  Trello is a visual project management tool that uses boards, lists, and cards
+  to help teams organize workflows and track progress. It supports collaborative
+  task management with timelines and integrations.
 source_url: https://trello.com
 category: Project Management
 tags:
-  - kanban
-  - visual-organization
-  - task-tracking
-featured: false
+  - task management
+  - visual workflows
+  - agile
 markdown: >-
   ## Overview
 
-
-  Trello is a visual collaboration tool that organizes work using Kanban boards.
-  Each board consists of lists and cards, allowing teams to track workflow
-  stages, manage tasks, and collaborate in a straightforward manner.
+  Trello is a flexible project management application built around boards and
+  cards that allow teams to visually organize their tasks and projects.
 
 
-  ## Key Features
+  ## Features
 
+  - Kanban boards for visual task tracking
 
-  - **Boards, Lists & Cards**: Simple hierarchical organization using Kanban
-  methodology
+  - Customizable workflows and automation via Butler
 
-  - **Customizable Workflows**: Create lists to represent any workflow stage
+  - Integration with Slack, Google Drive, and other tools
 
-  - **Checklists**: Break down tasks into smaller subtasks
+  - Timeline view for deadlines
 
-  - **Attachments**: Attach files, images, and links to cards
-
-  - **Labels & Colors**: Tag and color-code cards for easy identification
-
-  - **Due Dates**: Set deadlines and receive notifications
-
-  - **Comments**: Discuss tasks directly on cards
-
-  - **Power-Ups**: Extend functionality with integrations and tools
-
-  - **Board Automation**: Automate repetitive tasks with Butler automation
-
-  - **Team Visibility**: Share boards and manage team permissions
+  - Team collaboration and file sharing
 
 
   ## Pricing
 
+  - Free for basic features
 
-  - **Free Plan**: Basic board creation and collaboration
+  - Business Class ($9.99/user/month)
 
-  - **Standard**: $6 per user/month, includes Power-Ups and automation
-
-  - **Premium**: $12.50 per user/month, adds advanced automation and priority
-  support
-
-  - **Enterprise**: Custom pricing for large organizations with admin controls
-  and API access
-brand: Atlassian
-brand_logo_url: https://trello.com/favicon.ico
-updated_at: 2026-02-14 04:46
+  - Enterprise (custom pricing)
+updated_at: 2026-02-14 09:50

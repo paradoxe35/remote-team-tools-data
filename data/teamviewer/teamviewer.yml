@@ -1,0 +1,39 @@
+name: TeamViewer
+description: TeamViewer is a remote access tool allowing teams to connect to
+  computers remotely for support, collaboration, and troubleshooting tasks.
+source_url: https://www.teamviewer.com
+category: Remote Access
+tags:
+  - remote desktop
+  - cross-platform
+  - technical support
+markdown: >-
+  ## Overview
+
+  TeamViewer enables secure remote connections between computers, making it
+  ideal for IT support, team collaboration, and remote work scenarios. It
+  supports real-time screen sharing and control across Windows, macOS, and
+  Linux.
+
+
+  ## Features
+
+  - Instant remote access and control
+
+  - Secure connections with end-to-end encryption
+
+  - Cross-platform compatibility
+
+  - File transfer and chat functionality
+
+  - Meeting scheduling and unattended access
+
+
+  ## Pricing
+
+  - Free for personal use
+
+  - Business plan starting at $4.99/user/month
+
+  - Enterprise plans (custom pricing)
+updated_at: 2026-02-14 09:50
