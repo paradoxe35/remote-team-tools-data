@@ -1,0 +1,15 @@
+## Overview
+
+Abbyy FineReader is a comprehensive PDF editor with advanced OCR technology. It is designed to convert various document types, including scanned images and PDFs, into editable and searchable text formats. This makes it an invaluable tool for businesses and individuals dealing with large volumes of documents, historical records, or complex legal files.
+
+## Key Features
+
+*   **Optical Character Recognition (OCR):** Accurately converts images of text into editable and searchable digital formats.
+*   **PDF Editing:** Allows for comprehensive editing of PDF documents.
+*   **Document Conversion:** Supports conversion to various formats like Word, Excel, and searchable PDF.
+*   **Screen Capture Utility:** Extracts text from any content displayed on a Windows screen.
+*   **Batch Processing:** Enables processing of multiple documents simultaneously.
+
+## Pricing
+
+Starts at $99.00 per year.
