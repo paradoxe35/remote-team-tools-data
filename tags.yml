@@ -302,3 +302,23 @@
   name: Team Coordination
 - id: custom-workspaces
   name: Custom Workspaces
+- id: ocr
+  name: OCR
+- id: pdf-editing
+  name: PDF Editing
+- id: document-conversion
+  name: Document Conversion
+- id: meeting-assistant
+  name: Meeting Assistant
+- id: transcription
+  name: Transcription
+- id: file-storage
+  name: File Storage
+- id: document-sharing
+  name: Document Sharing
+- id: crm
+  name: CRM
+- id: hybrid-work
+  name: Hybrid Work
+- id: touchscreen
+  name: Touchscreen

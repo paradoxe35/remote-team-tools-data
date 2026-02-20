@@ -56,3 +56,11 @@
   name: Digital Whiteboarding
 - id: spreadsheets
   name: Spreadsheets
+- id: document-processing
+  name: Document Processing
+- id: ai-tools
+  name: AI Tools
+- id: task-management-tools
+  name: Task Management Tools
+- id: digital-whiteboarding-tools
+  name: Digital Whiteboarding Tools
