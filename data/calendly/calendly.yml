@@ -1,64 +1,59 @@
 name: Calendly
-description: A scheduling automation tool that eliminates back-and-forth emails
-  by allowing others to book meetings based on your availability. Calendly
-  integrates with calendar and video conferencing tools to streamline meeting
-  coordination.
+description: Calendar management tool that simplifies scheduling meetings and
+  events with automated availability tracking and integration with popular
+  calendar platforms.
 source_url: https://calendly.com
 category: Scheduling
 tags:
+  - calendar-sync
   - meeting-scheduling
   - automation
-  - calendar-sync
-featured: false
-markdown: >-
+markdown: >
   ## Overview
 
 
-  Calendly is a meeting scheduling and automation platform that simplifies the
-  process of booking meetings. It integrates with calendar systems and video
-  conferencing tools to reduce scheduling overhead and automate meeting
-  coordination.
+  Calendly is a scheduling tool designed to eliminate the back-and-forth of
+  arranging meetings. It integrates with Google Calendar, Outlook, and iCloud,
+  allowing users to share personalized scheduling links and automatically block
+  off unavailable times.
 
 
-  ## Key Features
+  ## Features
 
 
-  - **Scheduling Links**: Share availability without back-and-forth emails
+  - **Calendar sync** with Google, Outlook, and iCloud
 
-  - **Calendar Sync**: Connect with Google Calendar, Outlook, iCloud, or CalDAV
+  - **Custom availability** settings for time zone-aware scheduling
 
-  - **Video Conferencing Integration**: Automatic Zoom, Google Meet, Microsoft
-  Teams, Webex, or GoTo Meeting links
+  - **Event types** for one-on-one, group, or recurring meetings
 
-  - **Availability Rules**: Set working hours, buffers, and availability windows
+  - **Automated reminders** and cancellation policies
 
-  - **Event Types**: Create different meeting types with custom settings
 
-  - **Invitee Timezone Detection**: Automatically adjust meeting times for
-  different time zones
+  ## Limitations
 
-  - **Customization**: White-label scheduling pages and custom confirmations
 
-  - **Routing**: Direct invitees to the right team member
+  - Free plan users cannot connect more than 6 calendars
 
-  - **Analytics**: Track scheduling and meeting data
-
-  - **Integrations**: Connect with Slack, Salesforce, HubSpot, and 70+ other
-  apps
+  - iCal support is deprecated for new accounts
 
 
   ## Pricing
 
 
-  - **Free**: Basic scheduling with one event type
+  - Free plan
 
-  - **Essentials**: $12/month, includes multiple event types and calendars
+  - Pro plan: $10/month
 
-  - **Professional**: $20/month, adds group scheduling and custom branding
+  - Teams plan: $16/month
 
-  - **Teams**: $25 per user/month, for team-based scheduling and management
+  - Enterprise: $15,000/year
 
-  - **Enterprise**: Custom pricing with advanced features and dedicated support
-brand: Calendly
-brand_logo_url: https://calendly.com/favicon.ico
-updated_at: 2026-02-14 04:46
+
+  ## Ratings
+
+
+  - G2 rating: 4.7/5
+
+  - Users highlight ease of use and reduced scheduling friction
+updated_at: 2026-02-20 12:21

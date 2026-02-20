@@ -1,0 +1,62 @@
+name: Productive
+description: All-in-one project management platform for remote teams combining
+  task planning, time tracking, budgeting, and reporting in a single system.
+  Helps manage workloads, track time against budgets, and surface performance
+  metrics for distributed teams.
+source_url: https://productive.io
+category: Project Management
+tags:
+  - all-in-one
+  - remote-work
+  - cloud-based
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Productive is an all-in-one project management platform designed specifically
+  for remote teams. It integrates task management, time tracking, budgeting, and
+  reporting to reduce tool sprawl and increase visibility across distributed
+  workflows.
+
+
+  ## Key Features
+
+
+  - Task management with dependencies and workload visualization
+
+  - Real-time time tracking connected to budgets
+
+  - Project dashboards with performance metrics
+
+  - Cross-functional team workload balancing
+
+  - Time zone-aware scheduling and handoffs
+
+  - Document collaboration within tasks
+
+
+  ## Pricing
+
+
+  - Free 14-day trial (no credit card required)
+
+  - Tiered pricing based on team size and features
+
+  - Custom enterprise pricing available
+
+
+  ## Best For
+
+
+  - Remote-first agencies and consulting firms
+
+  - Teams needing unified task-time-budget visibility
+
+  - Distributed teams across multiple time zones
+brand: Productive
+brand_logo_url: https://website-assets.productive.io/uploads/2025/07/logo-productive.svg
+images:
+  - https://website-assets.productive.io/uploads/2025/09/remote-team-management-real-time-workload-overview-in-productive.png
+  - https://website-assets.productive.io/uploads/2025/09/remote-team-management-budget-warnings-with-productive.png
+updated_at: 2026-02-20 12:21

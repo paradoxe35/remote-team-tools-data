@@ -1,0 +1,26 @@
+name: Microsoft 365
+description: Comprehensive productivity suite combining Office apps, cloud
+  storage (OneDrive), video conferencing (Teams), and collaboration tools with
+  integrated security and admin controls. Designed for structured file sharing
+  and enterprise workflows.
+source_url: https://www.microsoft.com/microsoft-365
+category: All-in-One Suites
+tags:
+  - office-suite
+  - cloud-storage
+  - video-conferencing
+markdown: |-
+  ## Features
+  - Full desktop Office apps + web versions
+  - Integrated identity, security, and compliance
+  - SharePoint/OneDrive for structured file sharing
+  - Teams for video conferencing
+
+  ## Pricing
+  - Subscription plans priced per user; some consumer-level tiers
+
+  ## Limitations
+  - Admin center complexity
+  - Web experience less preferred by some users
+  - Migration planning required
+updated_at: 2026-02-20 12:21

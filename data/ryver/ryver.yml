@@ -1,0 +1,35 @@
+name: Ryver
+description: Team communication tool for small and growing organizations that
+  combines email, chat, and task management with discussion forums and project
+  organization capabilities.
+source_url: https://ryver.com
+category: Communication
+tags:
+  - team-chat
+  - discussion-forums
+  - task-tracking
+markdown: |
+  ## Key Features
+
+  - Organized discussion forums for project topics
+  - Private team chat channels
+  - Task and topic-based conversation organization
+
+  ## Pricing
+
+  - Medium Pack: $4/user/month
+  - Starter: $69/month (12 users)
+  - Standard: $129/month (30 users)
+  - Enterprise: Custom
+
+  ## Pros and Cons
+  | Pros | Cons |
+  |------|------|
+  | Contextual conversation organization | No free plan available |
+  | Budget-friendly for small teams | Limited third-party integrations |
+
+  ## Customer Ratings
+
+  **Capterra**: 4.4/5 (43 customers)
+brand: Cloverleaf Networks
+updated_at: 2026-02-20 12:21

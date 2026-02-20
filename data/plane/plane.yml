@@ -1,0 +1,36 @@
+name: Plane
+description: Project and task management platform that serves as the system of
+  record for delivery, allowing teams to plan, own, and track work with
+  visibility. Integrates with communication and documentation tools to
+  streamline workflows.
+source_url: https://plane.so
+category: Project Management
+tags:
+  - remote-work
+  - task-tracking
+  - cloud-based
+markdown: >-
+  ## Overview
+
+
+  Plane is a project and task management platform designed for remote teams to
+  plan, own, and track work as the system of record.
+
+
+  ## Features
+
+
+  - Single source of truth for planning and executing work
+
+  - Clear ownership and progress tracking
+
+  - Integrates with communication and documentation tools
+
+  - Async-friendly interface for distributed teams
+
+
+  ## Pricing
+
+
+  Free plan available with premium plans starting at $5 per user/month.
+updated_at: 2026-02-20 12:21

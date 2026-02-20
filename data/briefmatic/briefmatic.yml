@@ -1,0 +1,41 @@
+name: Briefmatic
+description: Centralized task management platform that aggregates tasks from
+  email, chat, design tools, and calendar apps into a unified workflow view for
+  remote teams.
+source_url: https://briefmatic.com
+category: Task Management
+tags:
+  - integration
+  - remote-work
+  - task-automation
+markdown: >-
+  ## Overview
+
+
+  Briefmatic unifies tasks from Google Tasks, Slack, Gmail, Figma, and Microsoft
+  calendars into one centralized interface. This helps remote teams avoid
+  fragmented workflows by providing visibility across all their tools.
+
+
+  ## Key Features
+
+  - Visual task boards with drag-and-drop interface
+
+  - Integration with 50+ task management and communication tools
+
+  - Smart time-blocking and calendar alignment
+
+  - Collaboration features for task delegation and feedback
+
+  - Email and chat alerts for task updates
+
+
+  ## Pricing
+
+  Free plan available with all core features. Paid plans start at $9.99/month
+  for advanced integrations and team collaboration features.
+brand: Briefmatic
+brand_logo_url: https://cdn.prod.website-files.com/643cf7715ec7fdea75388392/643d11f4c67b6333beeed082_logo_full.svg
+images:
+  - https://cdn.prod.website-files.com/643cf7715ec7fd404338839b/65decf3645bdfb0500ab3300_1698986602749.jpg
+updated_at: 2026-02-20 12:21

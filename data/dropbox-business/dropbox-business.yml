@@ -1,0 +1,33 @@
+name: Dropbox Business
+description: Cloud storage solution with team collaboration features, offering
+  secure file sharing, real-time updates, and centralized file management for
+  digital asset management teams.
+source_url: https://dropbox.com/business
+category: File Storage/Collaboration
+tags:
+  - cloud storage
+  - team collaboration
+  - file sharing
+markdown: |-
+  ## Features
+
+  - Team folders for project organization
+  - Real-time file updates
+  - Insights dashboard for activity tracking
+  - Permissions management
+
+  ## Pricing
+
+  - Essentials: $19.99/user
+  - Business: $18/user
+  - Business Plus: $30/user
+
+  ## Limitations
+
+  - Syncing delays reported
+  - Limited search functionality
+
+  (Capterra Rating: 4.5/5)
+brand: Dropbox
+brand_logo_url: https://www.dropbox.com/robots.txt?_r=4142-0
+updated_at: 2026-02-20 12:21

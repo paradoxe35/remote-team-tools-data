@@ -1,40 +1,25 @@
 name: Asana
-description: Asana is a project management platform that helps remote teams
-  track tasks, manage workflows, and collaborate efficiently across projects. It
-  features customizable teams, task dependencies, and integrations with key
-  tools.
+description: Work management platform for organizing, tracking, and managing
+  projects with features like timelines, task assignments, and cross-functional
+  project tracking.
 source_url: https://asana.com
-category: Project Management
+category: Task Management
 tags:
-  - task automation
-  - workflow management
-  - team collaboration
-markdown: >-
-  ## Overview
-
-  Asana enables teams to manage projects and tasks through customizable
-  workflows, timelines, and dashboards. It supports remote collaboration with
-  real-time updates and integrations.
-
-
+  - project-management
+  - workflow-automation
+  - cross-functional-tracking
+markdown: |-
   ## Features
-
-  - Task and project tracking
-
-  - Team collaboration with comments and @mentions
-
-  - Integrations with Slack, Google Workspace, and Zapier
-
-  - Custom fields and automations
-
-  - Timeline view for visual project planning
-
+  - Flexible views (list, board, timeline)
+  - Automation rules and templates
+  - Cross-functional project tracking
 
   ## Pricing
+  - Free tier for small teams
+  - Paid tiers per user with advanced features
 
-  - Free plan for up to 15 teammates
-
-  - Premium ($10.99/user/month) with advanced features
-
-  - Enterprise (custom pricing)
-updated_at: 2026-02-14 09:50
+  ## Limitations
+  - Learning curve for advanced features
+  - Limited documentation hub capabilities
+  - Higher-tier features required for robust reporting
+updated_at: 2026-02-20 12:21

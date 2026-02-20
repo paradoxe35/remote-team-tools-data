@@ -1,0 +1,26 @@
+## Overview
+
+Todoist is a lightweight task management tool that helps users focus on what's important. Its intuitive interface and powerful features make it easy to organize tasks, set priorities, and stay productive.
+
+## Features
+
+- **Natural Language Input** to create tasks from plain text
+- **Flexible Project Views** with lists and Kanban boards
+- **Custom reminders** and recurring task settings
+- **Cross-platform sync** for desktop and mobile
+
+## Limitations
+
+- Limited to 5 active projects on free plan
+- Only 7 days of activity history available
+
+## Pricing
+
+- Free plan
+- Pro plan: $4/month
+- Business plan: $6/user/month
+
+## Ratings
+
+- G2 rating: 4.4/5
+- Users praise simplicity and effectiveness for personal task tracking

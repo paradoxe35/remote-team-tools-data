@@ -1,24 +1,11 @@
-## Overview
-
-Google Workspace is a cloud-based suite of productivity and collaboration applications designed for teams and organizations. It provides essential tools for document creation, real-time collaboration, communication, and file management.
-
-## Key Features
-
-- **Gmail**: Professional email with powerful search and organization
-- **Google Drive**: Cloud storage with real-time backup and sharing
-- **Google Docs**: Word processing with real-time collaboration
-- **Google Sheets**: Spreadsheet application with formulas and data analysis
-- **Google Slides**: Presentation software with real-time editing
-- **Google Meet**: Video conferencing integrated with calendar
-- **Google Calendar**: Shared scheduling and event management
-- **Google Forms**: Survey and form creation tools
-- **Google Chat**: Team messaging and space management
-- **Google Sites**: Website creation without coding
-- **Advanced Search**: Find files and information across all apps
+## Features
+- Real-time coauthoring in Docs, Sheets, Slides
+- Tight integration across Gmail, Calendar, Drive, Meet
+- Built-in AI features (Gemini)
 
 ## Pricing
+- Business plans priced per user; limited free via personal Google accounts
 
-- **Business Starter**: $6 per user/month, includes Gmail, Drive, and basic features
-- **Business Standard**: $12 per user/month, adds Meet with up to 150 participants and 100 GB Drive storage
-- **Business Plus**: $18 per user/month, includes 2 TB Drive storage and advanced security
-- **Enterprise**: Custom pricing for large organizations with advanced security and compliance features
+## Limitations
+- Admin and security options complexity
+- Heavy reliance on internet connectivity

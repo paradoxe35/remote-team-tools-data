@@ -1,24 +1,27 @@
 ## Overview
 
-Calendly is a meeting scheduling and automation platform that simplifies the process of booking meetings. It integrates with calendar systems and video conferencing tools to reduce scheduling overhead and automate meeting coordination.
+Calendly is a scheduling tool designed to eliminate the back-and-forth of arranging meetings. It integrates with Google Calendar, Outlook, and iCloud, allowing users to share personalized scheduling links and automatically block off unavailable times.
 
-## Key Features
+## Features
 
-- **Scheduling Links**: Share availability without back-and-forth emails
-- **Calendar Sync**: Connect with Google Calendar, Outlook, iCloud, or CalDAV
-- **Video Conferencing Integration**: Automatic Zoom, Google Meet, Microsoft Teams, Webex, or GoTo Meeting links
-- **Availability Rules**: Set working hours, buffers, and availability windows
-- **Event Types**: Create different meeting types with custom settings
-- **Invitee Timezone Detection**: Automatically adjust meeting times for different time zones
-- **Customization**: White-label scheduling pages and custom confirmations
-- **Routing**: Direct invitees to the right team member
-- **Analytics**: Track scheduling and meeting data
-- **Integrations**: Connect with Slack, Salesforce, HubSpot, and 70+ other apps
+- **Calendar sync** with Google, Outlook, and iCloud
+- **Custom availability** settings for time zone-aware scheduling
+- **Event types** for one-on-one, group, or recurring meetings
+- **Automated reminders** and cancellation policies
+
+## Limitations
+
+- Free plan users cannot connect more than 6 calendars
+- iCal support is deprecated for new accounts
 
 ## Pricing
 
-- **Free**: Basic scheduling with one event type
-- **Essentials**: $12/month, includes multiple event types and calendars
-- **Professional**: $20/month, adds group scheduling and custom branding
-- **Teams**: $25 per user/month, for team-based scheduling and management
-- **Enterprise**: Custom pricing with advanced features and dedicated support
+- Free plan
+- Pro plan: $10/month
+- Teams plan: $16/month
+- Enterprise: $15,000/year
+
+## Ratings
+
+- G2 rating: 4.7/5
+- Users highlight ease of use and reduced scheduling friction

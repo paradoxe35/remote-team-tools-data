@@ -1,0 +1,33 @@
+name: Wimi
+description: Affordable collaboration platform for non-profit organizations with
+  workspaces, communities, and communication tools, featuring customizable
+  project tracking and team coordination features.
+source_url: https://www.wimi-teamwork.com/
+category: Project Management
+tags:
+  - non-profit
+  - team coordination
+  - custom workspaces
+markdown: |-
+  ## Features
+
+  - Shared workspaces for team projects
+  - Communities for communication
+  - Task tracking across metrics
+  - Video conferencing
+
+  ## Pricing
+
+  - Communities: $3.24/user
+  - Projects: $12.97/user
+  - Suite: $16.21/user
+
+  ## Limitations
+
+  - Limited Gantt chart functionality
+  - Data centers only in France
+
+  (Capterra Rating: 4.7/5)
+brand: Wimi
+brand_logo_url: https://www.wimi-teamwork.com/images/logo.svg
+updated_at: 2026-02-20 12:21

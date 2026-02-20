@@ -1,0 +1,34 @@
+name: Bit.ai
+description: Collaborative knowledge management platform for creating and
+  sharing documents, wikis, and team resources. Ideal for knowledge-building
+  teams with smart document editing capabilities.
+source_url: https://bit.ai
+category: Knowledge Management
+tags:
+  - document-collaboration
+  - wiki
+  - knowledge-base
+markdown: |
+  ## Key Features
+
+  - Interactive document co-authoringing
+  - Smart workspace organization
+  - Visual web link embedding capabilities
+
+  ## Pricing
+
+  - Free: $0/user/month
+  - Pro: $11/user/month
+  - Business: $20/user/month
+
+  ## Pros and Cons
+  | Pros | Cons |
+  |------|------|
+  | Real-time document collaboration | Limited formatting customization |
+  | Multiple workspace support | Fewer integrations compared to competitors |
+
+  ## Customer Ratings
+
+  **Capterra**: 5/5 (8 customers)
+brand: Bit.ai
+updated_at: 2026-02-20 12:21

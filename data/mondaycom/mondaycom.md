@@ -1,14 +1,14 @@
-## Overview
-monday.com provides a visual platform for project management with customizable boards and multiple views. It streamlines workflows with automation, time tracking, and integrations.
-
 ## Features
-- Color-coded Kanban boards
-- Gantt charts and calendar views
-- Task dependencies and automation
-- Time tracking and workload management
-- Collaboration through comments and @mentions
+- Customizable boards and dashboards
+- Drag-and-drop interface
+- Automations for status changes
+- Templates for marketing/sales/ops
 
 ## Pricing
-- Free plan for basic features
-- Professional plan from $9.99/user/month
-- Enterprise plan (custom pricing)
+- Free tier for very small usage
+- Tiered per-seat plans
+
+## Limitations
+- Pricing increases with add-ons
+- Requires intentional setup
+- Reporting needs configuration

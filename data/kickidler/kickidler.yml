@@ -1,0 +1,47 @@
+name: Kickidler
+description: All-in-one remote team management platform with time tracking,
+  project management, and data loss prevention features. Offers live monitoring,
+  productivity analytics, task assignment, and cross-platform support for
+  Windows, macOS, and Linux.
+source_url: https://www.kickidler.com
+category: Productivity Monitoring
+tags:
+  - time-tracking
+  - employee-monitoring
+  - cross-platform
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Kickidler is an all-in-one remote team management platform combining time
+  tracking, employee monitoring, and project management capabilities.
+
+
+  ## Key Features
+
+
+  * Real-time screen monitoring and live sessions
+
+  * Detailed productivity reports and analytics
+
+  * Task assignment and deadline tracking
+
+  * Cross-platform support (Windows/macOS/Linux)
+
+  * Data loss prevention (DLP) capabilities
+
+  * Billable hours tracking and timesheet generation
+
+
+  ## Pricing
+
+
+  Subscription-based pricing with tiered plans starting at $29/month for basic
+  features (up to 10 users). Enterprise solutions available upon request.
+brand: Kickidler
+brand_logo_url: https://www.kickidler.com/assets/images/logos/logo-2-names-big.jpg
+images:
+  - https://www.kickidler.com/assets/images/features-img/Windows-black-white.png
+  - https://www.kickidler.com/assets/images/features-img/project-tracking.png
+updated_at: 2026-02-20 12:21

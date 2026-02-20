@@ -1,62 +1,25 @@
 name: Miro
-description: A digital collaboration platform providing an infinite canvas for
-  visual thinking, brainstorming, and planning. Miro enables remote teams to
-  work together on ideation, design, and process planning in real-time.
+description: Online visual collaboration platform with infinite digital
+  whiteboards for brainstorming, mapping, and project planning with real-time
+  multi-cursor support.
 source_url: https://miro.com
-category: Collaboration & Design
+category: Digital Whiteboarding
 tags:
-  - visual-collaboration
-  - brainstorming
-  - diagramming
-featured: false
-markdown: >-
-  ## Overview
-
-
-  Miro is a visual collaboration platform that provides an infinite digital
-  canvas where remote teams can collaborate on brainstorming, planning, design,
-  and process mapping. It supports synchronous and asynchronous teamwork.
-
-
-  ## Key Features
-
-
-  - **Infinite Canvas**: Unlimited space for brainstorming and planning
-
-  - **Diagramming Tools**: Shapes, connectors, and drawing tools
-
-  - **Templates**: Pre-built templates for common workflows (mind maps,
-  flowcharts, wireframes)
-
-  - **Real-Time Collaboration**: Work together with team members simultaneously
-
-  - **Sticky Notes**: Digital sticky notes for ideation
-
-  - **Integrations**: Connect with Slack, Microsoft Teams, Jira, and other tools
-
-  - **Presentations**: Present your work directly from the board
-
-  - **Voting & Commenting**: Gather feedback from team members
-
-  - **Mobile Support**: Work on iOS and Android
-
-  - **Permissions**: Manage access and collaboration levels
-
-  - **API**: Programmatic access for custom integrations
-
+  - whiteboard
+  - collaborative-design
+  - retrospectives
+markdown: |-
+  ## Features
+  - Infinite canvas with drag-and-drop elements
+  - Template library for workshops and design
+  - Real-time collaboration with multiple cursors
 
   ## Pricing
+  - Free tier with limited editing
+  - Team/Business/Enterprise tiers
 
-
-  - **Free Plan**: Basic whiteboarding with limited features
-
-  - **Team**: $16 per user/month (billed annually), includes unlimited boards
-  and viewers
-
-  - **Business**: $30 per user/month, adds advanced security and team management
-
-  - **Enterprise**: Custom pricing with dedicated support and advanced
-  compliance features
-brand: Miro
-brand_logo_url: https://miro.com/favicon.ico
-updated_at: 2026-02-14 04:46
+  ## Limitations
+  - Performance issues on low-end devices
+  - Cluttered boards without facilitation
+  - Advanced features in premium tiers
+updated_at: 2026-02-20 12:21

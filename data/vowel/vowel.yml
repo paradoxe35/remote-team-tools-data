@@ -1,0 +1,14 @@
+name: Vowel
+description: AI-powered video conferencing tool that generates meeting summaries
+  and transcripts, enabling easy review and search of past discussions. Ideal
+  for remote teams needing structured, searchable meetings with agendas and
+  collaboration features.
+source_url: https://www.vowel.com
+category: Communication
+tags:
+  - video-conferencing
+  - ai-powered
+  - meeting-summarization
+markdown: "## Overv..."
+brand: Vowel
+updated_at: 2026-02-20 12:21

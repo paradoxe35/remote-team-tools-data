@@ -1,14 +1,23 @@
-## Overview
-Microsoft Teams combines chat, meetings, file storage, and application integration into a single platform for remote teams. It supports real-time collaboration with tools like whiteboards and screen sharing.
+## Key Features
 
-## Features
-- Real-time chat and channels
-- Video conferencing with breakout rooms
-- Integration with Microsoft 365 apps
-- Cloud storage via OneDrive
-- Task management via Planner
+- Secure team chat channels
+- Integrated video conferencing
+- File sharing and collaboration
+- Integration with Microsoft 365
 
 ## Pricing
-- Free plan with basic features
-- Business plan ($4.00/user/month)
-- Enterprise plan (custom pricing)
+
+- Free: $0/month
+- Essentials: $4/user/month
+- Business Basic: $6/user/month
+- Business Standard: $12.50/user/month
+
+## Pros and Cons
+| Pros | Cons |
+|------|------|
+| Strong security features | Navigation not intuitive for new users |
+| Microsoft ecosystem integration | Limited file search capabilities |
+
+## Customer Ratings
+
+**Capterra**: 4.4/5 (9,800+ customers)

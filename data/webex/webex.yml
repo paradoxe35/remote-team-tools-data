@@ -1,0 +1,26 @@
+name: Webex
+description: Cloud-based communication and collaboration platform providing
+  secure video conferencing, messaging, cloud calling, and webinar capabilities.
+  Designed for enterprise settings with strong security and compliance features.
+source_url: https://webex.com
+category: Video Conferencing
+tags:
+  - video-meeting
+  - secure-communications
+  - enterprise-collaboration
+markdown: |-
+  ## Features
+  - Secure video meetings and webinars
+  - Integrated messaging and cloud calling
+  - Virtual event hosting
+  - Strong administrative controls
+
+  ## Pricing
+  - Free limited plan
+  - Business and Enterprise subscriptions
+
+  ## Limitations
+  - Less intuitive for remote-first teams
+  - Complex setup for small organizations
+  - Less feature parity with competitors
+updated_at: 2026-02-20 12:21
