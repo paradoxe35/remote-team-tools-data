@@ -196,3 +196,109 @@
   name: Gantt Charts
 - id: remote-meetings
   name: Remote Meetings
+- id: global-rewards
+  name: Global Rewards
+- id: cross-platform-integrations
+  name: Cross Platform Integrations
+- id: enterprise-scale
+  name: Enterprise Scale
+- id: simplicity
+  name: Simplicity
+- id: small-team
+  name: Small Team
+- id: cross-functional-tracking
+  name: Cross Functional Tracking
+- id: video-editing
+  name: Video Editing
+- id: audio-editing
+  name: Audio Editing
+- id: wiki
+  name: Wiki
+- id: knowledge-base
+  name: Knowledge Base
+- id: integration
+  name: Integration
+- id: instructional-design
+  name: Instructional Design
+- id: note-sharing
+  name: Note Sharing
+- id: team-storage
+  name: Team Storage
+- id: wiki-collaboration
+  name: Wiki Collaboration
+- id: productivity-suite
+  name: Productivity Suite
+- id: ai
+  name: AI
+- id: employee-monitoring
+  name: Employee Monitoring
+- id: office-suite
+  name: Office Suite
+- id: team-chat
+  name: Team Chat
+- id: microsoft-integration
+  name: Microsoft Integration
+- id: whiteboard
+  name: Whiteboard
+- id: collaborative-design
+  name: Collaborative Design
+- id: retrospectives
+  name: Retrospectives
+- id: visual-project-management
+  name: Visual Project Management
+- id: cross-functional-teams
+  name: Cross Functional Teams
+- id: ai-driven
+  name: AI Driven
+- id: time-blocking
+  name: Time Blocking
+- id: peer-recognition
+  name: Peer Recognition
+- id: small-business
+  name: Small Business
+- id: document-management
+  name: Document Management
+- id: real-time-editing
+  name: Real Time Editing
+- id: ai-integration
+  name: AI Integration
+- id: workflows
+  name: Workflows
+- id: discussion-forums
+  name: Discussion Forums
+- id: formulas
+  name: Formulas
+- id: financial
+  name: Financial
+- id: team-productivity
+  name: Team Productivity
+- id: resource-management
+  name: Resource Management
+- id: profitability-tracking
+  name: Profitability Tracking
+- id: task-tracker
+  name: Task Tracker
+- id: natural-lang
+  name: Natural Lang
+- id: personal-organization
+  name: Personal Organization
+- id: kanban-boards
+  name: Kanban Boards
+- id: visual-task-management
+  name: Visual Task Management
+- id: lightweight-projects
+  name: Lightweight Projects
+- id: meeting-summarization
+  name: Meeting Summarization
+- id: video-meeting
+  name: Video Meeting
+- id: secure-communications
+  name: Secure Communications
+- id: enterprise-collaboration
+  name: Enterprise Collaboration
+- id: non-profit
+  name: Non Profit
+- id: team-coordination
+  name: Team Coordination
+- id: custom-workspaces
+  name: Custom Workspaces

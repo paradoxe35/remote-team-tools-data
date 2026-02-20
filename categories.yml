@@ -40,3 +40,19 @@
   name: Remote Access
 - id: time-management
   name: Time Management
+- id: employee-recognition
+  name: Employee Recognition
+- id: multimedia-creation
+  name: Multimedia Creation
+- id: file-storagecollaboration
+  name: File Storage/Collaboration
+- id: note-taking
+  name: Note Taking
+- id: all-in-one-suites
+  name: All In One Suites
+- id: productivity-monitoring
+  name: Productivity Monitoring
+- id: digital-whiteboarding
+  name: Digital Whiteboarding
+- id: spreadsheets
+  name: Spreadsheets

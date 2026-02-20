@@ -33,7 +33,7 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.10
+version: 0.1.11
 metadata:
   last_request_data:
     generation_method: create-update
@@ -49,86 +49,9 @@ metadata:
     pluginConfig:
       target_keywords:
         - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
-        - remote team tools
       capture_screenshots: false
+      target_items: 50
+      max_pages_to_process: 10
     _processedPluginConfig: {}
     config:
       max_search_queries: 10
