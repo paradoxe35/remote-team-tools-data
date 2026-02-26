@@ -15,7 +15,7 @@ settings:
     layout_enabled: true
     language_enabled: true
     theme_enabled: true
-    layout_default: home2
+    layout_default: home1
     pagination_default: infinite
     theme_default: light
   homepage:
