@@ -7,7 +7,7 @@ copyright_year: 2026
 settings:
   categories_enabled: true
   companies_enabled: false
-  tags_enabled: false
+  tags_enabled: true
   surveys_enabled: false
   header:
     submit_enabled: true
