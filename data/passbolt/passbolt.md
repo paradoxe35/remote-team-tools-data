@@ -1,0 +1,41 @@
+## Overview
+
+Passbolt is an open-source credential management platform built for modern IT teams while remaining accessible to general users. It's a sovereign, battle-tested solution that scales from a team of 5 to an organization of 5,000, trusted by over 50,000 organizations worldwide including government agencies, defense entities, and universities.
+
+## Features
+
+### Security Architecture
+- **End-to-End Encryption** - Public-private key architecture with randomly generated private keys
+- **Individual Password Encryption** - Granular data privacy with per-item encryption
+- **Multifactor Authentication** - Enabled by default for enhanced security
+- **Phishing-Resistant** - 3-letter tokens and color combinations prevent phishing attacks
+- **Zero-Knowledge Architecture** - Only users can decrypt their passwords
+
+### Collaboration & Management
+- **Granular Credential Sharing** - Fine-grained permissions for password access
+- **Folder Organization** - Organize with tags and descriptions
+- **Instant Sharing Notifications** - Real-time alerts when passwords are shared
+- **Real-Time Activity Monitoring** - Track all credential access and changes
+
+### Deployment Options
+- **Self-Hosted On-Premises** - Full control over your data and infrastructure
+- **Cloud-Hosted in Europe** - Managed service hosted in EU data centers
+- **API-Centric Design** - CLI and SDK support for automation
+- **Air-Gap Compatible** - Works in isolated, high-security environments
+
+### Compliance Features
+- **SOC 2 Type II Certified** - Independently audited security controls
+- **GDPR Compliant** - Meets European data protection requirements
+- **Regular Third-Party Audits** - Ongoing security assessments
+- **Customizable Security Policies** - Enforce organizational security standards
+- **Strong Audit Trails** - Comprehensive logging for compliance
+
+## Editions
+
+- **Community Edition (CE)** - Free, self-hosted open-source version
+- **Pro** - Self-hosted professional version with advanced features
+- **Cloud** - EU-hosted managed service
+
+## Pricing
+
+Community Edition is free. Visit their website for Pro and Cloud pricing details.

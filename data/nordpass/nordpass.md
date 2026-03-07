@@ -1,0 +1,38 @@
+## Overview
+
+NordPass is an innovative password management solution designed for a simpler and safer online experience on any device. For businesses, it enables teams to manage employee passwords, passkeys, and other sensitive information in one secure place. Trusted by over 10,000 businesses globally with a 4.5-star G2 rating.
+
+## Features
+
+### Security & Management
+- **End-to-End Encryption** - XChaCha20 encryption algorithm for maximum security
+- **Zero-Knowledge Architecture** - Only users can access their encrypted credentials
+- **Data Breach Scanner** - Dark web monitoring to detect compromised credentials
+- **Password Policies** - Enforce company-wide credential standards
+- **Activity Log** - Audit trails and compliance tracking for security teams
+
+### Collaboration & Sharing
+- **Secure Credential Sharing** - Share passwords safely with team members
+- **Sharing Hub** - Monitor and manage all shared items from a central location
+- **Autofill and Autosave** - Seamless password management across browsers and apps
+
+### Additional Security Features
+- **Built-in Authenticator** - Integrated 2FA for enhanced protection
+- **Email Masking** - Reduce phishing risks with masked email addresses
+- **FIDO2 Compliance** - Support for passkeys and modern authentication standards
+
+### Infrastructure
+- **AWS Hosting** - High uptime and reliability
+- **Third-Party Security Audits** - Regular independent security assessments
+- **Bug Bounty Program** - Ongoing security testing by researchers
+
+## Customer Ratings (G2)
+
+- **Overall**: 4.5/5 stars
+- **Ease of Use**: 8.9/10
+- **Admin Capabilities**: 9.0/10
+- **Customer Support**: 9.1/10
+
+## Pricing
+
+Starts from a monthly per-user rate with no hidden paywalls. Visit their website for current pricing details.

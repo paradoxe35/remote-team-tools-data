@@ -1,0 +1,36 @@
+## Overview
+
+Vmaker AI is an all-in-one video platform that combines AI-powered video generation, comprehensive editing, and professional screen recording capabilities. Trusted by over 25 million users and major enterprises including Amazon, Bosch, Visa, and McDonald's, it's designed for content creators, marketers, and L&D teams.
+
+## Features
+
+- **AI Video Generation** - Create videos from text, audio, and documents using 100+ AI avatars with precise lip-sync
+- **4K Screen Recording** - Record screen and webcam at 4K resolution for professional quality
+- **Video Editing Suite** - Comprehensive editing tools with AI-powered enhancements
+- **Auto-Generated Subtitles** - Automatic subtitles in 35+ languages with 10+ animation styles
+- **Long-to-Short Conversion** - Transform long videos into short clips for social media
+- **Highlight Generation** - Automatically identify and extract key moments
+- **Background Removal** - AI-powered background removal for webcam recordings
+- **Content Repurposing** - MAD AI feature applies viral video styles to your content
+- **Multi-Language Support** - Create and edit content in multiple languages
+- **Professional Templates** - Ready-made templates for various video types
+
+## Use Cases
+
+- YouTube content creation
+- Marketing and promotional videos
+- Learning and development materials
+- Product demonstrations
+- Training videos
+- Social media content
+- Customer onboarding
+- Internal communications
+
+## Recognition
+
+- Winner of "AI Startup of the Year Award"
+- GDPR, ISO, and CyberGRX certified for security and compliance
+
+## Pricing
+
+Vmaker offers free access with paid plans available for additional features and capabilities.

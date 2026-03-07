@@ -1,0 +1,53 @@
+## Overview
+
+Grammarly is the AI writing leader for more than a decade, helping professionals, students, and organizations produce clear, credible writing. Trusted by 50,000 organizations and 40 million users, Grammarly saves organizations an average of $5,000 annually per employee with 66% improvement in communication effectiveness.
+
+## Features
+
+### Writing Assistance
+- **Grammar and Spelling Correction** - Real-time error detection and correction
+- **Tone Detection** - Understand how your writing comes across to readers
+- **Tone Adjustment** - Modify your writing to match the desired tone
+- **Full Sentence Rewrites** - AI-powered suggestions to improve clarity and impact
+- **Reader Reaction Feedback** - Predict how readers will perceive your message
+
+### AI-Powered Features
+- **AI Text Generation** - Create content with AI assistance (100-2,000+ prompts/month by plan)
+- **Paraphrasing** - Rephrase text while maintaining meaning
+- **Citation Generation** - Automatically generate citations in various formats
+- **Plagiarism Detection** - Check content originality (Pro and Enterprise)
+
+### Team & Brand Features
+- **Style Guide Customization** - Create and maintain consistent writing standards
+- **Brand Tone Profiles** - Turn company voice into actionable guidance
+- **Team Consistency** - Keep organizational writing aligned across all communications
+- **Data Loss Prevention** - Enterprise security features for sensitive content
+
+### Multi-Language Support
+- Real-time writing support in English, Spanish, French, German, Portuguese, and Italian
+- Instant in-line translation
+- Paragraph-level rewrites in multiple languages
+
+## Platform Integration
+
+Integrates with one million apps and websites:
+- Desktop applications
+- Browser extensions (Chrome, Firefox, Safari, Edge)
+- Mobile apps (iOS, Android)
+- Google Docs
+- Microsoft Office
+- Email clients
+- Slack and other messaging platforms
+
+## Pricing
+
+- **Free Plan** - Basic error correction, tone visualization, 100 AI prompts/month
+- **Pro Plan** - $12/month (annual) or $30/month (monthly) with 2,000 AI prompts, advanced rewrites
+- **Enterprise** - Custom pricing for 150+ users with unlimited prompts and dedicated support
+
+## Impact for Remote Teams
+
+- Average $5,000 annual savings per employee
+- 66% improvement in communication effectiveness
+- Consistent brand voice across distributed teams
+- Reduced editing and revision time

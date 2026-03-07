@@ -1,0 +1,113 @@
+name: Figma
+description: Web-based collaborative interface design tool that enables teams to
+  work together in real-time on UI/UX design projects, with features for
+  wireframing, prototyping, design systems, and developer handoff all in one
+  platform.
+source_url: https://www.figma.com/
+category: Collaboration & Design
+tags:
+  - design
+  - real-time-collaboration
+  - prototyping
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Figma is the collaborative interface design tool that brings every part of the
+  UI and UX design process into one place. The gold standard for design systems
+  in 2026, Figma allows teams to sketch wireframes, design visuals, create
+  prototypes, and handoff to developers—all in the same file with real-time
+  collaboration.
+
+
+  ## Features
+
+
+  ### Design & Prototyping
+
+  - **Vector Design Tools** - Complete suite of design tools for creating
+  interfaces
+
+  - **Wireframing** - Sketch low-fidelity wireframes and iterate quickly
+
+  - **Prototyping** - Create interactive prototypes with transitions and
+  animations
+
+  - **Design Systems** - Build and maintain consistent design systems across
+  products
+
+  - **Components & Variants** - Reusable design elements that stay in sync
+
+  - **Auto Layout** - Responsive designs that adapt to content changes
+
+
+  ### Real-Time Collaboration
+
+  - **Simultaneous Editing** - Multiple team members work in the same file at
+  once
+
+  - **Live Cursors** - See teammates' cursors moving in real-time
+
+  - **Embedded Commenting** - Leave comments directly on designs or prototypes
+
+  - **Version History** - Track every change with full version control
+
+  - **Share & Present** - Share designs with stakeholders via links
+
+
+  ### Developer Handoff
+
+  - **Inspect Mode** - Developers can extract CSS, iOS, and Android code
+
+  - **Export Assets** - Export icons, images, and other assets in multiple
+  formats
+
+  - **Developer-Friendly Specs** - Automatic measurements and spacing details
+
+  - **Code-to-Design Integration** - Recent OpenAI Codex partnership for
+  seamless code generation
+
+
+  ### Recent 2026 Features
+
+  - **Figma MCP Server** - Enhanced development workflow integration
+
+  - **Figma Sites** - Design and publish responsive websites
+
+  - **Figma Make** - Create functional apps using AI
+
+  - **AI Tools** - AI-powered design assistance and automation
+
+
+  ## Team Access
+
+
+  Designers, developers, product managers, QA testers, and clients can all work
+  inside the same file simultaneously, making Figma ideal for cross-functional
+  remote teams.
+
+
+  ## Platform Availability
+
+
+  - Web-based (works in any modern browser)
+
+  - Desktop apps for Mac and Windows
+
+  - Mobile apps for iOS and Android (view-only)
+
+
+  ## Pricing
+
+
+  - **Free Plan** - Available for individuals and small teams
+
+  - **Professional** - For growing teams with advanced features
+
+  - **Organization** - For companies needing centralized administration
+
+  - **Enterprise** - Custom pricing for large organizations
+brand: Figma
+brand_logo_url: https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png
+updated_at: 2026-03-07 19:07

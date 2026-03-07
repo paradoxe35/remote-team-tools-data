@@ -1,0 +1,136 @@
+name: Slab
+description: Modern knowledge base and wiki platform that helps teams unlock
+  their potential through shared learning and documentation, with unified search
+  across integrated tools, real-time collaboration, and intuitive organization
+  via Topics.
+source_url: https://slab.com/
+category: Knowledge Management
+tags:
+  - wiki
+  - documentation
+  - knowledge-base
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Slab is a knowledge base, pure and simple—a modern knowledge hub and wiki that
+  helps teams unlock their full potential through shared learning and
+  documentation. Popular among startups and smaller teams for its minimal
+  friction and intuitive interface, Slab is used for onboarding docs, company
+  handbooks, product documentation, and internal wikis.
+
+
+  ## Features
+
+
+  ### Editor & Content Creation
+
+  - **Modern Editor** - Intuitive editing capabilities with rich media support
+
+  - **Real-Time Collaboration** - Multiple members can create, edit, and update
+  content simultaneously
+
+  - **Interactive Widgets** - Add media files and interactive elements to
+  documentation
+
+  - **Custom Templates** - Create and customize templates for consistent
+  documentation
+
+
+  ### Organization & Structure
+
+  - **Slab Topics** - Organize content and provide relevant context for easy
+  navigation
+
+  - **Custom Labels** - Tag and categorize content for better discoverability
+
+  - **Version History** - Track changes and restore previous versions (Business
+  tier and above)
+
+  - **Content Review** - Require regular review of certain posts to ensure
+  accuracy
+
+
+  ### Search & Discovery
+
+  - **Unified Search** - Pulls answers from Slab content and all integrated
+  tools in one place
+
+  - **Blazing Fast Search** - Quickly find the information you need across all
+  documentation
+
+  - **Relevant Results** - AI-driven search returns the most relevant content
+
+
+  ### Security & Access Control
+
+  - **Single Sign-On (SSO)** - OAuth or SAML-based authentication
+
+  - **Advanced Permissions** - Granular control over who can view and edit
+  content (Business tier and above)
+
+  - **Secure Access** - Enterprise-grade security for sensitive documentation
+
+
+  ### Integrations
+
+
+  Supports integration with various third-party applications:
+
+  - Google Drive
+
+  - Slack
+
+  - Asana
+
+  - Jira
+
+  - Trello
+
+  - Zendesk
+
+  - And more
+
+
+  ## Target Users
+
+
+  - Startups and small teams seeking simple wiki solutions
+
+  - Non-technical and tech-savvy teams
+
+  - Organizations needing centralized knowledge management
+
+  - Remote teams requiring collaborative documentation
+
+
+  ## Pricing
+
+
+  - **Free Plan** - Full functionality for teams under 10 users
+
+  - **Startup** - $6.67 per user/month (billed annually)
+
+  - **Business** - $12.50 per user/month (billed annually) with version history
+  and analytics
+
+  - **Enterprise** - Custom pricing with advanced features
+
+
+  ## Use Cases
+
+
+  - Employee onboarding documentation
+
+  - Company handbooks and policies
+
+  - Product documentation
+
+  - Internal wikis and knowledge bases
+
+  - Process documentation
+
+  - Team collaboration and knowledge sharing
+brand: Slab
+updated_at: 2026-03-07 19:07

@@ -1,0 +1,68 @@
+## Overview
+
+Descript is an AI-powered all-in-one video and podcast editor used by over 6 million creators. Its core innovation is text-based editing: when you import media, Descript transcribes it automatically, and you edit the video or audio by editing the transcript text—just like editing a document.
+
+## Features
+
+### Text-Based Editing
+- **Edit Like a Doc** - Edit videos and podcasts by editing the transcript
+- **Automatic Transcription** - AI transcribes media automatically on import
+- **Cut Words, Not Timelines** - Delete filler words or entire sentences as text
+- **Multi-Track Editing** - Work with multiple video and audio tracks
+
+### AI-Powered Features
+- **Studio Sound** - AI-powered audio enhancement for professional quality
+- **AI Speakers / Regenerate** - Voice cloning technology for corrections
+- **Filler Word Removal** - Automatically remove "ums" and "ahs"
+- **AI Video Generation** - Create videos using Veo 3.1 and Sora 2 models
+- **AI Image Generation** - Generate images for your projects
+- **Underlord AI Co-Editor** - Agentic AI assistant for editing tasks
+
+### Collaboration Tools
+- **Real-Time Collaboration** - Google Docs-style simultaneous editing
+- **Time-Stamped Comments** - Leave feedback directly on the transcript
+- **Shared Workspace** - Team access to projects and assets
+- **Version History** - Track changes and restore previous versions
+- **Efficient Reviews** - Comment and edit together in one place
+
+### Recording & Production
+- **Descript Rooms** - Remote recording for up to 10 guests
+- **Screen Recording** - Capture your screen with audio
+- **Webcam Recording** - Record yourself while editing
+- **4K Export** - High-quality video export (Creator tier and above)
+
+### Translation & Accessibility
+- **Translation** - Translate and dub in 30+ languages
+- **Multilingual Support** - Reach global audiences
+- **Automatic Captions** - Generate subtitles automatically
+
+### Team Features
+- **Brand Studio** - Custom templates and brand assets (Business tier)
+- **Media Library** - Shared stock and brand assets
+- **AI Voice Clones** - Team access to custom voice models
+- **Priority Support** - Dedicated support for business users
+
+## Pricing
+
+- **Free** - $0/month, 60 total minutes, 100 AI credits
+- **Hobbyist** - $16/month (annual), 10 hours/month, 400 AI credits
+- **Creator** - $24/month (annual), 30 hours/month, 800 credits, 4K export
+- **Business** - $50/month (annual), 40 hours/month, 1,500 credits, Brand Studio, priority support
+- **Enterprise** - Custom pricing with SSO/SCIM, dedicated support
+
+## Use Cases
+
+- Podcast editing and production
+- Video content creation
+- Team video collaboration
+- Remote interview recording
+- Training video creation
+- Marketing content production
+- Social media video editing
+- Educational content
+
+## Platform Availability
+
+- Web-based editor
+- Desktop apps (Mac and Windows)
+- Mobile apps for recording

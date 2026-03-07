@@ -1,0 +1,47 @@
+## Overview
+
+GitLab is the most comprehensive AI-powered DevSecOps platform for software innovation, serving over 50 million users globally including major enterprises like NVIDIA, Barclays, Lockheed Martin, Deutsche Telekom, and Ericsson. The platform enables organizations to consolidate the entire software development lifecycle into a single integrated environment.
+
+## Features
+
+### Development & Collaboration
+- **Source Code Management** - Git-based version control and repository hosting
+- **CI/CD Automation** - Continuous integration and continuous deployment pipelines
+- **End-to-End DevOps** - Complete workflows in one unified platform
+- **Merge Request Reviews** - Collaborative code review with inline commenting
+
+### Security (DevSecOps)
+- **Integrated Security Testing** - SAST, SCA, Secret Detection, and DAST built-in
+- **Vulnerability Detection** - Security scanning in merge requests
+- **Compliance Automation** - Automated audit-ready evidence collection
+- **Shift-Left Security** - Security testing early in the development process
+
+### AI Capabilities
+- **GitLab Duo Agent Platform** - Orchestrate teams and AI agents together
+- **Code Suggestions** - AI-assisted code completion and generation
+- **Automated Workflows** - AI agents that convert issues to merge requests
+- **Code Review Assistance** - AI-powered code review suggestions
+
+### Measurement & Visibility
+- **Value Stream Management** - Track and optimize software delivery metrics
+- **Analytics and Insights** - Deployment frequency, lead time, and performance metrics
+- **Complete Lifecycle Visibility** - See the entire software delivery process
+
+## Key Differentiators
+
+GitLab's all-in-one approach means teams don't need to integrate multiple tools (GitHub, Jenkins, Snyk, etc.). Everything from version control to deployment lives in one platform, reducing context switching and integration complexity.
+
+## Pricing
+
+- **Free Tier** - Available for individuals and small teams
+- **Premium** - Advanced features for growing teams
+- **Ultimate** - Enterprise-grade features including advanced security and compliance
+
+Visit their pricing page for detailed plan comparisons.
+
+## Target Users
+
+- Enterprise software teams
+- DevSecOps organizations
+- Regulated industries requiring compliance
+- Teams seeking to consolidate their DevOps toolchain

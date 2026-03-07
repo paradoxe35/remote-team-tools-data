@@ -1,0 +1,88 @@
+## Overview
+
+Guru is an AI-powered knowledge management system that brings all of a company's collective information into one place and delivers trusted answers exactly when and where they're needed. Teams can work smarter, faster, and more efficiently with proactive AI that surfaces knowledge without leaving their workflow.
+
+## Features
+
+### AI Enterprise Search
+- **Semantic Search** - Analyzes meaning behind questions and connects with related concepts
+- **Proactive AI Suggestions** - Surfaces relevant knowledge automatically
+- **Contextual Triggers** - Delivers answers based on what you're working on
+- **Cross-Platform Search** - Find information across all connected tools
+- **Permission-Aware** - Respects access controls and data security
+
+### Company Wiki & Knowledge Base
+- **Centralized Documentation** - Dedicated space for official docs and guides
+- **Version Control** - Track changes and maintain document history
+- **Content Verification** - Card-based system with built-in verification workflows
+- **Automatic Updates** - AI flags outdated content and suggests updates
+- **Gap Detection** - Identifies missing knowledge and recommends new content
+
+### Intranet & Team Hub
+- **Company News** - Centralized hub for announcements and updates
+- **Employee Directory** - HRIS-synced employee information
+- **Team Homepages** - Department-specific landing pages
+- **Onboarding Resources** - Organized information for new hires
+
+### Knowledge Agents
+- **Department-Specific Bots** - Specialized AI agents for HR, Sales, Support, etc.
+- **Role-Tailored Answers** - Responses customized to user roles
+- **Automated Workflows** - Knowledge delivery without manual intervention
+- **24/7 Availability** - Always-on AI assistance
+
+### Workflow Integration
+- **Slack Integration** - Answers delivered in Slack channels and DMs
+- **Microsoft Teams** - Native Teams integration with bot support
+- **Browser Extensions** - Knowledge suggestions while browsing
+- **CRM Integration** - Context-aware knowledge in sales tools
+- **No Context Switching** - Access knowledge without leaving current tools
+
+### Content Management
+- **Verified Content** - Review and approval workflows
+- **Content Ownership** - Assign subject matter experts
+- **Expiration Dates** - Automatic reminders to update content
+- **Usage Analytics** - Track which content is most valuable
+- **Search Analytics** - Understand what people are looking for
+
+## Use Cases
+
+- Sales enablement and customer interactions
+- Customer support knowledge delivery
+- IT operations and troubleshooting
+- HR policy and benefits information
+- Onboarding and training
+- Product documentation
+- Compliance and procedures
+- Cross-team knowledge sharing
+
+## Popular Departments
+
+- Sales teams (real-time answers during calls)
+- Support teams (instant access to solutions)
+- IT operations (troubleshooting guides)
+- HR departments (policy and benefits)
+- Product teams (documentation)
+- Marketing (brand guidelines and assets)
+
+## Key Benefits
+
+- Reduce time spent searching for information
+- Ensure teams have verified, up-to-date knowledge
+- Enable self-service across the organization
+- Maintain single source of truth
+- Scale knowledge without scaling headcount
+- Improve onboarding efficiency
+- Increase team productivity
+
+## Platform Availability
+
+- Web application
+- Slack integration
+- Microsoft Teams integration
+- Browser extensions (Chrome, Firefox, Edge)
+- Mobile apps
+- API for custom integrations
+
+## Pricing
+
+Contact Guru for pricing based on team size and requirements.

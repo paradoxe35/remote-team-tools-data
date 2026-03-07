@@ -1,0 +1,81 @@
+## Overview
+
+Coda is a collaborative all-in-one platform that blends the best of docs, spreadsheets, and applications into a unified workspace. Used by over 50,000 teams, Coda provides flexible authoring canvases where critical information lives centrally rather than being scattered across disconnected tools.
+
+## Features
+
+### Document & Workspace Structure
+- **Flexible Authoring Canvas** - Create documents (pages) with multiple interactive elements
+- **Team Hubs** - Assemble pages into project workspaces for team collaboration
+- **Nested Pages** - Organize knowledge from strategy to schedules in structured hierarchies
+- **Interactive Documents** - Combine text, data, automations, and apps in one doc
+
+### Real-Time Collaboration
+- **Co-Editing** - Multiple users work on documents simultaneously
+- **Comments & Mentions** - Leave feedback and tag team members
+- **Task Assignment** - Assign and track tasks within documents
+- **Progress Tracking** - Monitor project progress in one place
+- **Granular Permissions** - Control who views or edits specific parts
+
+### Data & Spreadsheet Features
+- **Tables & Databases** - Create powerful databases within docs
+- **Formulas & Functions** - Spreadsheet-like calculations and logic
+- **Interactive Dashboards** - Build custom dashboards with live data
+- **Views & Filters** - Multiple ways to view and slice data
+
+### Automation & AI
+- **Coda AI** - Delegate repetitive tasks and get insights faster
+- **Workflow Automation** - Automate processes without code
+- **Content Creation** - AI-assisted content generation
+- **Smart Insights** - AI-powered data analysis and recommendations
+
+### Integrations & Connectivity
+- **800+ App Integrations** - Connect with Slack, Jira, Salesforce, Gmail, and more
+- **API Access** - Build custom integrations and extensions
+- **Automation Workflows** - Connect apps and automate cross-platform workflows
+- **Data Sync** - Keep information synchronized across tools
+
+### Templates & Building Blocks
+- **Pre-Built Templates** - Start with templates for common use cases
+- **Custom Templates** - Create reusable templates for your team
+- **Packs** - Install pre-built integrations and functionality
+- **Building Blocks** - Modular components for creating custom solutions
+
+## Popular Use Cases
+
+- Product management and roadmapping
+- Project planning and tracking
+- Team wikis and knowledge bases
+- Meeting notes and documentation
+- OKRs and goal tracking
+- Process documentation
+- Data tracking and reporting
+- Marketing campaign management
+
+## Target Users
+
+- Product managers
+- Operations teams
+- Marketing teams
+- Engineering teams
+- Remote and distributed teams
+- Anyone wanting flexible, customized workflows
+
+## Key Benefits for Remote Teams
+
+- Centralized team knowledge accessible from anywhere
+- Real-time collaboration without version conflicts
+- Reduce tool sprawl by combining multiple functions
+- Transparent progress tracking for distributed teams
+- Flexible enough to adapt to any workflow
+
+## Platform Availability
+
+- Web-based application
+- Desktop apps (Mac and Windows)
+- Mobile apps (iOS and Android)
+- Browser extensions
+
+## Pricing
+
+Coda offers free and paid plans. Visit their pricing page for current details on features and costs.
