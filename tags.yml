@@ -322,3 +322,135 @@
   name: Hybrid Work
 - id: touchscreen
   name: Touchscreen
+- id: hr-software
+  name: Hr Software
+- id: onboarding
+  name: Onboarding
+- id: git
+  name: Git
+- id: ci-cd
+  name: Ci Cd
+- id: atlassian
+  name: Atlassian
+- id: meeting-recording
+  name: Meeting Recording
+- id: sales-automation
+  name: Sales Automation
+- id: async-video
+  name: Async Video
+- id: coaching
+  name: Coaching
+- id: client-management
+  name: Client Management
+- id: docs
+  name: Docs
+- id: employee-engagement
+  name: Employee Engagement
+- id: team-building
+  name: Team Building
+- id: slack-integration
+  name: Slack Integration
+- id: culture
+  name: Culture
+- id: prototyping
+  name: Prototyping
+- id: gamification
+  name: Gamification
+- id: mobile-app
+  name: Mobile App
+- id: distraction-blocking
+  name: Distraction Blocking
+- id: ticketing-system
+  name: Ticketing System
+- id: customer-support
+  name: Customer Support
+- id: shared-inbox
+  name: Shared Inbox
+- id: email-management
+  name: Email Management
+- id: omnichannel
+  name: Omnichannel
+- id: virtual-workspace
+  name: Virtual Workspace
+- id: remote-collaboration
+  name: Remote Collaboration
+- id: version-control
+  name: Version Control
+- id: code-collaboration
+  name: Code Collaboration
+- id: devsecops
+  name: Devsecops
+- id: writing-assistant
+  name: Writing Assistant
+- id: enterprise-search
+  name: Enterprise Search
+- id: remote-teams
+  name: Remote Teams
+- id: customer-messaging
+  name: Customer Messaging
+- id: live-chat
+  name: Live Chat
+- id: forms
+  name: Forms
+- id: surveys
+  name: Surveys
+- id: noise-cancellation
+  name: Noise Cancellation
+- id: zero-knowledge
+  name: Zero Knowledge
+- id: sso
+  name: Sso
+- id: hr-platform
+  name: Hr Platform
+- id: performance-management
+  name: Performance Management
+- id: encryption
+  name: Encryption
+- id: compliance
+  name: Compliance
+- id: open-source
+  name: Open Source
+- id: self-hosted
+  name: Self Hosted
+- id: presentations
+  name: Presentations
+- id: api-development
+  name: Api Development
+- id: testing
+  name: Testing
+- id: slack-alternative
+  name: Slack Alternative
+- id: calendar
+  name: Calendar
+- id: productivity-analytics
+  name: Productivity Analytics
+- id: podcast-recording
+  name: Podcast Recording
+- id: video-recording
+  name: Video Recording
+- id: remote-interviews
+  name: Remote Interviews
+- id: screen-capture
+  name: Screen Capture
+- id: workplace-analytics
+  name: Workplace Analytics
+- id: live-streaming
+  name: Live Streaming
+- id: access-control
+  name: Access Control
+- id: workforce-analytics
+  name: Workforce Analytics
+- id: async-communication
+  name: Async Communication
+- id: thread-based
+  name: Thread Based
+- id: sales-enablement
+  name: Sales Enablement
+- id: 4k-recording
+  name: 4k Recording
+- id: browser-based
+  name: Browser Based
+- id: no-download
+  name: No Download
+- id: simple
+  name: Simple

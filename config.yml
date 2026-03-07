@@ -34,16 +34,16 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.12
+version: 0.1.13
 metadata:
   last_request_data:
     generation_method: create-update
     update_with_pull_request: false
     website_repository_creation_method: create-using-template
-    name: Remote Team Tools
+    name: Awesome Remote Team Tools
     prompt: Generate a directory of productivity apps for remote teams
     providers:
-      pipeline: agent-pipeline
+      pipeline: claude-code
       search: jina
       ai: google
       contentExtractor: jina

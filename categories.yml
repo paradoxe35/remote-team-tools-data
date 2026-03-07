@@ -64,3 +64,15 @@
   name: Task Management Tools
 - id: digital-whiteboarding-tools
   name: Digital Whiteboarding Tools
+- id: employee-onboarding
+  name: Employee Onboarding
+- id: developer-tools
+  name: Developer Tools
+- id: customer-support
+  name: Customer Support
+- id: virtual-office
+  name: Virtual Office
+- id: password-management
+  name: Password Management
+- id: screen-recording
+  name: Screen Recording
