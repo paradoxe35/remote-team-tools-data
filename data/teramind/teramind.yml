@@ -1,0 +1,65 @@
+name: Teramind
+description: Teramind is a comprehensive employee monitoring and threat
+  detection platform featuring screen recording, keystroke logging, data loss
+  prevention, behavior analytics, and customizable dashboards. Designed for
+  security-conscious enterprises, it helps organizations maintain compliance
+  while protecting sensitive data through automated policy alerts and insider
+  threat detection. Compared to lighter alternatives like ActivTrak, Teramind
+  delivers deeper security and DLP capabilities at the cost of a more complex
+  setup.
+source_url: https://www.teramind.co
+category: Productivity Monitoring
+tags:
+  - security
+  - compliance
+  - user-behavior-analytics
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Teramind is an advanced employee monitoring platform with real-time
+  monitoring, historical activity playback (DVR-style), and OCR (optical
+  character recognition) technology for extracting text from screenshots. It is
+  well-suited for security-focused organizations operating in regulated
+  industries.
+
+
+  ## Features
+
+
+  - Screen recording with real-time monitoring and historical playback
+
+  - OCR technology that extracts and recognizes text from screenshots
+
+  - Website and application tracking
+
+  - Email and message monitoring
+
+  - Remote desktop control
+
+  - User behavior analytics that automatically flag unusual behavior indicating
+  insider threats
+
+  - Deep customization of monitoring policies and security settings
+
+  - Risk mitigation tools that monitor unauthorized access to confidential data
+
+
+  ## Integrations
+
+
+  - SIEM and SOAR platforms
+
+  - HR systems
+
+  - Custom API support
+
+
+  ## Pricing
+
+
+  Starting at $14 per user per month. Pricing increases significantly with the
+  number of employees monitored. Requires training due to its feature-rich and
+  complex interface.
+updated_at: 2026-04-04 20:36

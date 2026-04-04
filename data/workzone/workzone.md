@@ -1,0 +1,21 @@
+## Overview
+
+Workzone is a project management platform built for teams in marketing, operations, and agencies who need to manage complex projects, coordinate tasks across departments, and keep everyone aligned with clear project tracking and collaboration tools. It is a strong fit for mid-sized teams in marketing, creative, and operations managing multiple concurrent workstreams.
+
+## Features
+
+- **Portfolio-to-Task-Level Dashboard**: See every project's status at a glance and drill down into specific tasks without switching views. Color-coded indicators flag late or overdue work immediately.
+- **Creative Proofing**: Review and mark up creative assets directly in the platform, with centralized feedback to reduce revision rounds.
+- **Centralized Request Intake**: Capture incoming work through a standardized request form so every project starts with the right details in place.
+- **Project Templates**: Build and reuse templates tailored to specific workflows so recurring projects launch consistently without manual setup.
+- **Gantt Chart View**: Visualize task sequences, dependencies, and timelines in a single chart to track project schedules across workstreams.
+- **Workload Management**: Identify capacity issues before they cause missed deadlines.
+- **Real-Time Reporting**: Generate up-to-date reports for status reviews and stakeholder updates.
+
+## Integrations
+
+Integrations include Box, Dropbox, Everhour, Freshbooks, GitHub, Google Drive, Harvest, HubSpot, Jira, and Microsoft Office 365.
+
+## Pricing
+
+Plans start from $6/user/month. A 14-day free trial and free demo are available.

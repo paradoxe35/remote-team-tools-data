@@ -1,0 +1,53 @@
+name: Fireflies
+description: Fireflies.ai is an AI meeting assistant that automatically joins
+  calls, records conversations, and generates transcriptions with smart
+  summaries and action item extraction. It offers unlimited meeting
+  transcription, conversation analytics, CRM integrations, and a searchable
+  meeting intelligence database, making it ideal for remote teams that need to
+  capture and organize meeting insights. Compared to Otter.ai, Fireflies
+  provides deeper CRM and business tool integrations for seamless workflow
+  automation.
+source_url: https://fireflies.ai
+category: Video Conferencing
+tags:
+  - ai
+  - transcription
+  - meeting-assistant
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Fireflies transcribes meetings and tracks conversation topics. It uses an AI
+  bot called Fred that handles summarizing meeting contents, generating text,
+  and searching through meeting history.
+
+
+  ## Features
+
+
+  - Automatic meeting transcription
+
+  - Conversation topic tracking
+
+  - AI bot (Fred) for summarizing meeting contents
+
+  - Text generation from meeting content
+
+  - Searchable meeting history
+
+  - AI-powered extraction of key action items
+
+  - Integration capabilities with Zapier for downstream workflow automation
+
+  - CRM update capabilities from meeting transcripts
+
+  - Project management task creation from meeting data
+
+
+  ## Pricing
+
+
+  Free and paid tiers available.
+brand: Fireflies.ai
+updated_at: 2026-04-04 20:36

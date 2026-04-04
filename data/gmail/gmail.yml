@@ -1,0 +1,65 @@
+name: Gmail
+description: Google's email service offering intelligent inbox organization with
+  tabbed categories, smart compose and reply, robust spam filtering, email
+  scheduling, confidential mode, and AI-powered writing assistance integrated
+  with Google Workspace. Widely adopted for both personal and professional
+  communication across remote teams. Excels at search and spam filtering
+  compared to Outlook, though with less structured email organization.
+source_url: https://mail.google.com
+category: Communication
+tags:
+  - email
+  - google-workspace
+  - asynchronous
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Gmail is a cloud-based communication platform that allows team members to send
+  and receive messages, documents, and files at their own pace. It supports
+  threaded conversations and the ability to label and prioritize messages for
+  later action.
+
+
+  ## Features
+
+
+  - Filters and labels for easy organization and sorting of messages to keep
+  inboxes clutter-free
+
+  - Offline access for reading emails and collaborating on documents with
+  limited internet connectivity
+
+  - Integration with Google services (Google Drive, Google Docs, Google
+  Calendar) for easy collaboration
+
+  - Search functionality to find emails by keywords, dates, and sender
+  information
+
+  - Automatic spam protection to identify and filter unwanted emails, phishing
+  scams, and malicious attacks
+
+
+  ## Use Cases
+
+
+  - Email communication with remote team members, clients, and vendors
+
+  - Sharing and collaborating on documents and files
+
+  - Scheduling and managing calendar events and meetings
+
+  - Managing contacts and mailing lists
+
+
+  ## Pricing
+
+
+  - Free: personal Gmail account with up to 15 GB storage for attachments and
+  files
+
+  - Google Workspace (business): starts at $6 per user per month
+brand: Google
+brand_logo_url: https://www.google.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg
+updated_at: 2026-04-04 20:36

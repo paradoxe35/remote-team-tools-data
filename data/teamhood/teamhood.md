@@ -1,0 +1,27 @@
+## Overview
+
+Teamhood is a kanban-first project management tool designed for teams that need visual workflow management with flexible customization. It combines task management, time tracking, and collaboration features in a single platform, making it suitable for agile teams that prefer visual task organization.
+
+## Key Features
+
+- Kanban boards for visual task management
+- Customizable workflows and columns
+- Task dependencies and subtasks
+- Time tracking and reporting
+- Team collaboration and communication tools
+- Resource management and workload balancing
+- Gantt chart views for timeline planning
+
+## Integrations
+
+Supports integrations with popular third-party tools via API and Zapier.
+
+## Pricing
+
+| Plan | Price | Details |
+|------|-------|---------|
+| Free | Free | Basic kanban features for small teams |
+| Standard | From $8/user/month | Advanced features and integrations |
+| Premium | From $14/user/month | Full feature set with advanced reporting |
+
+Pricing may vary; contact sales for current details.

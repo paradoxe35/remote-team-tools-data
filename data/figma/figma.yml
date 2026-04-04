@@ -1,8 +1,10 @@
 name: Figma
-description: Web-based collaborative interface design tool that enables teams to
-  work together in real-time on UI/UX design projects, with features for
-  wireframing, prototyping, design systems, and developer handoff all in one
-  platform.
+description: Cloud-based interface design tool enabling real-time collaborative
+  wireframing, prototyping, and design system management with multiplayer
+  editing, component libraries, and developer handoff tools. Ideal for remote
+  design teams requiring simultaneous collaboration across the entire UI/UX
+  workflow. Outperforms Sketch and Adobe XD with its browser-native architecture
+  and superior real-time collaboration capabilities.
 source_url: https://www.figma.com/
 category: Collaboration & Design
 tags:
@@ -110,4 +112,4 @@ markdown: >-
   - **Enterprise** - Custom pricing for large organizations
 brand: Figma
 brand_logo_url: https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png
-updated_at: 2026-03-07 19:07
+updated_at: 2026-04-04 20:36

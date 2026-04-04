@@ -1,7 +1,11 @@
 name: ClickUp
-description: ClickUp is an all-in-one productivity and project management
-  platform that integrates task management, docs, goals, time tracking, and chat
-  into a single workspace for remote teams.
+description: All-in-one productivity platform combining task management, docs,
+  goals, chat, and project management in a single workspace with customizable
+  views (list, board, Gantt, calendar), time tracking, and AI writing
+  assistance. Designed for teams seeking to consolidate multiple productivity
+  tools into one platform. Offers more features at a lower price point than
+  Asana and Monday.com, though the breadth of capabilities introduces a steeper
+  learning curve.
 source_url: https://clickup.com
 category: Project Management
 tags:
@@ -37,4 +41,4 @@ markdown: >-
   - Business plan ($9.99/user/month)
 
   - Enterprise plan (custom pricing)
-updated_at: 2026-02-14 09:50
+updated_at: 2026-04-04 20:36

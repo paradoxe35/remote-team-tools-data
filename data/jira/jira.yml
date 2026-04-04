@@ -1,9 +1,13 @@
 name: Jira
-description: A comprehensive issue and project tracking software by Atlassian
-  designed for software development teams. Jira supports agile methodologies
-  with Scrum and Kanban boards, customizable workflows, and extensive
-  integrations, making it the industry standard for development team
-  collaboration.
+description: Jira is an issue-tracking and project management platform
+  purpose-built for software development teams, offering native support for
+  Agile methodologies including Scrum and Kanban with features like sprint
+  planning, backlog management, custom workflows, and deep developer tool
+  integrations. Compared to lighter-weight alternatives like Shortcut or Linear,
+  Jira provides far more configuration and enterprise-level capabilities but
+  introduces greater complexity and a steeper learning curve. It remains the
+  industry standard for engineering teams managing complex software delivery
+  pipelines.
 source_url: https://www.atlassian.com/software/jira
 category: Task Management
 tags:
@@ -89,4 +93,4 @@ markdown: >-
   organizational needs
 brand: Atlassian
 brand_logo_url: https://www.atlassian.com/dam/jcr:e348b265-6585-4380-8170-182540caa29b/atlassian-logo-large.png
-updated_at: 2026-02-13 15:33
+updated_at: 2026-04-04 20:36

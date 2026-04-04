@@ -1,7 +1,11 @@
 name: Trello
-description: Visual project management tool using Kanban boards for organizing
-  tasks, projects, and workflows with simplicity and ease of use across teams of
-  all sizes.
+description: Trello is a visual project management tool built around
+  Kanban-style boards, lists, and cards that enable drag-and-drop task
+  organization with Butler automation and Power-Up integrations. It is
+  well-suited for teams that prefer straightforward, visual task tracking
+  without complex setup. Compared to Asana and Monday.com, Trello is simpler and
+  more accessible but offers fewer features for complex, multi-layered project
+  management.
 source_url: https://trello.com
 category: Task Management
 tags:
@@ -22,4 +26,4 @@ markdown: |-
   - Limited native reporting
   - Boards can become cluttered without structure
   - Not ideal for complex portfolios
-updated_at: 2026-02-20 12:21
+updated_at: 2026-04-04 20:36

@@ -1,8 +1,11 @@
 name: Confluence
-description: A team workspace by Atlassian for collaborative documentation and
-  knowledge sharing. Confluence enables remote teams to create, organize, and
-  maintain living documentation as a single source of truth with real-time
-  collaboration and robust integration with development tools.
+description: Confluence is Atlassian's team workspace and wiki platform designed
+  for knowledge management, documentation, and team collaboration. Key features
+  include collaborative editing, page templates, space organization, deep
+  integration with Jira and other Atlassian tools, and AI-powered search. Ideal
+  for engineering and product teams that need a centralized knowledge base, it
+  offers stronger enterprise governance and Jira integration than Notion but
+  with a more traditional wiki structure.
 source_url: https://www.atlassian.com/software/confluence
 category: Document Management
 tags:
@@ -81,4 +84,4 @@ markdown: >-
   licensing
 brand: Atlassian
 brand_logo_url: https://www.atlassian.com/dam/jcr:e348b265-6585-4380-8170-182540caa29b/atlassian-logo-large.png
-updated_at: 2026-02-13 15:33
+updated_at: 2026-04-04 20:36

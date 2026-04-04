@@ -1,0 +1,71 @@
+name: ChatGPT
+description: Industry-leading AI chatbot by OpenAI that handles conversational
+  queries, content creation, code writing, and image generation. Integrates with
+  Zapier to connect AI capabilities across thousands of apps.
+source_url: https://chat.openai.com
+category: AI Tools
+tags:
+  - chatbot
+  - generative-ai
+  - image-generation
+featured: true
+markdown: >-
+  ## Overview
+
+
+  ChatGPT is the current industry-leading AI chatbot, serving as the first
+  conversational AI to achieve widespread adoption. It handles conversational
+  queries, content creation, research, and image generation through a unified
+  interface.
+
+
+  ## Features
+
+
+  - **Conversational AI**: Ask questions and get answers in a natural
+  conversational style
+
+  - **Code Writing**: Generates and debugs code across multiple programming
+  languages
+
+  - **Mathematical Calculations**: Performs complex mathematical reasoning and
+  calculations
+
+  - **Image Generation**: Natively generates images using autoregressive
+  generation for increased accuracy and control
+
+  - **Content Creation**: Write marketing copy, conduct market research, and
+  draft sales emails
+
+  - **Feedback Handling**: Accepts natural language feedback to refine and tweak
+  generated outputs
+
+  - **Advanced Reasoning**: Uses advanced reasoning and logic for complex tasks
+
+  - **Zapier Integration**: Connect with thousands of other apps to orchestrate
+  workflows
+
+
+  ## Use Cases
+
+
+  - Summarizing survey responses into key themes
+
+  - Generating personalized follow-up emails based on participant engagement
+
+  - Automating image creation from form responses or CRM data
+
+  - Writing marketing copy and conducting market research
+
+
+  ## Pricing
+
+
+  Free tier available with GPT-4o access. ChatGPT Plus subscription unlocks
+  additional capabilities including o3-mini, GPT-4o, o1 models, and image
+  generation features.
+brand: OpenAI
+brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg
+images:
+  - https://openai.com/mosaic-og.png
+updated_at: 2026-04-04 20:36

@@ -1,6 +1,10 @@
 name: Google Meet
-description: Video conferencing with Google Workspace integration, screen
-  sharing, and cloud recording.
+description: Google Meet is an enterprise video conferencing platform with
+  screen sharing, meeting recording, live captions, breakout rooms, and
+  one-click joins via Google Calendar integration. It is ideal for teams already
+  operating within the Google Workspace ecosystem. Compared to Zoom, it offers
+  simpler setup through native Calendar integration but fewer advanced meeting
+  features on its free tier.
 source_url: https://meet.google.com
 category: Team Communication
 tags:
@@ -31,4 +35,4 @@ markdown: >-
   cloud storage)
 brand: Google
 brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Meet_icon_%282020%29.svg
-updated_at: 2026-02-13 15:24
+updated_at: 2026-04-04 20:36

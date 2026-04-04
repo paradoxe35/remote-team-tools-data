@@ -1,6 +1,9 @@
 name: Linear
-description: Agile issue tracking with real-time sync, keyboard-first interface,
-  and cycle-based workload management.
+description: Streamlined issue-tracking and project management tool built for
+  software teams with keyboard-first navigation, cycle-based sprint planning,
+  roadmaps, and deep Git integration. Perfect for engineering teams seeking a
+  fast, focused alternative to Jira. Compared to Jira, Linear trades extensive
+  configurability for speed and an optimized developer experience.
 source_url: https://linear.app
 category: Task Management
 tags:
@@ -24,4 +27,4 @@ markdown: |-
   - Enterprise plans available
 brand: Linear
 brand_logo_url: https://linear.app/images/logo.svg
-updated_at: 2026-02-13 15:24
+updated_at: 2026-04-04 20:36

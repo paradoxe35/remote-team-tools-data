@@ -1,7 +1,11 @@
 name: Calendly
-description: Calendar management tool that simplifies scheduling meetings and
-  events with automated availability tracking and integration with popular
-  calendar platforms.
+description: Calendly is an automated scheduling tool that eliminates
+  back-and-forth emails by allowing others to book meetings based on your
+  availability preferences. Key features include custom scheduling links,
+  calendar integrations, timezone detection, team scheduling, automated
+  reminders, and payment collection. Compared to Doodle, it offers more
+  automated scheduling; compared to Microsoft Bookings, it is easier to set up
+  and use.
 source_url: https://calendly.com
 category: Scheduling
 tags:
@@ -56,4 +60,4 @@ markdown: >
   - G2 rating: 4.7/5
 
   - Users highlight ease of use and reduced scheduling friction
-updated_at: 2026-02-20 12:21
+updated_at: 2026-04-04 20:36

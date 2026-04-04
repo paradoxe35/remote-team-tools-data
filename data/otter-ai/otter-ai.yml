@@ -1,8 +1,11 @@
 name: Otter.ai
-description: AI-powered meeting transcription and note-taking platform that
-  automatically records, transcribes, and summarizes meetings for remote teams.
-  Helps teams stay on the same page with searchable meeting records and action
-  item tracking.
+description: Otter.ai is an AI-powered meeting transcription service that
+  automatically captures, transcribes, and summarizes live meetings and
+  conversations in real-time. Featuring speaker identification, keyword search
+  across transcripts, and native Zoom, Google Meet, and Microsoft Teams
+  integrations, it is essential for teams needing accurate meeting records and
+  automated action items. Compared to Fireflies.ai, Otter.ai offers a more
+  polished interface but fewer integrations with project management tools.
 source_url: https://otter.ai
 category: Communication Tools
 tags:
@@ -69,4 +72,4 @@ markdown: >-
   - **Enterprise**: Custom pricing with dedicated support and single sign-on
 brand: Otter.ai
 brand_logo_url: https://otter.ai/favicon.ico
-updated_at: 2026-02-13 15:47
+updated_at: 2026-04-04 20:36

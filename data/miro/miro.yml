@@ -1,7 +1,10 @@
 name: Miro
-description: Online visual collaboration platform with infinite digital
-  whiteboards for brainstorming, mapping, and project planning with real-time
-  multi-cursor support.
+description: Online collaborative whiteboard platform with an infinite canvas
+  enabling distributed teams to brainstorm, plan, and visualize ideas through
+  sticky notes, workshop templates, and integrations with Jira, Trello, and
+  Slack. Excels for remote teams conducting design sprints, workshops, and
+  strategy sessions. Provides the largest template library and strongest
+  third-party integrations compared to FigJam and Mural.
 source_url: https://miro.com
 category: Digital Whiteboarding
 tags:
@@ -22,4 +25,4 @@ markdown: |-
   - Performance issues on low-end devices
   - Cluttered boards without facilitation
   - Advanced features in premium tiers
-updated_at: 2026-02-20 12:21
+updated_at: 2026-04-04 20:36

@@ -1,0 +1,63 @@
+name: Outlook
+description: Microsoft's email and calendar management application with
+  integrated task management, meeting scheduling, and AI-powered features via
+  Copilot, offering focused inbox, calendar scheduling assistant, and deep
+  Microsoft 365 ecosystem integration. Built for business email management,
+  scheduling, and asynchronous team coordination across time zones. Provides
+  more structured email organization and deeper enterprise calendar integration
+  than Gmail.
+source_url: https://www.microsoft.com/outlook
+category: Communication
+tags:
+  - email
+  - calendar
+  - microsoft-365
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Outlook is Microsoft's email and personal information management platform used
+  for asynchronous communication. It combines email, calendar, contacts, and
+  task management capabilities to help remote teams stay organized and
+  productive across time zones.
+
+
+  ## Features
+
+
+  - Email with threaded conversations, focused inbox, and categorization
+
+  - Integrated calendar for scheduling and sharing availability
+
+  - Task management with assignment and tracking capabilities
+
+  - Deep integration with Microsoft 365 apps (Word, Excel, Teams, OneDrive)
+
+  - Focused inbox to prioritize important messages
+
+  - Shared mailboxes and calendars for team coordination
+
+
+  ## Use Cases
+
+
+  - Professional email communication with internal and external stakeholders
+
+  - Scheduling meetings across time zones
+
+  - Managing team calendars and shared availability
+
+  - Task tracking and project coordination
+
+
+  ## Pricing
+
+
+  - Included with Microsoft 365 subscriptions starting at $6.99 per user per
+  month for Business Basic
+
+  - Higher tiers available with additional desktop apps and security features
+brand: Microsoft
+brand_logo_url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b
+updated_at: 2026-04-04 20:36

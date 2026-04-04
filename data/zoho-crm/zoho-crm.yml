@@ -1,0 +1,74 @@
+name: Zoho CRM
+description: Zoho CRM is a cloud-based customer relationship management platform
+  that helps sales teams manage leads, contacts, deals, and customer
+  interactions through pipeline management, email integration, workflow
+  automation, AI-powered assistant Zia, and multi-channel engagement. Essential
+  for sales-driven teams managing customer relationships at scale. Compared to
+  Salesforce, it delivers similar core features at a significantly lower price
+  point, making it ideal for small to mid-sized businesses.
+source_url: https://www.zoho.com/crm/
+category: Collaboration
+tags:
+  - crm
+  - sales-automation
+  - customer-management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Zoho CRM is a cloud-based customer relationship management platform that helps
+  sales, marketing, and support teams manage customer interactions and
+  streamline processes across distributed teams. It offers workflow automation,
+  analytics, and multi-channel communication tools for businesses of all sizes.
+
+
+  ## Key Features
+
+
+  - Lead and contact management
+
+  - Pipeline and deal tracking
+
+  - Workflow automation and blueprints
+
+  - Sales forecasting and analytics
+
+  - Multi-channel communication (email, phone, social)
+
+  - Custom modules and fields
+
+  - Team collaboration and task assignment
+
+  - AI-powered sales assistant (Zia)
+
+
+  ## Integrations
+
+
+  Integrates with Zoho's suite of productivity tools, Google Workspace,
+  Microsoft 365, Slack, and numerous third-party applications via Zoho Flow.
+
+
+  ## Pricing
+
+
+  | Plan | Price | Details |
+
+  |------|-------|---------|
+
+  | Free | Free | Up to 3 users, basic CRM features |
+
+  | Standard | From $14/user/month | Billed annually, more automation and
+  features |
+
+  | Professional | From $23/user/month | Advanced analytics and AI features |
+
+  | Enterprise | From $40/user/month | Full feature set with custom modules |
+
+  | Ultimate | From $52/user/month | Advanced intelligence and customization |
+
+
+  Pricing billed annually; monthly billing available at higher rates.
+brand: Zoho
+updated_at: 2026-04-04 20:36

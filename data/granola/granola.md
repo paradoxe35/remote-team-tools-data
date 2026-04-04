@@ -1,0 +1,18 @@
+## Overview
+
+Granola automatically transcribes, summarizes, and analyzes calls while serving as a live notepad where users can type their own thoughts. It fills in gaps with extra context from the transcript. Unlike some meeting bots, Granola doesn't join calls directly—it captures audio from the device, making it compatible with any video conferencing tool.
+
+## Features
+
+- Automatic meeting transcription, summarization, and analysis
+- Live notepad for personal notes during calls
+- AI fills in blanks with context pulled from the transcript
+- Works with any video conferencing tool (captures audio from device, doesn't join calls)
+- iPhone app for capturing and transcribing in-person meetings
+- Built-in integrations for HubSpot, Slack, and Notion
+- Zapier integration for orchestrated AI systems
+- AI sentiment analysis from call notes
+
+## Pricing
+
+Pricing details vary by plan.

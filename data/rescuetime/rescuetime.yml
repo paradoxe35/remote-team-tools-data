@@ -1,8 +1,10 @@
 name: RescueTime
-description: Dual-function productivity app combining automatic time tracking
-  with distraction management, featuring focus sessions, website blocking, and
-  smart timesheet generation for project-based work tracking used by 2+ million
-  people.
+description: RescueTime automatically tracks app and website usage in the
+  background, providing productivity scoring, focus time blocking, and weekly
+  reports without manual input. It is designed for remote workers who want to
+  understand and improve their digital habits through objective, data-driven
+  insights. Unlike manual time trackers, RescueTime requires zero user effort to
+  capture detailed time usage data.
 source_url: https://www.rescuetime.com/
 category: Time Tracking
 tags:
@@ -83,4 +85,4 @@ markdown: >-
   Free two-week trial available. Subscription required after trial period. Visit
   their website for current pricing.
 brand: RescueTime
-updated_at: 2026-03-07 19:07
+updated_at: 2026-04-04 20:36

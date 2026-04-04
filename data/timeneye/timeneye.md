@@ -1,0 +1,21 @@
+## Overview
+
+Timeneye is a time and project tracking tool that integrates seamlessly with the Microsoft ecosystem. It assigns every tracked minute to the relevant project, task, phase, and client, allowing users to log time with a single click.
+
+## Features
+
+- **Project Time Tracking**: Assign tracked minutes to projects, tasks, phases, and clients with one-click time logging
+- **Budget Monitoring**: Displays remaining budget via progress bar (monetary or time-based); alerts managers when budgets near limits
+- **Reporting & Analytics**: In-depth reporting and monitoring tools to identify time sinks and improve productivity
+- **Lightweight Monitoring**: Non-invasive monitoring functions that allow managers oversight without being disruptive
+- **Microsoft Integrations**: Seamless integration with Microsoft Planner, Azure DevOps, Outlook Calendar, Microsoft To Do, and a dedicated Microsoft Teams app
+- **User-Friendly Interface**: Intuitive design for both managers and team members
+
+## Pricing
+
+- Free plan: Up to 3 users with limited features and data history
+- Paid plans: Starting at $7 per user per month
+
+## Target Users
+
+Teams of all sizes who need visibility over their time and want to fit time tracking seamlessly into their Microsoft workflow.

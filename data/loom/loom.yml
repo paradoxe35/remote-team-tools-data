@@ -1,7 +1,11 @@
 name: Loom
-description: A video messaging tool that allows teams to record and share quick
-  videos instead of writing lengthy messages or emails. Loom simplifies
-  asynchronous communication for remote teams with easy-to-share video clips.
+description: Loom is an asynchronous video messaging platform that lets teams
+  record quick screen and camera videos to share updates, tutorials, and
+  feedback without scheduling a meeting. Key features include instant link
+  sharing, transcription, video editing, viewer analytics, and integrations with
+  Slack, Jira, and Notion. Compared to Zoom recordings and traditional screen
+  recorders, Loom is built specifically for quick async video sharing with
+  instant playback links.
 source_url: https://loom.com
 category: Communication
 tags:
@@ -57,4 +61,4 @@ markdown: >-
   support and SSO
 brand: Loom
 brand_logo_url: https://loom.com/favicon.ico
-updated_at: 2026-02-14 04:46
+updated_at: 2026-04-04 20:36

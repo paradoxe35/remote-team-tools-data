@@ -1,7 +1,11 @@
 name: Zoom
-description: Zoom is a video conferencing tool that enables high-definition
-  virtual meetings, screen sharing, and remote collaboration for distributed
-  teams.
+description: Zoom is a leading video conferencing platform that enables
+  high-quality video meetings, webinars, and team chat for remote and hybrid
+  teams. Key features include breakout rooms, screen sharing, recording, virtual
+  backgrounds, and AI-powered meeting summaries. Compared to Google Meet and
+  Microsoft Teams, Zoom offers superior video quality and more meeting-specific
+  features, though it requires a separate subscription for advanced
+  functionality.
 source_url: https://zoom.us
 category: Communication
 tags:
@@ -35,4 +39,4 @@ markdown: >-
   - Pro plan ($14.99/host/month) with extended meeting time
 
   - Business and Enterprise plans (custom pricing)
-updated_at: 2026-02-14 09:50
+updated_at: 2026-04-04 20:36

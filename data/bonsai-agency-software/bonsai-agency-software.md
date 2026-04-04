@@ -1,0 +1,20 @@
+## Overview
+
+Bonsai Agency Software gives creative agencies and consultancies a unified workspace to manage projects, collaborate with clients, track time, and handle billing—all in one place. It is a strong fit for small to mid-sized agencies in creative, marketing, or consulting that need to manage client work, projects, and finances in one tool.
+
+## Features
+
+- **Real-Time Budget and Margin Tracking**: Updates the moment a booking is placed to catch scope creep early.
+- **Integrated Task Timer**: Log hours directly from tasks; hours feed straight into project budget reports.
+- **Task Estimates**: Add time estimates to tasks and run reports comparing estimated vs. actual hours to spot overruns and improve future planning.
+- **Live Capacity Tracking**: See team utilization in real time during scheduling, with automatic adjustments for part-time staff and public holidays.
+- **Task Views**: Switch between Kanban, Gantt, and calendar views to track task progress and visualize project timelines.
+- **Tentative Allocations**: Assign resources to potential projects with placeholder bookings that can be adjusted as project scope is confirmed.
+
+## Integrations
+
+Integrations include Stripe and Zoom.
+
+## Pricing
+
+Plans start from $9/user/month (billed annually). A free 7-day trial is available.

@@ -1,0 +1,68 @@
+name: HubSpot
+description: All-in-one CRM platform combining marketing, sales, customer
+  service, and content management with contact management, email marketing, live
+  chat, pipeline management, and landing pages. Ideal for small to mid-sized
+  businesses seeking an integrated growth platform that unifies customer data
+  across departments. Unlike piecing together separate marketing and sales
+  tools, HubSpot provides a single ecosystem with a generous free tier to get
+  started.
+source_url: https://www.hubspot.com
+category: Workflow Automation
+tags:
+  - crm
+  - marketing-automation
+  - lead-management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  HubSpot is a comprehensive CRM and marketing automation platform that helps
+  distributed teams streamline workflows, manage leads, and automate sales and
+  marketing processes. It supports asynchronous workflows by triggering
+  notifications to sales teams when leads are nurtured and ready for conversion.
+
+
+  ## Features
+
+
+  - CRM platform for managing contacts, deals, and company information
+
+  - Marketing hub with email automation, campaign tracking, and lead scoring
+
+  - Sales pipeline management with deal stages and automated task creation
+
+  - Workflow automation to connect marketing, sales, and service processes
+
+  - Lead capture forms and integration with website visitors tracking
+
+  - Custom notifications to alert team members when leads are sales-ready
+
+  - Integration with Zapier, Gmail, Slack, and 1000+ other apps
+
+
+  ## Use Cases
+
+
+  - Automated lead capture and nurturing workflows
+
+  - Adding new leads from online forms into CRM systems
+
+  - Notifying sales teams when leads are ready for follow-up
+
+  - Customer onboarding and engagement automation
+
+
+  ## Pricing
+
+
+  - Free CRM plan with basic contact management and pipeline tools
+
+  - Marketing Hub: starts at $15 per month
+
+  - Sales Hub: starts at $15 per user per month
+
+  - Service Hub and custom enterprise quotes available
+brand: HubSpot
+brand_logo_url: https://www.hubspot.com/hubfs/assets/hubspot.com/style-guide/brand-guidelines/guidelines_approved-logos.svg
+updated_at: 2026-04-04 20:36

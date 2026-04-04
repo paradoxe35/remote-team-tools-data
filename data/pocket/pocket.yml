@@ -1,0 +1,61 @@
+name: Pocket
+description: Content save and organization app that lets users store articles,
+  links, videos, and photos from the web for later reading, helping busy
+  professionals curate and access interesting content across all their devices.
+source_url: https://getpocket.com
+category: Productivity
+tags:
+  - content-curation
+  - read-it-later
+  - cross-device-sync
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Pocket is a content save and organization application that allows users to
+  store links, articles, videos, and other web content for later exploration. It
+  eliminates the need to remember URLs or bookmark clutter by saving everything
+  in one organized place, making it a favorite tool for busy entrepreneurs who
+  encounter interesting content but lack time to review it immediately.
+
+
+  ## Features
+
+
+  - Save content from multiple sources including web browsers and mobile apps
+
+  - Search saved content by title, URL, author, full-text, and other fields
+
+  - Automatic synchronization across multiple devices
+
+  - Backup feature for saved content
+
+  - Offline reading capability
+
+
+  ## Pros
+
+
+  - Save from multiple resources including web browsers and apps
+
+  - Powerful search feature: title, URL, author, full-text search
+
+  - Automatic synchronization with multiple devices
+
+  - Backup feature for content preservation
+
+
+  ## Cons
+
+
+  - Lack of integration with third-party apps
+
+
+  ## Pricing
+
+
+  Starting from $4.99/mo (premium plan with additional features).
+brand: Mozilla
+brand_logo_url: https://www.mozilla.org/media/images/logos/wordmark-hor.e27b7bc91d36.svg
+updated_at: 2026-04-04 20:36

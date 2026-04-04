@@ -1,7 +1,11 @@
 name: Wrike
-description: Wrike is a scalable project management platform designed for
-  cross-functional teams, offering advanced Gantt charts, dynamic request forms,
-  and real-time collaboration tools.
+description: Wrike is an enterprise-grade project management and collaboration
+  platform offering customizable workflows, real-time collaboration, and
+  advanced reporting for teams of all sizes. Key features include Gantt charts,
+  custom dashboards, time tracking, proofing and approval workflows, and
+  AI-powered task generation. Ideal for marketing teams and organizations
+  managing complex, cross-functional projects, it offers more advanced reporting
+  and proofing capabilities than Monday.com but with a steeper learning curve.
 source_url: https://www.wrike.com
 category: Project Management
 tags:
@@ -36,4 +40,4 @@ markdown: >-
   - Team plans from $15/user/month
 
   - Enterprise plans (custom pricing)
-updated_at: 2026-02-14 09:50
+updated_at: 2026-04-04 20:36

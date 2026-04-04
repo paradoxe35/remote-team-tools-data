@@ -1,0 +1,29 @@
+## Overview
+
+Filestage simplifies content approval by allowing users to leave feedback directly on video, design, or document files. It helps creative teams, agencies, and marketing departments avoid endless email chains and lengthy revision cycles by centralizing the review process in one platform.
+
+## Features
+
+- Review workflows with automated approval processes
+- Version control to track changes across iterations
+- Frame-accurate commenting on video and image files
+- Side-by-side version comparison
+- Automated notifications to stakeholders
+- Role-based review management
+- Integration with popular creative and file sharing tools
+- Support for video, design, document, and audio file formats
+
+## Best For
+
+Agencies and marketing teams that need structured, efficient review cycles for creative assets.
+
+## Pros
+
+- Clear, centralized feedback reduces revision cycles
+- Eliminates confusion from scattered emails and messages
+- Supports both live and asynchronous review processes
+
+## Cons
+
+- Niche tool primarily suited for creative asset workflows
+- Less value for teams that don't handle significant creative content

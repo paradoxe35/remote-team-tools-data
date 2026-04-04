@@ -1,8 +1,10 @@
 name: Airtable
-description: A low-code platform that combines spreadsheet functionality with
-  database capabilities, enabling teams to create custom applications without
-  coding. Airtable is ideal for managing complex data and building team
-  workflows.
+description: Airtable is a cloud-based collaborative database that combines
+  spreadsheet flexibility with database power through customizable views, linked
+  records, and multiple data types. Key features include Grid, Kanban, Calendar,
+  and Gallery views, automations, an interface designer, and AI capabilities.
+  Compared to traditional spreadsheets, Airtable offers relational data and
+  structured workflows while remaining accessible to non-technical users.
 source_url: https://airtable.com
 category: Database & Automation
 tags:
@@ -62,4 +64,4 @@ markdown: >-
   security and compliance
 brand: Airtable
 brand_logo_url: https://airtable.com/favicon.ico
-updated_at: 2026-02-14 04:46
+updated_at: 2026-04-04 20:36

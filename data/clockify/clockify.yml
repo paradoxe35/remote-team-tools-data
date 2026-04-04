@@ -1,6 +1,11 @@
 name: Clockify
-description: Free time tracking tool with unlimited timers, detailed reports,
-  and integrations with Jira, Trello, and Asana.
+description: Clockify is a free time-tracking and timesheet app that lets teams
+  track work hours across projects with unlimited users, billable rates, project
+  dashboards, and timesheet approvals. Supporting timer and manual entry
+  alongside 80+ integrations, it is ideal for budget-conscious teams needing
+  robust time tracking without per-user costs. Compared to Toggl Track, Clockify
+  offers a more generous free tier supporting unlimited users, though with less
+  polished reporting and fewer AI-powered features.
 source_url: https://clockify.me
 category: Time Tracking
 tags:
@@ -44,4 +49,4 @@ markdown: >-
   edits
 
   - **Enterprise**: Custom pricing for large organizations
-updated_at: 2026-02-13 15:24
+updated_at: 2026-04-04 20:36

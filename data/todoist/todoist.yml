@@ -1,7 +1,9 @@
 name: Todoist
-description: Minimalist task management tool with natural language input and
-  flexible project views for individuals and small teams to track tasks
-  efficiently.
+description: Clean, intuitive task management app featuring natural language
+  input, recurring tasks, and integrations with 80+ apps for individuals and
+  small teams. Perfect for personal productivity and small team task tracking.
+  Compared to Things 3, it offers cross-platform support at a lower cost;
+  compared to Asana, it's simpler but less feature-rich for team collaboration.
 source_url: https://todoist.com
 category: Task Management
 tags:
@@ -53,4 +55,4 @@ markdown: >
   - G2 rating: 4.4/5
 
   - Users praise simplicity and effectiveness for personal task tracking
-updated_at: 2026-02-20 12:21
+updated_at: 2026-04-04 20:36

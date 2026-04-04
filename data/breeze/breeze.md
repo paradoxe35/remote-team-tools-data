@@ -1,0 +1,23 @@
+## Overview
+
+Breeze gives remote teams a clear way to plan work, share updates, and track progress across time zones. It keeps tasks, communication, and deadlines in one place so teams do not need constant meetings to stay aligned.
+
+## Features
+
+- Centralized communication: Consolidates project updates and details into an accessible platform
+- Task and progress tracking: Allows teams to prioritize and monitor tasks with ease
+- Integrated scheduling: Combines deadlines, meetings, and timelines for better coordination
+- Collaborative design: Accommodates cross-functional teams in marketing, IT, HR, and more
+- File management: Provides secure access to shared documents and resources
+- Detailed insights: Offers data-driven reporting to identify workflow improvement
+- Calendar integration: Connect with existing calendar systems for scheduling visibility
+- Project status reporting: Track what is moving and what needs attention
+
+## Pricing
+
+- $10 per user per month with all features included
+- Save 10% with a yearly plan
+
+## Ratings
+
+- 4.4/5 on Capterra

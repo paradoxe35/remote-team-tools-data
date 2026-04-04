@@ -1,8 +1,11 @@
 name: Intercom
-description: AI-powered customer service platform that combines live chat,
-  email, and messaging in one unified inbox with Fin AI Agent delivering
-  high-quality automated support, smart routing, and integrations with Slack,
-  Salesforce, and HubSpot.
+description: Customer messaging platform combining live chat, help desk, product
+  tours, and AI-powered resolution tools to deliver personalized customer
+  support, with features including a live chat widget, chatbots, help center,
+  customer targeting, and AI response suggestions. Essential for customer-facing
+  teams managing user communication and proactive engagement. Compared to
+  Zendesk, Intercom focuses more on proactive, conversational engagement while
+  Zendesk leans more ticket-oriented.
 source_url: https://www.intercom.com/
 category: Customer Support
 tags:
@@ -160,4 +163,4 @@ markdown: >-
   Pricing varies based on team size, features, and usage. Contact Intercom for
   detailed pricing information.
 brand: Intercom
-updated_at: 2026-03-07 19:07
+updated_at: 2026-04-04 20:36

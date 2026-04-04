@@ -1,7 +1,10 @@
 name: Briefmatic
-description: Centralized task management platform that aggregates tasks from
-  email, chat, design tools, and calendar apps into a unified workflow view for
-  remote teams.
+description: AI-powered scheduling assistant that automatically organizes
+  meetings, manages calendar conflicts, and sends follow-up reminders for busy
+  professionals managing complex calendars. Key features include smart calendar
+  syncing, automated scheduling suggestions, and email integration, focusing on
+  optimizing existing scheduled meetings rather than external booking links like
+  Calendly.
 source_url: https://briefmatic.com
 category: Task Management
 tags:
@@ -38,4 +41,4 @@ brand: Briefmatic
 brand_logo_url: https://cdn.prod.website-files.com/643cf7715ec7fdea75388392/643d11f4c67b6333beeed082_logo_full.svg
 images:
   - https://cdn.prod.website-files.com/643cf7715ec7fd404338839b/65decf3645bdfb0500ab3300_1698986602749.jpg
-updated_at: 2026-02-20 12:21
+updated_at: 2026-04-04 20:36

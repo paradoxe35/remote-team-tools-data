@@ -1,8 +1,10 @@
 name: FigJam
-description: Collaborative whiteboard and brainstorming tool by Figma designed
-  for teams to ideate, solve problems, and run interactive workshops together in
-  real-time. Features interactive templates, stickies, infinite canvas, and
-  seamless Figma integration.
+description: Figma's online whiteboard tool for collaborative brainstorming and
+  visual thinking, featuring sticky notes, shapes, widgets, cursor chats,
+  voting, and seamless integration with Figma design files. Best suited for
+  design teams transitioning from ideation to detailed design within a unified
+  ecosystem. More tightly integrated with design workflows than Miro but offers
+  a smaller standalone feature set.
 source_url: https://www.figma.com/figjam/
 category: Communication Tools
 tags:
@@ -61,4 +63,4 @@ markdown: >-
   Professional or Organization subscriptions
 brand: Figma
 brand_logo_url: https://www.figma.com/favicon.ico
-updated_at: 2026-02-13 15:47
+updated_at: 2026-04-04 20:36

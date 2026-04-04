@@ -1,0 +1,27 @@
+## Overview
+
+Zendesk is a comprehensive customer service platform that includes robust knowledge base and help center capabilities. Teams can build self-service portals with searchable articles, FAQs, and documentation to support customers and internal staff asynchronously.
+
+## Features
+
+- Help center creation with customizable themes and content organization
+- Article management with version control and categorization
+- Community forums for peer-to-peer support and discussion
+- Ticket management system for tracking and resolving support inquiries
+- Analytics and reporting on knowledge base usage and effectiveness
+- Integrations with Slack, Jira, Salesforce, and hundreds of other apps
+- AI-powered content suggestions and chatbot capabilities
+
+## Use Cases
+
+- Customer self-service portals and FAQs
+- Internal knowledge management for support teams
+- Document templates and workflows for remote workers
+- Community-driven support and discussions
+
+## Pricing
+
+- Suite Team: $55 per agent per month
+- Suite Growth: $89 per agent per month
+- Suite Professional: $115 per agent per month
+- Suite Enterprise and custom quotes available

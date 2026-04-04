@@ -1,7 +1,11 @@
 name: Asana
-description: Work management platform for organizing, tracking, and managing
-  projects with features like timelines, task assignments, and cross-functional
-  project tracking.
+description: Asana is a comprehensive project management platform designed to
+  help teams organize, track, and manage complex projects with multiple
+  dependencies and stakeholders. Key features include timeline and Gantt views,
+  portfolio management, custom fields, workflow automation, and workload
+  balancing. Compared to Monday.com and Jira, Asana strikes a balance between
+  intuitive design and enterprise-grade project tracking, making it ideal for
+  cross-functional teams.
 source_url: https://asana.com
 category: Task Management
 tags:
@@ -22,4 +26,4 @@ markdown: |-
   - Learning curve for advanced features
   - Limited documentation hub capabilities
   - Higher-tier features required for robust reporting
-updated_at: 2026-02-20 12:21
+updated_at: 2026-04-04 20:36
