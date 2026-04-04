@@ -76,3 +76,5 @@
   name: Password Management
 - id: screen-recording
   name: Screen Recording
+- id: security-privacy
+  name: Security & Privacy

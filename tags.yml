@@ -229,7 +229,7 @@
 - id: productivity-suite
   name: Productivity Suite
 - id: ai
-  name: AI
+  name: Ai
 - id: employee-monitoring
   name: Employee Monitoring
 - id: office-suite
@@ -303,7 +303,7 @@
 - id: custom-workspaces
   name: Custom Workspaces
 - id: ocr
-  name: OCR
+  name: Ocr
 - id: pdf-editing
   name: PDF Editing
 - id: document-conversion
@@ -317,7 +317,7 @@
 - id: document-sharing
   name: Document Sharing
 - id: crm
-  name: CRM
+  name: Crm
 - id: hybrid-work
   name: Hybrid Work
 - id: touchscreen
@@ -454,3 +454,161 @@
   name: No Download
 - id: simple
   name: Simple
+- id: privacy-first
+  name: Privacy First
+- id: productivity-insights
+  name: Productivity Insights
+- id: creative-workflows
+  name: Creative Workflows
+- id: digital-proofing
+  name: Digital Proofing
+- id: meeting-intelligence
+  name: Meeting Intelligence
+- id: timesheets
+  name: Timesheets
+- id: multi-currency
+  name: Multi Currency
+- id: global-teams
+  name: Global Teams
+- id: frontline-workers
+  name: Frontline Workers
+- id: mobile-first
+  name: Mobile First
+- id: deskless-workforce
+  name: Deskless Workforce
+- id: agency-tools
+  name: Agency Tools
+- id: async-collaboration
+  name: Async Collaboration
+- id: social-media
+  name: Social Media
+- id: document-scanning
+  name: Document Scanning
+- id: portfolio-management
+  name: Portfolio Management
+- id: client-portal
+  name: Client Portal
+- id: chatbot
+  name: Chatbot
+- id: generative-ai
+  name: Generative Ai
+- id: image-generation
+  name: Image Generation
+- id: governance
+  name: Governance
+- id: team-optimization
+  name: Team Optimization
+- id: employee-management
+  name: Employee Management
+- id: time-capture
+  name: Time Capture
+- id: labor-compliance
+  name: Labor Compliance
+- id: workspace-management
+  name: Workspace Management
+- id: desk-booking
+  name: Desk Booking
+- id: hybrid-teams
+  name: Hybrid Teams
+- id: agencies
+  name: Agencies
+- id: billable-hours
+  name: Billable Hours
+- id: content-review
+  name: Content Review
+- id: approval-workflows
+  name: Approval Workflows
+- id: video-collaboration
+  name: Video Collaboration
+- id: media-review
+  name: Media Review
+- id: creative-teams
+  name: Creative Teams
+- id: email
+  name: Email
+- id: asynchronous
+  name: Asynchronous
+- id: workload-management
+  name: Workload Management
+- id: sales
+  name: Sales
+- id: revenue-workflows
+  name: Revenue Workflows
+- id: marketing-automation
+  name: Marketing Automation
+- id: lead-management
+  name: Lead Management
+- id: real-time-monitoring
+  name: Real Time Monitoring
+- id: flexible-tracking
+  name: Flexible Tracking
+- id: productivity-data
+  name: Productivity Data
+- id: video
+  name: Video
+- id: newsletters
+  name: Newsletters
+- id: internal-communication
+  name: Internal Communication
+- id: secure-messaging
+  name: Secure Messaging
+- id: unified-communications
+  name: Unified Communications
+- id: contact-center
+  name: Contact Center
+- id: client-portals
+  name: Client Portals
+- id: service-teams
+  name: Service Teams
+- id: vpn
+  name: Vpn
+- id: privacy
+  name: Privacy
+- id: content-curation
+  name: Content Curation
+- id: read-it-later
+  name: Read It Later
+- id: cross-device-sync
+  name: Cross Device Sync
+- id: proofing
+  name: Proofing
+- id: approvals
+  name: Approvals
+- id: nested-tasks
+  name: Nested Tasks
+- id: gmail
+  name: Gmail
+- id: text-to-speech
+  name: Text To Speech
+- id: accessibility
+  name: Accessibility
+- id: virtual-workspaces
+  name: Virtual Workspaces
+- id: creative-collaboration
+  name: Creative Collaboration
+- id: persistent-rooms
+  name: Persistent Rooms
+- id: timeline-planning
+  name: Timeline Planning
+- id: visual-scheduling
+  name: Visual Scheduling
+- id: visual-workflow
+  name: Visual Workflow
+- id: jira
+  name: Jira
+- id: user-behavior-analytics
+  name: User Behavior Analytics
+- id: intranet
+  name: Intranet
+- id: creative-proofing
+  name: Creative Proofing
+- id: marketing
+  name: Marketing
+- id: voice-messaging
+  name: Voice Messaging
+- id: help-center
+  name: Help Center
+- id: self-service
+  name: Self Service
+- id: customer-management
+  name: Customer Management
