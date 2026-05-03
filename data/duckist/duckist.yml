@@ -1,0 +1,45 @@
+name: Duckist
+description: An online message encryption service that enables secure,
+  self-destructing communication for remote teams. Messages are encrypted, sent
+  via a link, and can be configured to expire after a set number of views or a
+  specific time period (1 day, 1 week, 1 month).
+source_url: https://duckist.com
+category: Team Communication
+tags:
+  - encryption
+  - secure-messaging
+  - self-destructing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Duckist is an encrypted messaging service designed for secure team
+  communication. It allows team members to send messages that self-destruct
+  after a predefined number of views or time interval, protecting sensitive
+  information from unauthorized access.
+
+
+  ## Features
+
+
+  - End-to-end encryption of messages
+
+  - Link-based delivery: messages are shared via a unique URL
+
+  - Configurable expiration: set message to expire after 1 day, 1 week, or 1
+  month
+
+  - View limit: specify allowed number of views before the message is destroyed
+
+  - No account required for recipients
+
+  - Protection against hacks, siphoning, and phishing
+
+
+  ## Pricing
+
+
+  Pricing information is not publicly disclosed on the website.
+brand: Duckist
+updated_at: 2026-05-03 22:49
