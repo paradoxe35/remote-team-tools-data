@@ -612,3 +612,5 @@
   name: Self Service
 - id: customer-management
   name: Customer Management
+- id: self-destructing
+  name: Self Destructing

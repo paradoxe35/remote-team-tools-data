@@ -1,0 +1,7 @@
+name: Awesome Remote Team Tools
+initial_prompt: Generate a directory of productivity apps for remote teams
+providers: {}
+website_repo: ever-works/awesome-remote-team-tools-website
+schedule:
+  enabled: true
+  cadence: daily
