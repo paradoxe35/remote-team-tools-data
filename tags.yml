@@ -614,3 +614,13 @@
   name: Customer Management
 - id: self-destructing
   name: Self Destructing
+- id: chrome-extension
+  name: Chrome Extension
+- id: task-prioritization
+  name: Task Prioritization
+- id: decentralized
+  name: Decentralized
+- id: web3
+  name: Web3
+- id: reminders
+  name: Reminders
