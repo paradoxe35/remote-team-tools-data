@@ -1,0 +1,27 @@
+- url: https://hive.com/blog/remote-work-tools/
+  normalized_url: https://hive.com/blog/remote-work-tools
+  first_seen_at: 2026-05-05T11:59:38.089Z
+  last_attempted_at: 2026-05-05T11:59:38.089Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.gloroots.com/blog/productivity-tools-for-remote-workers
+  normalized_url: https://www.gloroots.com/blog/productivity-tools-for-remote-workers
+  first_seen_at: 2026-05-05T11:51:11.826Z
+  last_attempted_at: 2026-05-05T11:51:11.826Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.indiehackers.com/post/7-best-productivity-tools-and-productivity-apps-for-remote-teams-2024-58b0beea09
+  normalized_url: https://www.indiehackers.com/post/7-best-productivity-tools-and-productivity-apps-for-remote-teams-2024-58b0beea09
+  first_seen_at: 2026-05-05T11:57:23.175Z
+  last_attempted_at: 2026-05-05T11:57:23.175Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
