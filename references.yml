@@ -7,6 +7,33 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: No items extracted
+- url: https://luxafor.com/10-productivity-tools-every-remote-worker-should-have/
+  normalized_url: https://luxafor.com/10-productivity-tools-every-remote-worker-should-have
+  first_seen_at: 2026-05-06T11:52:28.399Z
+  last_attempted_at: 2026-05-06T11:52:28.399Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://remote4africa.com/blog/top-20-essential-remote-work-tools-to-boost-productivity-in-2024
+  normalized_url: https://remote4africa.com/blog/top-20-essential-remote-work-tools-to-boost-productivity-in-2024
+  first_seen_at: 2026-05-06T11:55:37.972Z
+  last_attempted_at: 2026-05-06T11:55:37.972Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://vibe.us/blog/top-collaboration-tools-for-remote-teams/
+  normalized_url: https://vibe.us/blog/top-collaboration-tools-for-remote-teams
+  first_seen_at: 2026-05-06T11:49:59.789Z
+  last_attempted_at: 2026-05-06T11:49:59.789Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
 - url: https://www.gloroots.com/blog/productivity-tools-for-remote-workers
   normalized_url: https://www.gloroots.com/blog/productivity-tools-for-remote-workers
   first_seen_at: 2026-05-05T11:51:11.826Z
