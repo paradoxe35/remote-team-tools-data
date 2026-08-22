@@ -1,4 +1,4 @@
-company_name: Remote Team Tools
+company_name: Awesome Remote Team Tools
 content_table: true
 item_name: Item
 items_name: Items
@@ -23,6 +23,10 @@ settings:
     search_enabled: true
     default_view: classic
     default_sort: popularity
+    hero_badge_text: Productivity for Distributed Teams
+    hero_title: The Best Tools for
+    hero_title_gradient: Remote Teams
+    hero_description: A curated directory of apps for remote and hybrid teams — communication, project and task management, documents and knowledge, time tracking, scheduling, employee engagement and workflow automation.
   footer:
     subscribe_enabled: false
     version_enabled: false
@@ -73,3 +77,6 @@ website_repo: ever-works/awesome-remote-team-tools-website
 deployProvider: k8s
 activity_sync:
   mode: pull
+logo:
+  logo_image: https://raw.githubusercontent.com/ever-works/awesome-remote-team-tools-data/master/pages/logo-light.png
+  logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-remote-team-tools-data/master/pages/logo-dark.png
