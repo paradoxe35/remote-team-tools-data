@@ -26,7 +26,9 @@ settings:
     hero_badge_text: Productivity for Distributed Teams
     hero_title: The Best Tools for
     hero_title_gradient: Remote Teams
-    hero_description: A curated directory of apps for remote and hybrid teams — communication, project and task management, documents and knowledge, time tracking, scheduling, employee engagement and workflow automation.
+    hero_description: A curated directory of apps for remote and hybrid teams —
+      communication, project and task management, documents and knowledge, time
+      tracking, scheduling, employee engagement and workflow automation.
   footer:
     subscribe_enabled: false
     version_enabled: false
